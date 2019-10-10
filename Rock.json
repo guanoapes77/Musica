@@ -21,12 +21,13 @@
       ]
     },
         {
-          "title": "Toto 35th Anniversary Tour 2013",
+      "title": "Toto 35th Anniversary Tour 2013",
       "year": "2013",
       "links": [
         {
           "url": "https://youtu.be/s021m2C7-aI",
-          "quality":"FHD",
+          "quality":"720"
+        },
         }
       ]
     }
