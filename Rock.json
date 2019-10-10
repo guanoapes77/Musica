@@ -2,20 +2,20 @@
   "movies_list": [
     {
       "title": "Metallica - Live in Berlin, Germany 2019",
-      "year": "",
+      "year": "2019",
       "links": [
         {
-          "url": "https://www.youtube.com/watch?v=s_hYeCZo2Nw&feature=youtu.be",
+          "url": "https://youtu.be/s_hYeCZo2Nw",
           "quality":"720"
         }
       ]
     },
     {
       "title": "Iron Maiden Rock in Rio 2019 10/04/2019",
-      "year": "https://youtu.be/kroIhGPj4Ho",
+      "year": "2019",
       "links": [
         {
-          "url": "",
+          "url": "https://youtu.be/kroIhGPj4Ho",
           "quality":"720"
         },
         {
