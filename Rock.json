@@ -5,8 +5,8 @@
       "year": "2019",
       "links": [
         {
-          "url": "https://www.youtube.com/watch?v=s_hYeCZo2Nw&feature=youtu.be",
-          "quality":"720"
+          "url": "plugin://plugin.video.youtube/play/?video_id=s_hYeCZo2Nw",
+          "quality":"HD"
         }
       ]
     },
@@ -15,21 +15,27 @@
       "year": "2019",
       "links": [
         {
-          "url": "https://youtu.be/kroIhGPj4Ho",
+          "url": "plugin://plugin.video.youtube/play/?video_id=kroIhGPj4Ho",
           "quality":"720"
+        },
+        {
+          "url": "",
+          "quality":"FHD"
         }
       ]
     },
     {
-      "title": "toto",
-      "year": "",
+      "title": "Queen Live At Wembley Stadium",
+      "year": "1986",
       "links": [
         {
-          "url": "",
-          "quality":"720"
-        }, 
-        
-     
+          "url": "plugin://plugin.video.youtube/play/?video_id=Bs3RLRF5akk",
+          "quality":"SD"
+        }
+      ]
+    }
+  ]
+}
     
     
      
