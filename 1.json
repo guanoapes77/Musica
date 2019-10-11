@@ -1,16 +1,16 @@
 {
   "channel_name": "Guanoapes",
-  "fanart": "https://http2.mlstatic.com/cuadros-circulares-modernos-led-zeppelin-logos-envio-gratis-D_NQ_NP_981987-MLA30957554741_062019-F.jpg",
-  "thumbnail": "https://images.squarespace-cdn.com/content/v1/581fdba92994ca6b3ae708b8/1544647260803-O31WACRS7WOCD71L6NXF/ke17ZwdGBToddI8pDm48kOggE0Ch6pMGalwtLMqzsSB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ufo5RWkg_J4of0jUNHaDHx6pZKBvpVYzidBWCapg0tuoMuEaB2HPGSYDV-11UTcW2g/YAMAHA-RECORDING-CUSTOM-9000-40TH-ANNIVERSARY-TEMPLE-SILVER-DRUMAZON_01.jpg?format=2500w",
+  "fanart": "https://github.com/MikeKOD/ingordichannel/master/funart.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/musicathumbnail.jpg",
   "menu": [
     {
       "title": "Rock",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Rock.json",
-      "thumbnail": "https://townsquare.media/site/366/files/2015/04/TEH_MUMMIE-630x420.jpg?w=980&q=75"},
+      "link": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/Rock.json",
+      "thumbnail": "https://github.com/MikeKOD/ingordichannel/master/rock.jpg"   },
     {
       "title": "Blues",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Blues.json",
-      "thumbnail": "https://www.wvxu.org/sites/wvxu/files/styles/medium/public/201702/Blues_logo2.png"},
-    },
+      "link": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/Blues.json",
+      "thumbnail": "https://github.com/MikeKOD/ingordichannel/master/Blues.png"
+    }
   ]
 }
