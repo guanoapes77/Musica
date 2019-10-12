@@ -1,11 +1,10 @@
-{
-  "movies_list": [
+  {
+      "title": "Rock",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Rock.json",
+      "thumbnail": "https://github.com/MikeKOD/ingordichannel/master/rock.jpg"   },
     {
-      "title": "Artist A",
-      "year": "2019",
-      "links": [
-        {
-          "url": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Rock%20A.json",
-          "quality":""
-        }
+      "title": "Blues",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Blues.json",
+      "thumbnail": "https://github.com/MikeKOD/ingordichannel/master/Blues.png"
+    }
  
