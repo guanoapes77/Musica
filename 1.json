@@ -1,16 +1,18 @@
 {
   "channel_name": "Guanoapes",
-  "fanart": "https://github.com/MikeKOD/ingordichannel/master/funart.jpg",
-  "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/musicathumbnail.jpg",
   "menu": [
     {
       "title": "Rock",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Rock.json",
-      "thumbnail": "https://github.com/MikeKOD/ingordichannel/master/rock.jpg"   },
+      "link": "ruta o url del contenido que se mostrara al seleccionar esta opción"
+    },
     {
       "title": "Blues",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Blues.json",
-      "thumbnail": "https://github.com/MikeKOD/ingordichannel/master/Blues.png"
-    }
-  ]
-}
+      "link": "ruta o url del contenido que se mostrara al seleccionar esta opción"
+       {
+      "title": "Jazz",
+      "link": "ruta o url del contenido que se mostrara al seleccionar esta opción"
+    },
+     {
+      "title": "Fusion",
+      "link": "ruta o url del contenido que se mostrara al seleccionar esta opción"
+    },
