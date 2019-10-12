@@ -1,10 +1,38 @@
   {
-      "title": "Rock",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Rock%20A.json",
-      "thumbnail": "https://github.com/MikeKOD/ingordichannel/master/rock.jpg"   },
-    {
-      "title": "Blues",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Blues.json",
-      "thumbnail": "https://github.com/MikeKOD/ingordichannel/master/Blues.png"
-    }
- 
+  "tvshows_list": [
+    { "title":"Rock",
+      "seasons_list": [
+        {
+          "season": "A",
+          "link": "ruta o url del json que contiene los episodios de esta temporada"
+        },
+        {"season":"B",
+         "link":"ruta o url del json que contiene los episodios de esta temporada"
+        },
+     { "title":"Blues",
+      "seasons_list": [
+        {
+          "season": "A",
+          "link": "ruta o url del json que contiene los episodios de esta temporada"
+        },
+        {"season":"B",
+         "link":"ruta o url del json que contiene los episodios de esta temporada"
+        },
+      { "title":"Jazz",
+      "seasons_list": [
+        {
+          "season": "A",
+          "link": "ruta o url del json que contiene los episodios de esta temporada"
+        },
+        {"season":"B",
+         "link":"ruta o url del json que contiene los episodios de esta temporada"
+        },
+      { "title":"Fusion",
+      "seasons_list": [
+        {
+          "season": "A",
+          "link": "ruta o url del json que contiene los episodios de esta temporada"
+        },
+        {"season":"B",
+         "link":"ruta o url del json que contiene los episodios de esta temporada"
+        },  
