@@ -1,8 +1,13 @@
 {
-  "channel_name": "Guanoapes",
+  "channel_name": "prova",
   "menu": [
     {
-      "title": "Rock",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Rock.json"
+      "title": "Opción a mostrar en el menú (películas, series, etc)",
+      "link": "ruta o url del contenido que se mostrara al seleccionar esta opción"
     },
- 
+    {
+      "title": "Otra opción a mostrar en el menú, se pueden agregar tantos como sean necesarios",
+      "link": "ruta o url del contenido que se mostrara al seleccionar esta opción"
+    }
+  ]
+}
