@@ -3,7 +3,7 @@
   "menu": [
     {
       "title": "Rock",
-      "link": "ruta o url del contenido que se mostrara al seleccionar esta opción"
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Rock.json"
     },
     {
       "title": "Blues",
