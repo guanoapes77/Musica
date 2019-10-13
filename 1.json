@@ -1,13 +1,17 @@
 {
-  "channel_name": "prova",
+  "channel_name": "Guanoapes",
+  "fanart": "link diretto dell'immagine scelta",
+  "thumbnail": "link diretto dell'immagine scelta",
   "menu": [
     {
-      "title": "Opción a mostrar en el menú (películas, series, etc)",
-      "link": "ruta o url del contenido que se mostrara al seleccionar esta opción"
+      "title": "Rock",
+      "link": "link diretto a FILE 2",
+      "thumbnail": "https://github.com/MikeKOD/ingordichannel/blob/master/rock.jpg?raw=true"
     },
     {
-      "title": "Otra opción a mostrar en el menú, se pueden agregar tantos como sean necesarios",
-      "link": "ruta o url del contenido que se mostrara al seleccionar esta opción"
+      "title": "Blues",
+      "link": "link diretto al FILE 3",
+      "thumbnail": "https://github.com/MikeKOD/ingordichannel/blob/master/Blues.png?raw=true"
     }
   ]
-}
+} 
