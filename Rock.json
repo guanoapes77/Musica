@@ -1,38 +1,38 @@
-  {
-  "tvshows_list": [
-    { "title":"Rock",
-      "seasons_list": [
+{
+  "movies_list": [
+    {
+      "title": "Metallica - Live in Berlin, Germany 2019",
+      "year": "2019",
+      "links": [
         {
-          "season": "A",
-          "link": "ruta o url del json que contiene los episodios de esta temporada"
-        },
-        {"season":"B",
-         "link":"ruta o url del json que contiene los episodios de esta temporada"
-        },
-     { "title":"Blues",
-      "seasons_list": [
+          "url": "https://www.youtube.com/watch?v=s_hYeCZo2Nw",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "Iron Maiden Rock in Rio 2019 10/04/2019",
+      "year": "2019",
+      "links": [
         {
-          "season": "A",
-          "link": "ruta o url del json que contiene los episodios de esta temporada"
+          "url": "https://www.youtube.com/watch?v=kroIhGPj4Ho",
+          "quality":"720"
         },
-        {"season":"B",
-         "link":"ruta o url del json que contiene los episodios de esta temporada"
-        },
-      { "title":"Jazz",
-      "seasons_list": [
         {
-          "season": "A",
-          "link": "ruta o url del json que contiene los episodios de esta temporada"
-        },
-        {"season":"B",
-         "link":"ruta o url del json que contiene los episodios de esta temporada"
-        },
-      { "title":"Fusion",
-      "seasons_list": [
+          "url": "",
+          "quality":"FHD"
+        }
+      ]
+    },
+    {
+      "title": "Queen Live At Wembley Stadium",
+      "year": "1986",
+      "links": [
         {
-          "season": "A",
-          "link": "ruta o url del json que contiene los episodios de esta temporada"
-        },
-        {"season":"B",
-         "link":"ruta o url del json que contiene los episodios de esta temporada"
-        },  
+          "url": "https://www.youtube.com/watch?v=gXXMsW3fHvk",
+          "quality":"SD"
+        }
+      ]
+    }
+  ]
+}
