@@ -5,7 +5,7 @@
   "menu": [
     {
       "title": "Rock",
-      "link": "link diretto a FILE 2",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Rock.json",
       "thumbnail": "https://github.com/MikeKOD/ingordichannel/blob/master/rock.jpg?raw=true"
     },
     {
