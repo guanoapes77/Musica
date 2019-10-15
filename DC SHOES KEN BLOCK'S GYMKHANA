@@ -3,6 +3,11 @@
   "fanart": "https://i.ytimg.com/vi/xpB25Cn-vXA/maxresdefault.jpg",
   "thumbnail": "https://d3lp4xedbqa8a5.cloudfront.net/imagegen/max/ccr/1023/-/s3/digital-cougar-assets/whichcar/2018/12/14/63312/Ken-Block-Gymkhana-cars-ranked-feature.jpg",
   "menu": [
+   {
+      "title": "GYMKHANA",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Rock.json",
+      "thumbnail": "https://github.com/MikeKOD/ingordichannel/blob/master/rock.jpg?raw=true"
+    },
     }
   ]
 } 
