@@ -67,7 +67,7 @@
       ]
     },
     {
-      "title": "Guns N' Roses Live at the Ritz 1988 HD",
+      "title": "Guns N' Roses - Live at the Ritz 1988 HD",
       "year": "1988",
       "poster": "https://img.discogs.com/bb-iw_YVrD2ir1NRf9NwOHinYoo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6620078-1423243900-9380.jpeg.jpg",
       "links": [
@@ -78,9 +78,9 @@
       ]
     },
     {
-      "title": "Guns & Roses [HD 720p 16/9] : Live in Paris (1992)",
+      "title": "Guns & Roses - Live in Paris (1992)",
       "year": "1992",
-      "poster": "https://pics.filmaffinity.com/Guns_N_Roses_Live_in_Paris-312862123-mmed.jpg",
+      "tmdb_id": "4661956",
       "links": [
         {
           "url": "https://www.youtube.com/watch?v=8tQfusPpLZE",
@@ -91,6 +91,7 @@
     {
       "title": "The Doors Live at the Bowl 1968 1080p HD",
       "year": "1968",
+      "tmdb_id": "2620886",
       "poster": "https://m.media-amazon.com/images/M/MV5BODMyODE1MDEtYjQ2Ni00NzhlLTk2ZDQtNWMxZDQyN2IxYjg5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY268_CR9,0,182,268_AL_.jpg",
       "links": [
         {
