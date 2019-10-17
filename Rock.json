@@ -208,8 +208,10 @@
         {
           "url": "https://www.youtube.com/watch?v=oksphy2zJqQ",
           "quality":"SD" 
-        },
-        {
+           }
+         ]
+      },
+      {
       "title": "RED HOT CHILI PEPPERS - Rock In Rio",
       "year": "2019",
       "poster": "https://i.ytimg.com/vi/HoxGxjRnJz4/maxresdefault.jpg",
@@ -217,8 +219,10 @@
         {
           "url": "https://www.youtube.com/watch?v=HoxGxjRnJz4",
           "quality":"SD" 
-        },
-        {
+            }
+          ]
+       },
+       {
       "title": "FOO FIGHTERS - Rock in Rio 2019",
       "year": "2019",
       "poster": "https://http2.mlstatic.com/ingresso-rock-in-rio-2019-foo-fighters-meia-dia-28-D_NQ_NP_846871-MLB31419602387_072019-F.jpg",
