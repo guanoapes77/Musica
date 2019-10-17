@@ -240,6 +240,17 @@
       "links": [
         {
           "url": "https://www.youtube.com/watch?v=8D6vas5iLvY",
+          "quality":"SD"
+             }
+           ]
+       },
+       {
+      "title": "DEPECHE MODE - One night in Paris",
+      "year": "2002",
+      "poster": "https://images-na.ssl-images-amazon.com/images/I/515AoncvolL._SX342_.jpg",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=s3UyAKXVktc",
           "quality":"SD" 
         }  
       ]
