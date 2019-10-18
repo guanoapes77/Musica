@@ -4,6 +4,11 @@
   "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/musicathumbnail.jpg",
   "menu": [
     {
+      "title": "Avviso Elementum",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Avviso%20Elementum",
+      "thumbnail": "https://github.com/MikeKOD/ingordichannel/blob/master/rock.jpg?raw=true"
+    }, 
+    {
       "title": "Rock",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Rock.json",
       "thumbnail": "https://github.com/MikeKOD/ingordichannel/blob/master/rock.jpg?raw=true"
