@@ -36,10 +36,10 @@
     {
       "title": "torrent",
       "year": "",
-      "poster": "https://images-na.ssl-images-amazon.com/images/I/51lww09FbkL.jpg",
+      "poster": "https://i.ytimg.com/vi/4NX9NZA-EM8/maxresdefault.jpg",
       "links": [
         {
-          "url": "https://www.youtube.com/watch?v=NwZn0_6MabE",
+          "url": "magnet:?xt=urn:btih:12ef93d689647d3444f1b34a2e23de4db5cc652a&dn=The+Beatles+-+Abbey+Road+%28The+50th+ASD%29+%5B1967%2F2019%5D+Blu-Ray&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.ccc.de%3A80",
           "quality":"SD"
         }
       ]
