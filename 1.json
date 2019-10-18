@@ -5,11 +5,6 @@
   "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71X%2BE2aWzAL._SX466_.jpg",  
   "menu": [
     {
-      "title": "Per visualizzare alcuni video Torrent e' necessario l'addon Elementum scricabile da qui: https://elementum.surge.sh",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Avviso%20Elementum",
-      "thumbnail": "https://github.com/MikeKOD/ingordichannel/blob/master/rock.jpg?raw=true"
-    }, 
-    {
       "title": "Rock",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Rock.json",
       "thumbnail": "https://github.com/MikeKOD/ingordichannel/blob/master/rock.jpg?raw=true"
