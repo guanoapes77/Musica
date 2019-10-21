@@ -17,7 +17,7 @@
       "poster": "https://static.radio.it/images/broadcasts/dc/13/9126/1/c300.png",
       "links": [
         {
-          "url": "http://www.antenne.de/webradio/channels/classic-rock-live",
+          "url": "http://shoutcast.rtl.it:3060/",
           "quality":"mp3"  
          }  
       ]
