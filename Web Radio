@@ -39,7 +39,7 @@
       "poster": "http://images.tritondigitalcms.com/6616/sites/641/2015/09/20041104/WRKN-FM-Alt923-PurpleBlack.png",
       "links": [      
         {
-          "url": "http://provisioning.streamtheworld.com/pls/WRKNFMAAC.pls",
+          "url": "https://18223.live.streamtheworld.com/WEZBFMAAC.aac",
           "quality":"mp3"        
         }  
       ]
