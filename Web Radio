@@ -14,8 +14,8 @@
     {
       "title": "RTL Radiofreccia",
       "year": "2019",
-      "links": [
       "poster": "https://i.ytimg.com/vi/4JPTcD4D_E4/maxresdefault.jpg",
+      "links": [      
         {
           "url": "http://shoutcast.rtl.it:3060/",
           "quality":"mp3"  
