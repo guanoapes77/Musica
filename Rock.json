@@ -263,6 +263,17 @@
         {
           "url": "magnet:?xt=urn:btih:C8988481F693FD5E6FA5499D11D4CDAF3D0E137D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
           "quality":"SD" 
+              }
+           ]
+       },
+       { 
+      "title": "The Beatles - Abbey Road - 1969-2019 (BluRay REMUX 1080p)",
+      "year": "1995",
+      "poster": "https://i.imgur.com/jgOuS2a.jpg",
+      "links": [
+        {
+          "url": "magnet:?xt=urn:btih:654C4C62E40E5ABF1F7E72D4EC0977A99ADCAD7B&dn=%5BRequest%5D%20The%20Beatles%20-%20Abbey%20Road%20%281969-2019%29%28Anniversary%20Edition%29%28BluRay%20REMUX%201080p%29&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://retracker.akado-ural.ru:80/announce&tr=udp://tracker.filepit.to:6969/announce&tr=udp://newtoncity.org:6969/announce&tr=http://open.acgtracker.com:1096/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=http://gwp2-v19.rinet.ru:80/announce&tr=http://tracker.yoshi210.com:6969/announce&tr=udp://amigacity.xyz:6969/announce&tr=udp://torrentclub.tech:6969/announce&tr=http://bt2.archive.org:6969/announce&tr=udp://tracker.msm8916.com:6969/announce",
+          "quality":"SD" 
         }  
       ]
     }
