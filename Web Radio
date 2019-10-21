@@ -18,7 +18,18 @@
       "links": [      
         {
           "url": "http://shoutcast.rtl.it:3060/",
-          "quality":"mp3"    
+          "quality":"mp3"
+              }
+      ]
+    },
+    {
+      "title": "City FM Classic Rock - Amsterdam",
+      "year": "2019",
+      "poster": "https://static.radio.it/images/broadcasts/a7/3d/17495/c300.png",
+      "links": [      
+        {
+          "url": "http://live.cityfm.nl:8045/;",
+          "quality":"mp3"     
         }  
       ]
     }
