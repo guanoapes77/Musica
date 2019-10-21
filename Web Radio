@@ -8,6 +8,17 @@
         {
           "url": "http://icecast.unitedradio.it/Virgin.mp3",
           "quality":"mp3"
+        }
+      ]
+    },
+    {
+      "title": "Radio Bayern ROCK ANTENNE",
+      "year": "2019",
+      "poster": "https://static.radio.it/images/broadcasts/dc/13/9126/1/c300.png",
+      "links": [
+        {
+          "url": "http://www.antenne.de/webradio/channels/classic-rock-live.m3u ",
+          "quality":"mp3"  
          }  
       ]
     }
