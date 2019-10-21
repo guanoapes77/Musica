@@ -273,7 +273,18 @@
       "links": [
         {
           "url": "magnet:?xt=urn:btih:fc60c9ca0427fbf74416963ec678d540ddc0f8be&dn=ZZ+Top+Live+From+Texas+and+at+Montreux&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
-          "quality":"HD" 
+          "quality":"HD"
+              }
+           ]
+       },
+       {  
+      "title": "Torrent - David Gilmour - Live at Pompeii - 2017",
+      "year": "2017",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmE4MmI3NTUtYTE0MS00NzZjLWFjODktN2UwZTY4MjMyNTRkXkEyXkFqcGdeQXVyNzM5ODEzMDY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "links": [
+        {
+          "url": "magnet:?xt=urn:btih:ecade80c745c418c0f3811e00c0552f1ba332284&dn=David+Gilmour+-+Live+at+Pompeii+-+2017+%28BDRip-AVC%29&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+          "quality":"HD"      
         }  
       ]
     }
