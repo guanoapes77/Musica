@@ -19,7 +19,7 @@
         {
           "url": "http://shoutcast.rtl.it:3060/",
           "quality":"mp3"  
-               }
+        }
       ]
     },
     {
@@ -30,7 +30,7 @@
         {
           "url": "http://stream1.rds.it:8000/rds64k",
           "quality":"mp3"  
-                   }
+        }
       ]
     },
     {
@@ -41,7 +41,7 @@
         {
           "url": "http://radiomap.eu/dk/play/myrock.htm",
           "quality":"mp3"  
-         }  
+        }  
       ]
     }
   ]
