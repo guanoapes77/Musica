@@ -29,7 +29,18 @@
       "links": [      
         {
           "url": "http://live.cityfm.nl:8045/;",
-          "quality":"mp3"     
+          "quality":"mp3" 
+                 }
+      ]
+    },
+    {
+      "title": "Rock 92-3 - New Orleans' Rock Station",
+      "year": "2019",
+      "poster": "http://images.tritondigitalcms.com/6616/sites/641/2015/09/20041104/WRKN-FM-Alt923-PurpleBlack.png",
+      "links": [      
+        {
+          "url": "http://provisioning.streamtheworld.com/pls/WRKNFMAAC.pls",
+          "quality":"mp3"        
         }  
       ]
     }
