@@ -30,6 +30,17 @@
         {
           "url": "magnet:?xt=urn:btih:8d2fbb9a885e3f3bc42a1d04887430d4f4b8789a&dn=Simply+Red+-+2016-07-08+Montreux+Jazz+Festival+720p&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
           "quality":"SD"
+               }
+      ]
+    },
+    {
+      "title": "Prince - Montreux Like Jazz II",
+      "year": "2011",
+      "poster": "https://img.discogs.com/DgL-nAAfy98W0201vwJ9ndV6TK0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-8793506-1468883374-5090.jpeg.jpg",
+      "links": [
+        {
+          "url": "magnet:?xt=urn:btih:c84e3a604a0e79da5c22a923bf89cf97ddb99d29&dn=Prince+-+Montreux+Like+Jazz+II.&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+          "quality":"HD"
          }  
       ]
     }
