@@ -28,7 +28,7 @@
       "poster": "http://i99.fastpic.ru/big/2017/1215/5f/f22614c2e105d7420ce579b3d85dfc5f.jpg",
       "links": [
         {
-          "url": "https://static.t-ru.org/templates/v1/images/magnet_1.svg",
+          "url": "magnet:?xt=urn:btih:7F5F4F15E278C29E4C1CA0C2ED0EF293B9BEFDED&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet",
           "quality":"SD"
         }
       ]
