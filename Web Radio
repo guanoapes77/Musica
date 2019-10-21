@@ -30,6 +30,17 @@
         {
           "url": "http://stream1.rds.it:8000/rds64k",
           "quality":"mp3"  
+                   }
+      ]
+    },
+    {
+      "title": "myRock - DK's eneste rockradio",
+      "year": "2019",
+      "links": [
+      "poster": "https://assets.planetradio.co.uk/pi2/163Gw6mzZ6HWCyMZnHc3rCkBvgbkwc7Bn_320.jpg",
+        {
+          "url": "http://radiomap.eu/dk/play/myrock.htm",
+          "quality":"mp3"  
          }  
       ]
     }
