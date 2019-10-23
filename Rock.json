@@ -289,13 +289,24 @@
            ]
        },
        {  
-      "title": "Dave Matthews Band - The Central Park Concert (2003)",
+      "title": "Torrent - Dave Matthews Band - The Central Park Concert (2003)",
       "year": "2017",
       "poster": "https://m.media-amazon.com/images/M/MV5BNmE4MmI3NTUtYTE0MS00NzZjLWFjODktN2UwZTY4MjMyNTRkXkEyXkFqcGdeQXVyNzM5ODEzMDY@._V1_UX182_CR0,0,182,268_AL_.jpg",
       "links": [
         {
-          "URL": "magnet:?xt=urn:btih:4B53FFD1F02636AC29640C41B9E92131B39B7447&dn=&udp://tracker.torrent.eu.org:451/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://open.demonii.si:1337/announce&tr=udp://tracker.iamhansen.xyz:2000/announce&tr=udp://retracker.hotplug.ru:2710/announce&tr=udp://tracker.birkenwald.de:6969/announce&tr=udp://tracker.moeking.me:6969/announce&tr=udp://tracker.nyaa.uk:6969/announce&tr=https://tracker.vectahosting.eu:2053/announce&tr=udp://retracker.akado-ural.ru:80/announce&tr=https://tracker.publictorrent.net:443/announce&tr=http://tracker.yoshi210.com:6969/announce&tr=udp://tracker.beeimg.com:6969/announce&tr=https://opentracker.xyz:443/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://denis.stalker.upeer.me:6969/announce&tr=udp://retracker.netbynet.ru:2710/announce&tr=https://tracker.nanoha.org:443/announce&tr=http://tracker.files.fm:6969/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.0o.is:6969/announce&tr=udp://torrentclub.tech:6969/announce&tr=http://tracker.bt4g.com:2095/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://ipv6.tracker.harry.lu:80/announce&tr=http://tracker.gbitt.info:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://bt2.archive.org:6969/announce",
-          "quality":"HD"      
+          "url": "magnet:?xt=urn:btih:4B53FFD1F02636AC29640C41B9E92131B39B7447&dn=&udp://tracker.torrent.eu.org:451/announce&tr=udp://tracker.ds.is:6969/announce&tr=udp://open.demonii.si:1337/announce&tr=udp://tracker.iamhansen.xyz:2000/announce&tr=udp://retracker.hotplug.ru:2710/announce&tr=udp://tracker.birkenwald.de:6969/announce&tr=udp://tracker.moeking.me:6969/announce&tr=udp://tracker.nyaa.uk:6969/announce&tr=https://tracker.vectahosting.eu:2053/announce&tr=udp://retracker.akado-ural.ru:80/announce&tr=https://tracker.publictorrent.net:443/announce&tr=http://tracker.yoshi210.com:6969/announce&tr=udp://tracker.beeimg.com:6969/announce&tr=https://opentracker.xyz:443/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://denis.stalker.upeer.me:6969/announce&tr=udp://retracker.netbynet.ru:2710/announce&tr=https://tracker.nanoha.org:443/announce&tr=http://tracker.files.fm:6969/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://tracker.0o.is:6969/announce&tr=udp://torrentclub.tech:6969/announce&tr=http://tracker.bt4g.com:2095/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://ipv6.tracker.harry.lu:80/announce&tr=http://tracker.gbitt.info:80/announce&tr=udp://opentor.org:2710/announce&tr=udp://bt2.archive.org:6969/announce",
+          "quality":"HD"
+              }
+           ]
+       },
+       {  
+      "title": "Torrent - KISS Live In Vegas",
+      "year": "2016",
+      "poster": "hhttp://en.metal-tracker.com/torrents/images/1838600.jpg",
+      "links": [
+        {
+          "url": "magnet:?xt=urn:btih:561713360547189F2B7F1FF0ADA20125E15AC7DD&dn=KISS+Double+Edition+Live+In+Vegas+%26amp%3B+Rock+%26%23039%3Bn%26%23039%3B+Roll+All+Nite+720p+x264+AC3+mkv&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.tfile.me%2Fannounce&tr=http%3A%2F%2Fsecure.pow7.com%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce",
+          "quality":"HD"    
         }  
       ]
     }
