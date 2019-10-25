@@ -52,6 +52,18 @@
         {
           "url": "magnet:?xt=urn:btih:AB6ABB53047D548251E7C05430D9D85E81233AE7&dn=Michael+Brecker+-+Live+In+Japan+%282011%29+%5BDVD5+PAL%5D&tr=http%3A%2F%2Ftracker.tntvillage.scambioetico.org%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2FIPv6.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.mg64.net%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce",
           "quality":"HD"
+              }
+      ]
+    },
+    {
+      "title": "Michel Petrucciani Trio - Live in Concert (1998),
+      "year": "1998",
+      "plot": "Live from Stuttgart on February 8th, 1998Michel Petrucciani - piano Anthony Jackson - bass Steve Gadd - drums",
+      "poster": "https://rvm.pm/wp-content/uploads/2018/02/Michel-Petrucciani-Trio-Live-in-Concert-Stuttg.jpg",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=cvrP-WtHu-U",
+          "quality":"HD"   
          }  
       ]
     }
