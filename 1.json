@@ -5,9 +5,9 @@
   "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71X%2BE2aWzAL._SX466_.jpg",  
   "menu": [
     {
-      "title": "Rock",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Rock.json",
-      "thumbnail": "https://github.com/MikeKOD/ingordichannel/blob/master/rock.jpg?raw=true"
+      "title": "Animusic",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Animusic.json",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51ZJW370SNL._SY445_.jpg"
     }, 
     {
       "title": "Blues",
@@ -18,21 +18,16 @@
       "title": "Pop",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/POP.json",
       "thumbnail": "https://i.ytimg.com/vi/K55Ow7mCoho/maxresdefault.jpg"
-    },  
+    }, 
     {
-      "title": "Jazz",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Jazz",
-      "thumbnail": "https://d1nz104zbf64va.cloudfront.net/dt/a/o/top-5-jazz-musicians-you-need-to-listen.png"  
+      "title": "Rock",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Rock.json",
+      "thumbnail": "https://github.com/MikeKOD/ingordichannel/blob/master/rock.jpg?raw=true"   
     },  
     {
       "title": "Web Radio",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio",
-      "thumbnail": "https://www.labsus.org/wp-content/uploads/2013/06/Logo_radio.gif"
-     },  
-    {
-      "title": "Animusic",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Animusic.json",
-      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51ZJW370SNL._SY445_.jpg"  
+      "thumbnail": "https://www.labsus.org/wp-content/uploads/2013/06/Logo_radio.gif"      
     }
   ]
 } 
