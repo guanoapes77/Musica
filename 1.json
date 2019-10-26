@@ -27,7 +27,12 @@
     {
       "title": "Web Radio",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio",
-      "thumbnail": "https://www.labsus.org/wp-content/uploads/2013/06/Logo_radio.gif" 
+      "thumbnail": "https://www.labsus.org/wp-content/uploads/2013/06/Logo_radio.gif"
+     },  
+    {
+      "title": "Animusic",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Animusic.json",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51ZJW370SNL._SY445_.jpg"  
     }
   ]
 } 
