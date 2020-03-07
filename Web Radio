@@ -8,9 +8,7 @@
       "links": [
         {
           "url": "http://icecast.unitedradio.it/Virgin.mp3",
-          "quality":"mp3"
-        }
-      ]
+          "quality":"mp3"    
     },
     {
       "title": "RTL Radiofreccia",
@@ -19,9 +17,7 @@
       "links": [      
         {
           "url": "http://shoutcast.rtl.it:3060/",
-          "quality":"mp3"
-              }
-      ]
+          "quality":"mp3"      
     },
     {
       "title": "City FM Classic Rock - Amsterdam",
@@ -30,9 +26,7 @@
       "links": [      
         {
           "url": "http://live.cityfm.nl:8045/;",
-          "quality":"mp3" 
-                 }
-      ]
+          "quality":"mp3"    
     },
     {
       "title": "Rock 92-3 - New Orleans' Rock Station",
@@ -41,9 +35,7 @@
       "links": [      
         {
           "url": "https://18223.live.streamtheworld.com/WEZBFMAAC.aac",
-          "quality":"mp3"        
-                       }
-      ]
+          "quality":"mp3"              
     },
     {
       "title": "Grooveyard Radio (Rochester, NY)  ",
@@ -53,10 +45,8 @@
         {
           "url": "http://144.217.233.87:9008/;",
           "quality":"mp3"        
-        },  
-      {
-      [
-  {
+      },  
+      {  
     "bitrate": "112",
     "id": "s10160",
     "img": "http://cdn-radiotime-logos.tunein.com/s10160q.png",
@@ -495,9 +485,8 @@
     "label": "Luis Fonsi Ft. Demi Lovato - Echame La Culpa",
     "name": "Stajerski val 93.7 (Classic Hits)",
     "url": "http://stream.stajerskival.si:8004"
-  }
-]
+       }  
+      ]
     }
-    
   ]
-}      
+}
