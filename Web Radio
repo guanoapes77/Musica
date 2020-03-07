@@ -7,9 +7,7 @@
       "links": [
         {
           "url": "http://icecast.unitedradio.it/Virgin.mp3",
-          "quality":"mp3"
-        }
-      ]
+          "quality":"mp3"     
     },
     {
       "title": "RTL Radiofreccia",
