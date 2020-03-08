@@ -51,6 +51,17 @@
       "links": [      
         {
           "url": "http://144.217.233.87:9008/;",
+          "quality":"mp3" 
+           }
+      ]
+    },
+    {
+      "title": "100hitz - Rock USA",
+      "year": "2019",
+      "poster": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.radioline.co%2Flisten-to-100hitz-rock-hitz&psig=AOvVaw1FJTMQnvToilSwOGWb0hfy&ust=1583768341738000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiL4YObi-gCFQAAAAAdAAAAABAD",
+      "links": [      
+        {
+          "url": "http://173.244.215.162:8240/;stream",
           "quality":"mp3"        
         }  
       ]
