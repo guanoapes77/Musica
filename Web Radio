@@ -1,40 +1,25 @@
 {
-  "movies_list": [
-  {
-      "title": "BAMBINI",
-      "year": "2020",
-      "poster": "https://i.ytimg.com/vi/c30J7ACJKJI/maxresdefault.jpg",
-      "links": [
-        {
-          "url": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Bambini.json",
-          "quality":"kbps Variable" 
-     },
+  "menu": [
     {
-      "title": "ROCK",
-      "year": "2020",
-      "poster": "https://www.ladige.it/sites/www.ladige.it/files/styles/798x457/public/ROCKABOUT.png?itok=Dt9fTwhv",
-      "links": [
-        {
-          "url": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Rock.json",
-          "quality":"kbps Variable" 
+      "title": "BAMBINI",
+      "plot": "Web radio Con Musica Per Bambini",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Bambini.json",
+      "thumbnail": "https://i.ytimg.com/vi/c30J7ACJKJI/maxresdefault.jpg"
     },
     {
-      "title": "BLUES",
-      "year": "2020",
-      "poster": "https://images-eu.ssl-images-amazon.com/images/I/81JK341nZzL.png",
-      "links": [      
-        {
-          "url": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Blues.json",
-          "quality":"kbps Variable"
-     },
-     {
+      "title": "Rock",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Rock.json",
+      "thumbnail": "https://www.ladige.it/sites/www.ladige.it/files/styles/798x457/public/ROCKABOUT.png?itok=Dt9fTwhv"
+    },
+    {
+      "title": "Blues",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Blues.json",
+      "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/81JK341nZzL.png"
+    },
+    {
       "title": "Heavy Metal",
-      "year": "2020",
-      "poster": "https://images-eu.ssl-images-amazon.com/images/I/8189%2B5lLPnL.png",
-      "links": [      
-        {
-          "url": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Heavy%20Metal.json",
-          "quality":"kbps Variable" 
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Heavy%20Metal.json",
+      "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/8189%2B5lLPnL.png"
     }
   ]
 } 
