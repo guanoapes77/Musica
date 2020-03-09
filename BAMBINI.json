@@ -1,0 +1,332 @@
+{
+    "movies_list": [
+        {
+            "title": "1.FM - Kids FM Radio",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://strm112.1.fm/kidsfm_mobile_mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "181.FM - Christmas Kids",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://www.181.fm/stream/pls/181-xkids.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "1A Hits f\u00fcr Kids",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://stream.1a-webradio.de/saw-kids/mp3-128/radio-browser-1a/stream.mp3",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://stream.1a-webradio.de/saw-kids/aac-48/radiosure-1a/stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Abiding Radio Kids' songs and Bible stories",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://streams.abidingradio.org:7810/1",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Antenne Bayern - Hits f\u00fcr Kids",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://www.antenne.de/webradio/channels/hits-fuer-kids.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "ANTENNEBAYERN Hits f\u00fcr Kids (64 kbps AAC)",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://mp3channels.webradio.antenne.de/hits-fuer-kids.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Arion Kids",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://golive.onestreaming.com/arionkids",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Bright.FM Kids",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://str1.hollanddata.eu:8020/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "BrightFM Kids",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://str1.hollanddata.eu:8020/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "EBS TV-Kids",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://ebsonairios.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Efteling Kids Radio",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://rrr.sz.xlcdn.com/?account=efteling&file=hdstream&type=live&service=icecast&protocol=http&port=8000&output=pls",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/TLPSTR07.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "FluxFM - Kool Kids",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://streams.fluxfm.de/kinder2/aac-64/streams.fluxfm.de/play.m3u",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://streams.fluxfm.de/kinder2/mp3-128/streams.fluxfm.de/play.m3u",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://streams.fluxfm.de/kinder2/mp3-320/streams.fluxfm.de/play.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Generikids",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/generikids.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Jabberwocky Kids Radio",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://kidspublicradio.got.net:8000/jabberwocky.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Kuriakos Kids TV",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://c2.manasat.com:1935/kkids/kkids3/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "OpenFM - Kids",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://stream.open.fm/16",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "R.SH Kids",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://streams.rsh.de/kids/mp3-192/homepage/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Art Kids",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://air.radioart.com/fGreek_art_for_kids.mp3?dlid=",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Clasic Kids",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://37.251.146.169:7600/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "radio SAW - Hits f\u00fcr Kids",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://stream.radiosaw.de/saw-kids/mp3-128/radio-browser/stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RadioArt: Greek Art for Kids",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://live.radioart.com/fGreek_art_for_kids.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rai Radio Kids",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://icestreaming.rai.it/11.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Starkids.fm",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://eu2.radioboss.fm:8036/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Vital Radio Kids",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "https://www.radioking.com/play/vital-kids",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "ZET Kids",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://zetkid-02.cdn.eurozet.pl:8434/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "\u0414\u0435\u0442\u0441\u043a\u0438\u0439 \u0425\u0438\u0442 - Kids Hit",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://deti.volna.top/Deti",
+                    "quality": "SD"
+                }
+            ]
+        }
+    ]
+}
