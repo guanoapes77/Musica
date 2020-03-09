@@ -1,5 +1,17 @@
 {
   "movies_list": [
+  {
+      "title": "BAMBINI",
+      "year": "2020",
+      "poster": "https://i.ytimg.com/vi/c30J7ACJKJI/maxresdefault.jpg",
+      "links": [
+        {
+          "url": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Bambini.json",
+          "quality":"kbps Variable" 
+          }
+          ]
+    },
+    {
     {
       "title": "ROCK",
       "year": "2020",
@@ -13,23 +25,23 @@
     },
     {
       "title": "BLUES",
-      "year": "2019",
+      "year": "2020",
       "poster": "https://images-eu.ssl-images-amazon.com/images/I/81JK341nZzL.png",
       "links": [      
         {
           "url": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Blues.json",
-          "quality":"mp3"
+          "quality":"kbps Variable"
               }
       ]
     },
     {
       "title": "Heavy Metal",
-      "year": "2019",
+      "year": "2020",
       "poster": "https://images-eu.ssl-images-amazon.com/images/I/8189%2B5lLPnL.png",
       "links": [      
         {
           "url": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Heavy%20Metal.json",
-          "quality":"mp3" 
+          "quality":"kbps Variable" 
                         }
             ]
         }
