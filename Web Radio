@@ -8,10 +8,7 @@
         {
           "url": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Bambini.json",
           "quality":"kbps Variable" 
-          }
-          ]
-    },
-    {
+     },
     {
       "title": "ROCK",
       "year": "2020",
@@ -20,8 +17,6 @@
         {
           "url": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Rock.json",
           "quality":"kbps Variable" 
-          }
-          ]
     },
     {
       "title": "BLUES",
@@ -31,10 +26,8 @@
         {
           "url": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Blues.json",
           "quality":"kbps Variable"
-              }
-      ]
-    },
-    {
+     },
+     {
       "title": "Heavy Metal",
       "year": "2020",
       "poster": "https://images-eu.ssl-images-amazon.com/images/I/8189%2B5lLPnL.png",
@@ -42,9 +35,6 @@
         {
           "url": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Heavy%20Metal.json",
           "quality":"kbps Variable" 
-                        }
-            ]
-        }
-    ]
-}
- 
+    }
+  ]
+} 
