@@ -1,0 +1,116 @@
+{
+    "movies_list": [
+        {
+            "title": "Digital Impulse - Heavy Metal",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://orion.shoutca.st:8165",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Hard & Heavy Metal Hits Radio",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://streaming.radionomy.com/Hard-HeavyMetalHits",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Heavy Metal Radio",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://www.heavymetalradio.ro/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Heavy Metal, Radio Obozrevatel",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://relay.myradio.ua/heavymetal192.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rock Antenne - Heavy Metal",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://mp3channels.webradio.rockantenne.de/heavy-metal",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rock Antenne Heavy Metal",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://www.rockantenne.de/webradio/channels/heavy-metal.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "ROCKANTENNE Heavy Metal (64 kbps AAC)",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://mp3channels.webradio.rockantenne.de/heavy-metal.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RPR1.Heavy Metal",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://streams.rpr1.de/rpr-metal-64-aac",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://streams.rpr1.de/rpr-metal-128-mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Szpila Radio - Heavy Metal",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "links": [
+                {
+                    "url": "http://stream.szpila-radio.pl:8600/;",
+                    "quality": "SD"
+                }
+            ]
+        }
+    ]
+}
