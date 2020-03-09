@@ -1,23 +1,23 @@
 {
   "movies_list": [
     {
-      "title": "Virgin Radio",
-      "year": "2019",
-      "poster": "https://www.virginradio.it/upload/1464617857011.png",
+      "title": "ROCK",
+      "year": "2020",
+      "poster": "https://www.ladige.it/sites/www.ladige.it/files/styles/798x457/public/ROCKABOUT.png?itok=Dt9fTwhv",
       "links": [
         {
-          "url": "http://icecast.unitedradio.it/Virgin.mp3",
-          "quality":"mp3" 
+          "url": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Rock.json",
+          "quality":"kbps Variable" 
           }
           ]
     },
     {
-      "title": "RTL Radiofreccia",
+      "title": "BLUES",
       "year": "2019",
-      "poster": "https://i.ytimg.com/vi/4JPTcD4D_E4/maxresdefault.jpg",
+      "poster": "https://images-eu.ssl-images-amazon.com/images/I/81JK341nZzL.png",
       "links": [      
         {
-          "url": "http://shoutcast.rtl.it:3060/",
+          "url": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Blues.json",
           "quality":"mp3"
               }
       ]
