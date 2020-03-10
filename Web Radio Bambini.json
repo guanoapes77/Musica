@@ -12,9 +12,9 @@
             ]
         },
         {
+                   "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
             "title": "1.FM - Kids FM Radio",
-            "year": "",            
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "year": "",
             "links": [
                 {
                     "url": "http://strm112.1.fm/kidsfm_mobile_mp3",
@@ -23,10 +23,9 @@
             ]
         },
         {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
             "title": "181.FM - Christmas Kids",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://www.181.fm/stream/pls/181-xkids.pls",
@@ -35,10 +34,9 @@
             ]
         },
         {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
             "title": "1A Hits f\u00fcr Kids",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://stream.1a-webradio.de/saw-kids/mp3-128/radio-browser-1a/stream.mp3",
@@ -51,22 +49,20 @@
             ]
         },
         {
-            "title": "Abiding Radio Kids' songs and Bible stories",
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Anime Web Radio",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
-                    "url": "http://streams.abidingradio.org:7810/1",
+                    "url": "http://s6.mediastreaming.it:8090/;stream.mp3",
                     "quality": "SD"
                 }
             ]
         },
         {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
             "title": "Antenne Bayern - Hits f\u00fcr Kids",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://www.antenne.de/webradio/channels/hits-fuer-kids.m3u",
@@ -75,46 +71,9 @@
             ]
         },
         {
-            "title": "ANTENNEBAYERN Hits f\u00fcr Kids (64 kbps AAC)",
-            "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
-            "links": [
-                {
-                    "url": "http://mp3channels.webradio.antenne.de/hits-fuer-kids.aac",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
-            "title": "Arion Kids",
-            "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
-            "links": [
-                {
-                    "url": "http://golive.onestreaming.com/arionkids",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
-            "title": "Bright.FM Kids",
-            "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
-            "links": [
-                {
-                    "url": "http://str1.hollanddata.eu:8020/stream",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
             "title": "BrightFM Kids",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://str1.hollanddata.eu:8020/;",
@@ -123,22 +82,20 @@
             ]
         },
         {
-            "title": "EBS TV-Kids",
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Die Sendung mit der Maus zum H\u00f6ren",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
-                    "url": "http://ebsonairios.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+                    "url": "http://addrad.io/4455g4k",
                     "quality": "SD"
                 }
             ]
         },
         {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
             "title": "Efteling Kids Radio",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://rrr.sz.xlcdn.com/?account=efteling&file=hdstream&type=live&service=icecast&protocol=http&port=8000&output=pls",
@@ -151,78 +108,160 @@
             ]
         },
         {
-            "title": "FluxFM - Kool Kids",
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "FluxFM - Kinder",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
-                    "url": "http://streams.fluxfm.de/kinder2/aac-64/streams.fluxfm.de/play.m3u",
+                    "url": "http://streams.fluxfm.de/kinder1/mp3-320/streams.fluxfm.de/",
                     "quality": "SD"
                 },
                 {
-                    "url": "http://streams.fluxfm.de/kinder2/mp3-128/streams.fluxfm.de/play.m3u",
+                    "url": "http://streams.fluxfm.de/kinder1/mp3-128/streams.fluxfm.de/",
                     "quality": "SD"
                 },
                 {
-                    "url": "http://streams.fluxfm.de/kinder2/mp3-320/streams.fluxfm.de/play.pls",
+                    "url": "http://streams.fluxfm.de/kinder1/aac-64/streams.fluxfm.de/",
                     "quality": "SD"
                 }
             ]
         },
         {
-            "title": "Generikids",
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "KCMP Minnesota Public Radio \"Rock the Cradle\" Stream - Northfield, MN",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
-                    "url": "http://listen.radionomy.com/generikids.m3u",
+                    "url": "http://rockthecradle.stream.publicradio.org/rockthecradle.mp3",
                     "quality": "SD"
                 }
             ]
         },
         {
-            "title": "Jabberwocky Kids Radio",
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Kinder Rockradio",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
-                    "url": "http://kidspublicradio.got.net:8000/jabberwocky.m3u",
+                    "url": "http://stream.laut.fm/kinderrockradio",
                     "quality": "SD"
                 }
             ]
         },
         {
-            "title": "Kuriakos Kids TV",
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Kinder-Weihnacht",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
-                    "url": "http://c2.manasat.com:1935/kkids/kkids3/playlist.m3u8",
+                    "url": "http://stream.laut.fm/kinderweihnachtsradio",
                     "quality": "SD"
                 }
             ]
         },
         {
-            "title": "OpenFM - Kids",
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Kinderlieder Plus",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
-                    "url": "http://stream.open.fm/16",
+                    "url": "http://stream.laut.fm/kinderlieder-plus",
                     "quality": "SD"
                 }
             ]
         },
         {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Kinderlieder Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/kinderlieder",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Kinderlieder-123",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/kinderlieder-123",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Laut.FM Kinderradio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/kinderradio",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Mom\u00f3 Gyerekr\u00e1di\u00f3",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://stream1.virtualisan.net:6552/live.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Mom\u00f3 Gyerekr\u00e1di\u00f3 Mes\u00e9k",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://stream1.virtualisan.net:6552/mese.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "PianetaB WebRadio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://51.254.76.66:8062/;stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Pigy.cz \u2013 Disko Trysko",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://ice.actve.net/web-pg-disko",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Pigy.cz \u2013 Poh\u00e1dky",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://ice.actve.net/web-pg-pohadky",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
             "title": "R.SH Kids",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://streams.rsh.de/kids/mp3-192/homepage/",
@@ -231,34 +270,42 @@
             ]
         },
         {
-            "title": "Radio Art Kids",
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Radino - Mein Kinderradio Wien 103,2",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
-                    "url": "http://air.radioart.com/fGreek_art_for_kids.mp3?dlid=",
+                    "url": "http://stream01.zogl.net:8906/stream",
                     "quality": "SD"
                 }
             ]
         },
         {
-            "title": "Radio Clasic Kids",
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Radio Henri d\u00e8s",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
-                    "url": "http://37.251.146.169:7600/stream",
+                    "url": "http://17003.live.streamtheworld.com/SP_R2329710.mp3?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=dfc03174-fde7-4b7c-ca97-faf8fd46680f",
                     "quality": "SD"
                 }
             ]
         },
         {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Radio Record \u0412\u0435\u0441\u043d\u0443\u0448\u043a\u0430 FM",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://air.radiorecord.ru:8102/deti_320",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
             "title": "radio SAW - Hits f\u00fcr Kids",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://stream.radiosaw.de/saw-kids/mp3-128/radio-browser/stream.mp3",
@@ -267,22 +314,97 @@
             ]
         },
         {
-            "title": "RadioArt: Greek Art for Kids",
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Radio Teddy - Deutschpop Nonstop",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
-                    "url": "http://live.radioart.com/fGreek_art_for_kids.mp3",
+                    "url": "http://streamtdy.ir-media-tec.com/deutschpop/mp3-128/web/play.mp3",
                     "quality": "SD"
                 }
             ]
         },
         {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Radio Teddy - Gute Nacht Musik",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://streamtdy.ir-media-tec.com/gutenacht/mp3-128/web/play.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Radio Teddy - Kinder Disco",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://streamtdy.ir-media-tec.com/disco/mp3-128/web/play.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Radio Teddy - Kinderlieder",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://streamtdy.ir-media-tec.com/kinderlieder/mp3-128/web/play.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Radio Teddy - Livestream",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://streamtdy.ir-media-tec.com/live/mp3-128/web/play.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Radio Teddy - Soft Mix",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://streamtdy.ir-media-tec.com/softmix/mp3-128/web/play.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Radio Teddy - TEDDY Cool",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://streamtdy.ir-media-tec.com/cool/mp3-128/web/play.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Radio Teddy - Weihnachtslieder",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://streamtdy.ir-media-tec.com/weihnachtslieder/mp3-128/web/play.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
             "title": "Rai Radio Kids",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://icestreaming.rai.it/11.mp3",
@@ -291,10 +413,31 @@
             ]
         },
         {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "RMF Dla dzieci",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://195.150.20.8/BABY",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "Schwany 7 M\u00e4rchen Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://schwanyde.streampanel.net:2199/tunein/schwanydekinder7.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
             "title": "Starkids.fm",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://eu2.radioboss.fm:8036/stream",
@@ -303,22 +446,20 @@
             ]
         },
         {
-            "title": "Vital Radio Kids",
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "WDR KiRaKa",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
-                    "url": "https://www.radioking.com/play/vital-kids",
+                    "url": "http://wdr-kiraka-live.icecast.wdr.de/wdr/kiraka/live/mp3/128/stream.mp3",
                     "quality": "SD"
                 }
             ]
         },
         {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
             "title": "ZET Kids",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://zetkid-02.cdn.eurozet.pl:8434/",
@@ -327,16 +468,27 @@
             ]
         },
         {
-            "title": "\u0414\u0435\u0442\u0441\u043a\u0438\u0439 \u0425\u0438\u0442 - Kids Hit",
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "\u0414\u0435\u0442\u0441\u043a\u043e\u0435 \u0440\u0430\u0434\u0438\u043e",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
-                    "url": "http://deti.volna.top/Deti",
+                    "url": "http://ic7.101.ru:8000/a199",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+            "title": "\u0422\u041c-\u0420\u0430\u0434\u0438\u043e",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://radio.tmstudia.ru:8001/live",
                     "quality": "SD"
                 }
             ]
         }
     ]
-}
+}  
+           
