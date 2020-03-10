@@ -1,0 +1,140 @@
+{
+    "movies_list": [
+        {
+            "title": "- 0 N - Movies on Radio",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://images.8tracks.com/cover/i/002/705/651/movies-2216.jpg?rect=960,0,3200,3200&q=98&fm=jpg&fit=max&w=640&h=640",
+            "links": [
+                {
+                    "url": "http://0n-movies.radionetz.de/0n-movies.mp3",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://0n-movies.radionetz.de/0n-movies.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "1.FM - Movie Soundtrack",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://images.8tracks.com/cover/i/002/705/651/movies-2216.jpg?rect=960,0,3200,3200&q=98&fm=jpg&fit=max&w=640&h=640",
+            "links": [
+                {
+                    "url": "http://strm112.1.fm/moviesoundtracks_mobile_mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Cin\u00e9maradio",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://images.8tracks.com/cover/i/002/705/651/movies-2216.jpg?rect=960,0,3200,3200&q=98&fm=jpg&fit=max&w=640&h=640",
+            "links": [
+                {
+                    "url": "https://streamingV2.shoutcast.com/CineMaRadio-laradioofficielleducinema",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Cinescore",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://images.8tracks.com/cover/i/002/705/651/movies-2216.jpg?rect=960,0,3200,3200&q=98&fm=jpg&fit=max&w=640&h=640",
+            "links": [
+                {
+                    "url": "http://ice55.securenetsystems.net/DASH29",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "DLRP",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://images.8tracks.com/cover/i/002/705/651/movies-2216.jpg?rect=960,0,3200,3200&q=98&fm=jpg&fit=max&w=640&h=640",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/dlrp",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "France Musique La B.O.",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://images.8tracks.com/cover/i/002/705/651/movies-2216.jpg?rect=960,0,3200,3200&q=98&fm=jpg&fit=max&w=640&h=640",
+            "links": [
+                {
+                    "url": "http://icecast.radiofrance.fr/francemusiquelabo-hifi.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Intergalactic FM - The Dream Machine",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://images.8tracks.com/cover/i/002/705/651/movies-2216.jpg?rect=960,0,3200,3200&q=98&fm=jpg&fit=max&w=640&h=640",
+            "links": [
+                {
+                    "url": "http://radio.intergalactic.fm/3aac.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Klassik Radio - Klassik Dreams",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://images.8tracks.com/cover/i/002/705/651/movies-2216.jpg?rect=960,0,3200,3200&q=98&fm=jpg&fit=max&w=640&h=640",
+            "links": [
+                {
+                    "url": "http://stream.klassikradio.de/dreams/mp3-128/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "La Grande \u00c9vasion",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://images.8tracks.com/cover/i/002/705/651/movies-2216.jpg?rect=960,0,3200,3200&q=98&fm=jpg&fit=max&w=640&h=640",
+            "links": [
+                {
+                    "url": "https://radio.lagrandeevasion.fr/evasion.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rathergood Music from the Movies",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://images.8tracks.com/cover/i/002/705/651/movies-2216.jpg?rect=960,0,3200,3200&q=98&fm=jpg&fit=max&w=640&h=640",
+            "links": [
+                {
+                    "url": "https://content.jwplatform.com/videos/8AXJL6Qy-640.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Unleashing Epic Soundtracks",
+            "year": "",
+            "thumbnail": "",
+            "poster": "https://images.8tracks.com/cover/i/002/705/651/movies-2216.jpg?rect=960,0,3200,3200&q=98&fm=jpg&fit=max&w=640&h=640",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/unleashingepicsoundtracks.m3u",
+                    "quality": "SD"
+                }
+            ]
+        }
+    ]
+}
