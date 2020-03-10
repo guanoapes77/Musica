@@ -25,6 +25,11 @@
       "title": "Jazz",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Jazz.json",
       "thumbnail": "https://www.porto.it/radio/it_jazzradionl.jpg" 
+      },
+    {
+      "title": "FLAC Quality",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20FLAC%20Quality",
+      "thumbnail": "https://www.macitynet.it/wp-content/uploads/2017/06/FLac740.gif" 
     }
   ]
 } 
