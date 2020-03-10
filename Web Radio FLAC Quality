@@ -1,0 +1,15 @@
+{
+    "movies_list": [
+        {
+            "poster": "https://www.macitynet.it/wp-content/uploads/2017/06/FLac740.gif",
+            "title": "Magic radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://mp3.magic-radio.net/flac.m3u",
+                    "quality": "HD"
+                }
+            ]
+        }
+    ]
+}
