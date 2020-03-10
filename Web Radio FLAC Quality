@@ -1,13 +1,123 @@
 {
     "movies_list": [
         {
-            "poster": "https://www.macitynet.it/wp-content/uploads/2017/06/FLac740.gif",
+            "title": "AI Radio (FLAC)",
+            "year": "",
+            "poster": "https://hd.tudocdn.net/699506?w=700&h=500",
+            "links": [
+                {
+                    "url": "http://ai-radio.org/44.flac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "AI-Radio (FLAC)",
+            "year": "",
+            "poster": "https://hd.tudocdn.net/699506?w=700&h=500",
+            "links": [
+                {
+                    "url": "http://ai-radio.org/44.flac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Chill Out Zone Plus - Lossless/FLAC",
+            "year": "",
+            "poster": "https://hd.tudocdn.net/699506?w=700&h=500",
+            "links": [
+                {
+                    "url": "http://chillout.zone/chillout_plus",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Fr\u00e9quence 3",
+            "year": "",
+            "poster": "https://hd.tudocdn.net/699506?w=700&h=500",
+            "links": [
+                {
+                    "url": "http://hd.stream.frequence3.net/frequence3.flac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Intense Radio (Flac)",
+            "year": "",
+            "poster": "https://hd.tudocdn.net/699506?w=700&h=500",
+            "links": [
+                {
+                    "url": "http://secure.live-streams.nl/flac.flac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "JB Radio-2",
+            "year": "",
+            "poster": "https://hd.tudocdn.net/699506?w=700&h=500",
+            "links": [
+                {
+                    "url": "http://199.189.87.9:10999/flac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
             "title": "Magic radio",
             "year": "",
+            "poster": "https://hd.tudocdn.net/699506?w=700&h=500",
             "links": [
                 {
                     "url": "http://mp3.magic-radio.net/flac.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio 2.0 - Valli di Bergamo HD (FLAC)",
+            "year": "",
+            "poster": "https://hd.tudocdn.net/699506?w=700&h=500",
+            "links": [
+                {
+                    "url": "http://vps.radioduepuntozero.it:8000/stream.ogg.m3u",
                     "quality": "HD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Paradise Eclectic Mix (Flac)",
+            "year": "",
+            "poster": "https://hd.tudocdn.net/699506?w=700&h=500",
+            "links": [
+                {
+                    "url": "http://icy-4.radioparadise.com/eclectic-flac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Paradise Rock Mix (Flac)",
+            "year": "",
+            "poster": "https://hd.tudocdn.net/699506?w=700&h=500",
+            "links": [
+                {
+                    "url": "http://icy-4.radioparadise.com/rock-flac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rondo Classic - Klasu Pro (FLAC)",
+            "year": "",
+            "poster": "https://hd.tudocdn.net/699506?w=700&h=500",
+            "links": [
+                {
+                    "url": "http://rondo.iradio.fi:8000/klasupro.flac",
+                    "quality": "SD"
                 }
             ]
         }
