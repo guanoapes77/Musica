@@ -1,10 +1,193 @@
 {
     "movies_list": [
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "- 0 N - Rock on Radio ON Rock",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://0n-rock.radionetz.de/0n-rock.mp3",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://0n-rock.radionetz.de/0n-rock.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "- 1A Rock -",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://1a-rock.radionetz.de/1a-rock.mp3",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://1a-rock.radionetz.de/1a-rock.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "101.ru - Aria",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://ic7.101.ru:8000/a118.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "AORDreamer",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://178.33.33.176:8060/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Avanzada Metallica",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://199.195.194.140:8112/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Bear Metal Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://sc6.shoutcaststreaming.us:8048/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Big R Radio - 80s Metal FM",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://bigrradio.cdnstream1.com/5186_128",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Black Label Extreme Metal Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://108.61.20.171:20406/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Blown",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://crucialvelocity.ca/blown128.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "BOLLOCKS Rock & Metal Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://s44.myradiostream.com/6588/;?type=http&nocache=1571393528?0.9592127816686777",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "ChroniX Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/chronixradio-.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "ChroniX Radio Aggression",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://usa17.fastcast4u.com:5784/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "ChroniX Radio Metalcore",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://usa17.fastcast4u.com:5508/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Crucial Velocity Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://crucialvelocity.ca/crucial128.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Crucial Velocity Radio - Stratford, ON",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://hestia2.cdnstream.com/1369_128",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "delta radio F\u00f6hnfrisur",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://streams.deltaradio.de/delta-foehnfrisur/mp3-192/mediaplayerdeltaradio",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Digital Impulse - Heavy Metal",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://orion.shoutca.st:8165",
@@ -13,10 +196,75 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Femmetal Online",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://173.236.59.83:8510/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Fire-Base-Sound-Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/fbsr",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Free FM Rock Madrid",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://tachyon.shoutca.st:8298",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Free FM Rock Yokohama",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://tachyon.shoutca.st:8298",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "FUZZ Radijas",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://185.5.55.179:8080/;stream.mp3?1570880494069",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Hang 10 Rock Radio - Tofino, BC",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://158.69.227.214:8113/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Hard & Heavy Metal Hits Radio",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://streaming.radionomy.com/Hard-HeavyMetalHits",
@@ -25,10 +273,20 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Hard Rock Heaven",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://listen.cdnstream.com/hrhradio/1521_128.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Heavy Metal Radio",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://www.heavymetalradio.ro/listen.pls",
@@ -37,10 +295,9 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Heavy Metal, Radio Obozrevatel",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://relay.myradio.ua/heavymetal192.mp3",
@@ -49,10 +306,449 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Insane Realm Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://usa13.fastcast4u.com:5216/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KNAC.COM PURE ROCK",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://s5.voscast.com:7346/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "La Metro 88.5 FM",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://radios-ec.cdn.nedmedia.io/radios/ec-lametro.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "LA ROCKS RADIO",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://listen.larocksradio.com/larocksradio.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Melodic Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://melodicradio.eu/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Mercy R\u00e1di\u00f3 - Magyar Rock",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream.mercyradio.eu/rock.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Metal Invasion Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://91.121.59.45:8110/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Metal knight radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/-metalknightradio-",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Metal Live Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://s7.radiohost.pl:2199/tunein/merz.asx",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Metal Messiah Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://185.80.220.12:8024/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Metal Nation Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://198.100.145.185:8900/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Metal PR",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://174.37.159.206:8016/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Metal Rock Radio 64kb AAC",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://158.69.38.195:20052/stream/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Metal Shop Rocks",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/METALSHOP",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Metallica & Iron Maiden ONLY",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://46.4.184.212:8000/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "mETaLmuSicRaDio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://radio.m69.co:8000/128K.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Mex Rock",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream.diazol.hu:31010/rock.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Midnight Madness Metal Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://midnight-madness.eradioweb.com:8000/live.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Pinguin Aardschok",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://178.18.137.248/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Power FM - Rock FM",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://s39.myradiostream.com:11590/listen/;.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "PureRock.US - America's Pure Rock",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://rosetta.shoutca.st:8524/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Q101 All Hard Rock",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/allhardrock-q101com.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio Backstage - Heavy Rock",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://50.7.77.116:8442/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio Beat",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://icecast2.play.cz/radiobeat128.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio BOB!",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://bob.hoerradar.de/radiobob-live-mp3-hq?sABC=59p66q9n%230%23rnoopr590o2qqrp5qsq2s8p24q12pp2n%23zrqvncynlreobo&amsparams=playerid:mediaplayerbob;skey:1506176410",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "RADIO BOB! BOBs Dunkler Parabelritter",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://streams.radiobob.de/ritter/mp3-192/streams.radiobob.de/play.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "RADIO BOB! BOBs Harte Saite",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://streams.radiobob.de/bob-hartesaite/mp3-192/streams.radiobob.de/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "RADIO BOB! BOBs Metal",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://streams.radiobob.de/bob-metal/mp3-192/streams.radiobob.de/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio FMR",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream.radio-fmr.net:8000/radio-fmr.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio Metal ON - 80s HNH",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://188.165.212.92:8030/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio Metal ON - The Heavy",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://188.165.212.92:8000/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio Metal ON - Total",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://188.165.212.92:8050/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio Quergedacht Quer Gerockt",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://stream.laut.fm/quer-gerockt",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio todamax",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/todamax",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio X - Metal X",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://158.193.82.41:8000/metal.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio101 rock",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://live.radio101.hr:9578",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "RadioBOB Metal (64 kbps AAC)",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://streams.radiobob.de/bob-metal/aac-64/mediaplayer",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "RadioBOB Metallica (64 kbps AAC)",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://streams.radiobob.de/metallica/aac-64/mediaplayer/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "RadioBOB Wacken (64 kbps AAC)",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://streams.radiobob.de/bob-wacken/aac-64/mediaplayer",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "RauteMusik Wacken Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://wackenradio-high.rautemusik.fm",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Rock Antenne - Heavy Metal",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://mp3channels.webradio.rockantenne.de/heavy-metal",
@@ -61,10 +757,9 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Rock Antenne Heavy Metal",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://www.rockantenne.de/webradio/channels/heavy-metal.m3u",
@@ -73,10 +768,31 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "ROCK ANTENNE Heavy-Metal",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://www.rockantenne.de/webradio/channels/heavy-metal.aac.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Rock Radio Online Mexico",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/pls/SAM07AAC286.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "ROCKANTENNE Heavy Metal (64 kbps AAC)",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://mp3channels.webradio.rockantenne.de/heavy-metal.aac",
@@ -85,29 +801,155 @@
             ]
         },
         {
-            "title": "RPR1.Heavy Metal",
-            "year": "",
-            "thumbnail": "",
             "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "RockFM 88,8",
+            "year": "",
             "links": [
                 {
-                    "url": "http://streams.rpr1.de/rpr-metal-64-aac",
-                    "quality": "SD"
-                },
-                {
-                    "url": "http://streams.rpr1.de/rpr-metal-128-mp3",
+                    "url": "http://skyplus.babahhcdn.com/rck",
                     "quality": "SD"
                 }
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Rockhausradio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream.rockhausradio.de/rockhausradio",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "RockRadio1",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://www.rockradio1.com/winamplink.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "starfm N\u00fcrnberg",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://85.25.209.152:80/nuernberg.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Stone Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://eu4.fastcast4u.com:5248/;stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Stoned Meadow of Doom",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/stonedmeadowofdoom.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Szpila Radio - Heavy Metal",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://stream.szpila-radio.pl:8600/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Szpila Radio - Rock/Metal",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream.szpila-radio.pl:8400/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Tangra",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream-bg-01.radiotangra.com:8000/Tangra-high",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "up_the_irons",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://laut.fm/up_the_irons",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Wild Rock Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://209.133.216.3:7100",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Wild Rock Radio Spacialnet",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://209.133.216.3:7100/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Z-Rock bTV",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://46.10.150.243/z-rock.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "ZrockRadio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://193.108.24.6:8000/zrock",
                     "quality": "SD"
                 }
             ]
