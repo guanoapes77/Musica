@@ -5,10 +5,10 @@
   "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71X%2BE2aWzAL._SX466_.jpg",  
   "menu": [
     {
-      "title": "Animusic",
-      "plot": "Animusic è una ditta americana specializzata nella visualizzazione 3D guidata da musica basata su MIDI. Fondata da Wayne Lytle, ha uffici a New York e anche in Texas e California. Il nome originario della compagnia era Visual Music, poi cambiato in Animusic nel 1995",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Animusic.json",
-      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51ZJW370SNL._SY445_.jpg"
+      "title": "Web Radio",
+      "plot": "Ëntra ed ascolta centinaia di Web Radio!!!",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio",
+      "thumbnail": "https://www.labsus.org/wp-content/uploads/2013/06/Logo_radio.gif"  
     }, 
     {
       "title": "Blues",
@@ -26,12 +26,14 @@
       "thumbnail": "https://www.iostudionews.it/wp-content/uploads/2019/04/rock-10-e-lode.jpg"   
     },  
     {
-      "title": "Web Radio",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio",
-      "thumbnail": "https://www.labsus.org/wp-content/uploads/2013/06/Logo_radio.gif"  
+       "title": "Animusic",
+      "plot": "Animusic è una ditta americana specializzata nella visualizzazione 3D guidata da musica basata su MIDI. Fondata da Wayne Lytle, ha uffici a New York e anche in Texas e California. Il nome originario della compagnia era Visual Music, poi cambiato in Animusic nel 1995",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Animusic.json",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51ZJW370SNL._SY445_.jpg"
      },  
      {
       "title": "Ken Block",
+      "plot": "Ken Block (Long Beach, 21 novembre 1967) è un pilota di rally, imprenditore e stuntman statunitense",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/KEN%20BLOCK",
       "thumbnail": "https://motori.ilmessaggero.it/photos/HIGH/30/90/703090_20141118_larry_chen_speedhunters_ken_block_gymkhana_seven-1.jpg" 
     }
