@@ -20,6 +20,11 @@
       "title": "Heavy Metal",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Heavy%20Metal.json",
       "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/8189%2B5lLPnL.png"
+     },
+    {
+      "title": "Jazz",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Jazz.json",
+      "thumbnail": "https://www.porto.it/radio/it_jazzradionl.jpg" 
     }
   ]
 } 
