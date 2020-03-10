@@ -5,9 +5,14 @@
   "thumbnail": "https://d3lp4xedbqa8a5.cloudfront.net/imagegen/max/ccr/1023/-/s3/digital-cougar-assets/whichcar/2018/12/14/63312/Ken-Block-Gymkhana-cars-ranked-feature.jpg",
   "menu": [
    {
-      "title": "GYMKHANA",
+      "title": "Gymkhana",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Gymkhana",
       "thumbnail": "https://i.ytimg.com/vi/_bkX5VkZg8U/maxresdefault.jpg"
+      }, 
+    {
+      "title": "Climbkhana",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Gymkhana",
+      "thumbnail": "https://i.ytimg.com/vi/Mk3UJ4iR0ik/hqdefault.jpg"
     }
   ]
 } 
