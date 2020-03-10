@@ -1,0 +1,1497 @@
+{
+    "movies_list": [
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "1.FM - Otto's Classical Music Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://185.33.22.15:11077/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "101.ru - Pop Classical Music",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://ic7.101.ru:8000/a97?userid=0&setst=8umjdcan6pb2e82lnn5p7567q7&tok=32823134N0Tkm%2FjEeJL415Aajwneew%3D%3D5",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "101.ru Pop Classical Music",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://ic7.101.ru:8000/a97?userid=0&setst=pbqlcptcgotdekhobjvnsqno01&tok=20981950N0Tkm%2FjEeJJO9g13g1Wtvw%3D%3D37",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "181.FM - Classical Guitar",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://www.181.fm/stream/pls/181-classicalguitar.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "181.FM - Classical Jazz",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://listen.181fm.com/181-classicaljazz_128k.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "181.FM - Classical Music",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://www.181.fm/stream/pls/181-classical.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "181.FM Classical Jazz",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://listen.181fm.com/181-classicaljazz_128k.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Abacus Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://178.33.232.106:8030/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Allzic Radio Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://allzic06.ice.infomaniak.ch/allzic06.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Audiophile Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://94.23.201.38:8010/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Beijing Classical Music Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://audiolive.rbc.cn:1935/live/fm986/96K/tzwj_video.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Bru Zane Classical Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://188.165.11.220/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Capital Public Radio Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/ClassicalStream.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Chinese Classical Music",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://radio2.chinesemusicworld.com:80/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Chroma - Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://chromaradio.com:8008/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://strm112.1.fm/classical_mobile_mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Classical 1 \u2013 UK",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://178.33.232.106:8500/stream;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Classical 102",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://tuner.classical102.com/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Classical Highlights",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://c9icyelb.prod.playlists.ihrhls.com/6377_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Classical MPR - Choral",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://choral.stream.publicradio.org/choral.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Classical WCBU2",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://wgltradio01b.ilstu.edu:8443/wcbuclassical.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Classical WETA",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream.weta.org:8000/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Classical WETA 90.9 FM",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://weta.org/playlist/classical.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "CNR-4 Classical Music",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://http.qingting.fm/389.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Digital Impulse - Classical Channel",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://orion.shoutca.st:8978/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Fallout 4 Classical Radio - Fallout.gm",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://fallout.fm:8000/falloutfm7.ogg",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Fallout 76 Classical - Fallout.fm",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://fallout.fm:8000/falloutfm9.ogg",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Harbin Classical Music Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://lhttp.qingting.fm/live/5022338/64k.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Hi On Line Classical Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://82.94.166.107:8088/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Hi On Line Radio - Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://mediaserv30.live-streams.nl:8088/live",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Hi Online Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://82.94.166.107:8088/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Houston Public Media - Classical (KUHF)",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://hpm.streamguys1.com/classical-mp3.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Hupei Classical Music Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://live7.hbtv.com.cn/masvod/hbjdyygb_q1/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "ITU College Radio -Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://160.75.86.29:8088/stream/5/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Jamendo Music - Classical Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://streaming.radionomy.com/JamendoClassical",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KAZU-HD2 Classical Stream - Pacific Grove, CA",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://icecast.csumb.edu:8000/livehd2high",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KBAQ 89.5 \"K-Bach\" Classical - Phoenix, AZ",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream.kbaq.org/kbaq_mp3_128",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KBIA-HD2 Classical Columbia, MO (KMUC)",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/KBIAHD2AAC.m3u",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KBYU-FM Provo, UT \"Classical 89\" [MP3]",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://cdn.byub.org/classical89/classical89_mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KCNV 89.7 Nevada Public Radio Classical Stream - Las Vegas, NV",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://66.209.79.122:8002/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KDAQ-HD2 \"Red River Radio Classical Stream\" Shreveport, LA",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/KDAQHD2.m3u",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Kiangsu Classical Music Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KISS Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/irelandskissclassical",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KLRE Classical 90.5 (UALR Public Radio) Little Rock, AR",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/KLREFM.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KMStudio - New Age Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://c9.inlive.co.kr:5140/;stream/1",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KNCJ Nevada Classical and Jazz",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://kncjstream.com:8443/live",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "kpbs Classical San Diego",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://kpbs-classical.streamguys1.com/kpbs-classical",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KPBS-HD2 Classical San Diego",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://kpbs.streamguys1.com/kpbs-mp3",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KQAC 89.9 \"All Classical Portland\" Portland, OR",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://allclassical-ice.streamguys.com/ac32kmp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KQAC 89.9 \"All Classical Portland\" Portland, OR (96 kbps AAC)",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://allclassical-ice.streamguys.com:80/ac96k",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KRFA 91.7 Northwest Public Radio NPR & Classical Music - Moscow, ID",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://streams.nwpr.org:8000/NWPRCLASSICAL",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KSJN 99.5 \"Classical Minnesota Public Radio\" Minneapolis-St. Paul, MN",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://cms.stream.publicradio.org/cms.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KTTZ-HD2 \"Texas Tech Public Media \"Classical 24\" Lubbock, TX",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/KTTZHD2.m3u",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KUAF-HD2 Classical Stream - Fayetteville, AR",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://war.streamguys1.com:7031/kuaf2",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KUAT Classical 90.5",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://128.196.34.144/t-stream/kuat.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KUER 90.1 HD3 Salt Lake City, UT (Classical 24) [high]",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://audio.kuer.org:8000/kuer3high",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KUER 90.1 HD3 Salt Lake City, UT (Classical 24) [low]",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://audio.kuer.org:8000/kuer3low",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KUWY 88.5 \"Classical Wyoming\" Laramie, WY",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://wprhqstream4.uwyo.edu/kuwy128.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KVOD 88.1 Colorado Public Radio - Classical - Denver, CO  AAC+",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream2.cprnetwork.org:8000/cpr2_aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KVOD 88.1 Colorado Public Radio - Classical - Denver, CO  MP3",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://66.162.107.142/cpr2_lo",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://stream2.cprnetwork.org:8000/cpr2_lo",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KWTU 88.7 Public Radio Tulsa Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/KWTUFMAAC.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Linn Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://89.16.185.174:8004/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Ludwig Radio - Best of Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://streaming.radionomy.com/BestofClassical-LudwigRadiocom",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Minnesota Public Radio Classical Music Stream",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://ycradio.stream.publicradio.org/ycradio.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "MPR Classical Lullabies",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://50.31.167.235/lullabies.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "naxi radio - classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://naxidigital-classic128.streaming.rs:8030/;stream.nsv",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Prairie Public Radio FM 1 Classical (KCND)",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/KCNDHD2.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Public Domain Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://relay.publicdomainproject.org/classical.mp3.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio Art - Classical for sleep",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://live.radioart.com/fClassical_for_sleep.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio Caprice - Classical Baroque",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://79.111.14.76:8002/baroque",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://79.111.14.76:8002/baroque",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio Caprice - Classical Guitar",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://79.120.39.202:8002/classguitar",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio Caprice - Classical Piano",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://79.120.39.202:9069/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio Caprice - Contemporary Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://79.111.119.111:8002/contclass",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio Caprice - Modern Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://79.120.39.202:8002/modernclassical",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio Caprice - Neoclassical Music",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://79.120.39.202:8002/neoclassical",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "radio domeldo - classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://185.105.4.53/proxy/radiodomeldolive?mp=/;stream.mp3/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio Galaxy Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/classicalgalaxynetwork.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radiorecord Classical Sym",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://air2.radiorecord.ru:9003/symph_320",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Splash Radio - 1000 HITS Classical Music",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/1000hitsclassicalmusic.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Swissradio.ch Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://relay.publicdomainproject.org/classical.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Tsingtao Classical Music Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://lhttp.qingting.fm/live/15318181/64k.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "UK Classical Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://178.33.232.106:8500/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Vermont Public Radio \"VPR Classical\"",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://vprclassical.streamguys.net/vprclassical64.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "VivaLaVoce Classical WETA",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://weta.org/playlist/vivalavoce.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WBAA Classical 101.3 West Lafayette, IN",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://purdue.streamguys1.com/wbaa-classical.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WBNI 94.1 Northeast Indiana Public Radio Classical - Fort Wayne, IN",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://12.bteradio.com:8300/WBNI.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WCPE 89.7 \"The Classical Station.org\" Raleigh, NC",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://www.theclassicalstation.org/audio/wcpe.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WCRB  99.5 \"Classical New England\" Lowell, MA",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://audio.wgbh.org:8004",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WDAV - Classical Public Radio 89.9 FM",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://audio-mp3.ibiblio.org:8000/wdav-112k",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WDAV 89.9 \"Classical Public Radio\" Charlotte, NC",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://audio-mp3.ibiblio.org/wdav-112k",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WDPR 88.1 \"Discover Classical\" Dayton, OH",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://live.str3am.com:2520/live",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WETA \"Classical\" 90.9 FM Washington, DC",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream.weta.org:8000/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WETS-HD3 Classical & Jazz Stream - Johnson City, TN",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://wets-fm.streamguys1.com/live-3",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WEVO-HD2 \"New Hampshire Public Radio - Classical New Hampshire\" Concord, NH",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://peridot.streamguys.com:7340/classical.mp3",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WFCC 107.5 \"Cape Classical\" Chatham, MA",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://ice7.securenetsystems.net/WFCC",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WFCL \"Classical 91.1\"  Nashville Public Radio, TN",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://wpln.streamguys1.com/wfclfm.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WGCU Classical Stream - Fort Myers, FL",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WGCUFM_CLASSICAL.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WGUC \"Classical 90.9\" Cincinatti, OH",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://cpr2.streamguys.net/wguc",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WHQR-HD2 92.7 \"Classical HQR\" Wilmington, NC",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://audio-mp3.ibiblio.org/whqr_hd2",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Wisconsin Public Radio - 24 Hour Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://wpr-ice.streamguys.net/wpr-ideas-mp3-64",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WKAR Classical - East Lansing, MI",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://mozart.wkar.msu.edu/wkar-classical",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WKSU Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://stream.wksu.org/wksu3.mp3.128",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WKSU-HD3 Classical Stream - Kent, OH",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://www.wksu.org/listen/wksu3.pls",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WLRH HD2 Classical - Huntsville, AL",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/pls/WLRHHD2.pls",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WLRN-HD2 Classical - Miami, FL",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream.wlrn.mobi/WLRNHD2AAC64",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WLTR 91.3 \"South Carolina Public Radio Classical\" Columbia, SC",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WLTRFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WMEA Maine Public Broadcasting Classical Stereo Stream - Portland, ME",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/WMEA_CLASSICAL_ADP.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WMEA Maine Public Broadcasting Classical Stream - Portland, ME",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/WMEA_CLASSICAL.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WMFT Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://wfmt.streamguys1.com/main256.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WMHT Classical 89.1 - Schenectady, NY",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://wmht.streamguys1.com/wmht1",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WMPN Classical AAC+",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://15693.live.streamtheworld.com:80/WMPNFMAAC_SC",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WNED \"Classical 94.5\" Buffalo, NY",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/WNEDFM.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WNIU 90.5 Northern Public Radio Classical - Rockford, IL",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://peace.str3am.com:6840/live-128k.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WOSU 101 Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://wosu.streamguys1.com/Classical_128",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WOXR 90.9 Vermont Public Radio Classical Stream - Burlington, VT",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://vprclassical.streamguys.net/vprclassical64.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WPR 24 Hour Classical",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://wpr-ice.streamguys.net/wpr-hd2-mp3-96.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WPR's News & Classical Music Network",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://wpr-ice.streamguys.net/wpr-music-mp3-96.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WQXR (Classical)",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://stream.wqxr.org/wqxr.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WRCJ 90.9  Classical Days, Jazzy Nights - Detroit, MI",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://66.55.143.200/proxy/wrcjfm?mp=/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WRR Classical 101.1 Dallas, TX",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/WRRFMAAC.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WRTI 90.1 Temple University - Philadelphia, PA Classical Program",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/WRTI_CLASSICAL.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WSHU Classical Stream - Fairfield, CT",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://wshu.streamguys.org/wshu-classical",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WUOL 90.5 Classical Louisville, KY",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://lpm.streamguys1.com/wuol-web",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WUWF-HD2 Classical Stream Pensacola, FL",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WUWFHD2.pls",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WWFM 89.1 \"The Classical Network\" Trenton, NJ",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://wwfm.streamguys1.com/live-mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WWNO Classical Stream - University of New Orleans, LA",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://tektite.streamguys1.com:5140/wwnoclassical-mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WXXI-FM \"Classical 91.5\" Rochester, NY (AAC)",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WXXIFMAAC.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WXXI-FM \"Classical 91.5\" Rochester, NY (MP3)",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WXXIFM.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WYPR-HD3 Classical Stream - Baltimore, MD",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WYPR_HD3AAC.pls",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Your Classical - Choral",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://choral.stream.publicradio.org/choral.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Your Classical - Favorites",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://favorites.stream.publicradio.org/favorites.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Your Classical - Holiday",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://holiday.stream.publicradio.org/holiday_yc.mp3?cb=8282040137",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Your Classical - Lullabies",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://lullabies.stream.publicradio.org/lullabies.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Your Classical - Relax",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://relax.stream.publicradio.org/relax.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Your Classical Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://ycradio.stream.publicradio.org/ycradio.mp3",
+                    "quality": "SD"
+                }
+            ]
+        }
+    ]
+}
