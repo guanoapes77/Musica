@@ -1,10 +1,9 @@
 {
     "movies_list": [
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "1.FM - Blues Radio",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://strm112.1.fm/blues_mobile_mp3",
@@ -13,10 +12,9 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "181.FM - True Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://www.181.fm/stream/pls/181-blues.pls",
@@ -25,10 +23,42 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "40up Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://40upstream.live-streams.nl/40up1",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "99 Plus KFMH.com - Iowa City, IA",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/pls/KFMH_99_PLUSAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "A-Bomb Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://sky1.torontocast.com:9020/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Aardvark Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://streaming.live365.com:80/b77280_128mp3",
@@ -37,22 +67,31 @@
             ]
         },
         {
-            "title": "Alive - Live Music Radio around the clock (24h Blues, Rock, Pop)",
-            "year": "",
-            "thumbnail": "",
             "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "ABC Relax",
+            "year": "",
             "links": [
                 {
-                    "url": "http://stream.laut.fm/alive",
+                    "url": "http://listen.radionomy.com/abcrelax",
                     "quality": "SD"
                 }
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Akademickie Radio Kampus",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://193.0.98.66:8005/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Allzic Radio Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://allzic09.ice.infomaniak.ch/allzic09.mp3",
@@ -61,10 +100,46 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "American Road Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://s4.radioboss.fm:8101/stream?type=.mp3/;stream.mp3",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://s4.radioboss.fm:8101/stream?type=.mp3/;stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Antenna Iblea Broadcasting",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://dreamsiteradiocp3.com:8038/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Arctic Outpost",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://192.227.85.169:4047/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Audiophile Rock-Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://94.23.201.38:8040/;",
@@ -73,10 +148,35 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Bar Legend Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://50.7.98.106:8719/;",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://50.7.98.106:8719",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Bayou Blue Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://bayoublueradio.com:8000/live",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Bellyup4blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://72.13.82.82:5100/;",
@@ -85,10 +185,53 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Best Net Radio - Coffee House",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://bigrradio.cdnstream1.com/5156_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=178685.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Big Blue Swing 32k",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://radio.bigblueswing.com:8004/;32bit.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Big Blue Swing 64k",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://radio.bigblueswing.com:8002/;64bit.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Bizarro FM",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://192.99.44.11/proxy/gewdiuzs?mp=/;stream/1",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Blues @",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://centauri.shoutca.st:8306/live",
@@ -97,10 +240,9 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Blues and Roots Radio",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "https://streaming.radio.co/sf8db342c1/listen",
@@ -109,10 +251,9 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Blues Connection",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://199.101.51.168:8004",
@@ -121,10 +262,9 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Blues Music Fan Radio",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://ais-sa2.cdnstream1.com/1992_128.mp3",
@@ -133,50 +273,20 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Blues Radio",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://cast3.radiohost.ovh:8352/",
                     "quality": "SD"
-                },
-                {
-                    "url": "http://95.217.68.35:8352/listen.pls?sid=1",
-                    "quality": "SD"
                 }
             ]
         },
         {
-            "title": "Blues radio Athen",
-            "year": "",
-            "thumbnail": "",
             "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
-            "links": [
-                {
-                    "url": "http://live.bluesradio.gr:8352/stream/",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
-            "title": "blues.couk",
-            "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
-            "links": [
-                {
-                    "url": "http://149.255.59.3/proxy/david125?mp=/stream",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
             "title": "Bluesclub",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://stream.laut.fm/bluesclub",
@@ -185,46 +295,53 @@
             ]
         },
         {
-            "title": "bluesrockcafe",
-            "year": "",
-            "thumbnail": "",
             "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Cactus Blue Radio",
+            "year": "",
             "links": [
                 {
-                    "url": "http://stream.laut.fm/bluesrockcafe",
+                    "url": "http://ca2.radioboss.fm:8004/stream",
                     "quality": "SD"
                 }
             ]
         },
         {
-            "title": "Calm Radio - Blues",
-            "year": "",
-            "thumbnail": "",
             "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Canal Jazz",
+            "year": "",
             "links": [
                 {
-                    "url": "http://streams.calmradio.com:3728/;",
+                    "url": "http://radiart.eu:10024/stream",
                     "quality": "SD"
                 }
             ]
         },
         {
-            "title": "Classic 21 Blues",
-            "year": "",
-            "thumbnail": "",
             "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "CFBW \"BWR 91.3\" Hanover, ON",
+            "year": "",
             "links": [
                 {
-                    "url": "https://radios.rtbf.be/wr-c21-blues-128.mp3",
+                    "url": "http://s41.myradiostream.com:29922/listen.mp3",
                     "quality": "SD"
                 }
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "CKTP 95.7 \"The Wolf\" Fredericton, NB",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://149.56.234.138:8173/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Cocktelera Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://listen.radionomy.com/cocktelera-blues",
@@ -233,10 +350,9 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Con Alma de Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://ample-zeno-07.radiojar.com/u0va0wk09dwtv?rj-ttl=4&rj-token=AAABYoiuRjB3-TUkTqIGylGxKubyhx7XJVFis4awmmxjZimJYUxP4Q",
@@ -245,22 +361,20 @@
             ]
         },
         {
-            "title": "constipation-blues",
-            "year": "",
-            "thumbnail": "",
             "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Crossroad Cafe",
+            "year": "",
             "links": [
                 {
-                    "url": "https://blues.hostless.eu/stream",
+                    "url": "http://radio.pro-fhi.net:2199/tunein/enjurvik.pls",
                     "quality": "SD"
                 }
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Digital Impulse - Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://orion.shoutca.st:8990/stream",
@@ -273,10 +387,20 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "ERA Kosmos",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://radiostreaming.ert.gr/ert-kosmos",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Eure du Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://listen.radionomy.com/euredublues.m3u",
@@ -285,10 +409,64 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Frei Caneca FM",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://192.99.4.205:8164/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "GGFM 90.1 Discovery Bay",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://usa14.fastcast4u.com:5192/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "GoFM",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://s5.purestream.net:8030",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Gritty Rock Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://www.radioking.com/play/gritty-rock",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Hawaii Public Radio HPR-1 (KHPR)",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://khpr-ice.streamguys1.com/khpr2",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Houston Blues Radio",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://edge3.peta.live365.net/b76353_128mp3",
@@ -297,10 +475,53 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Houston Public Media - Mixtape (KUHF)",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://hpm.streamguys1.com/mixtape-mp3.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Ice Radio The Alternative",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://streamnl.atinet.nl:8004/;stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "IMAGINE ROCK RADIO AAC:128",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://broad1.imagineradio.ru:8000/full_stream128.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "IMAGINE ROCK RADIO MP3:320",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://broad1.imagineradio.ru:8000/full_stream256.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "ITU College Radio -Jazz&Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://160.75.86.29:8088/stream/3/",
@@ -309,22 +530,9 @@
             ]
         },
         {
-            "title": "ITU Jaz/Blues",
-            "year": "",
-            "thumbnail": "",
             "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
-            "links": [
-                {
-                    "url": "http://160.75.86.29:8088/stream/3/",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
             "title": "ITU Radio Jazz/Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://160.75.86.29:8082/listen.pls",
@@ -333,10 +541,9 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Jazz Radio Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
@@ -345,22 +552,9 @@
             ]
         },
         {
-            "title": "JAZZ RADIO Blues",
-            "year": "",
-            "thumbnail": "",
             "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
-            "links": [
-                {
-                    "url": "http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
             "title": "JazzRadio.fr Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
@@ -369,10 +563,42 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Jazzthing",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/jazzthing",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "JB Radio-2",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://199.189.87.9:10999/flac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "JB Radio2 [AAC+]",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://jbradio2.ca/links/m3u/64_aac.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Joint Radio Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://jointil.com/broadcast/jointil_blues_quicktime_player.m3u",
@@ -381,10 +607,152 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Kansas City Online Radio (KCOR)",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://199.180.75.2:9092/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KCCK \"Jazz 88.3\" Cedar Rapids, IA",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream.kcck.org/jazz883kcck",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KCOR - Kansas City Online Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://s1.phx.icastcenter.com/tunein/kcor.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KGOU 106.3 Norman, OK",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://18093.live.streamtheworld.com/KGOUFMAAC.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KJLU \"Smooth Jazz 88.9\" Jefferson City, MO",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://ice8.securenetsystems.net:80/KJLU",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KJZZ 91.5 Phoenix, AZ",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream.kjzz.org/kjzz_mp3_128",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KMHD Jazz Radio 89.1 Gresham, OR",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://www.opb.org/s/streams/kmhd.pls",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KPBX 91.1 Spokane, WA",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://tektite.streamguys1.com:5010/KPBX-aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KRSH \"The Krush 95.9\" Healdsburg, CA",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/KRSHFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KRVS 88.7 \"Radio Acadie\" Lafayette, LA",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/KRVSFM.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KSYM 90.1 FM San Antonio, TX",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://sacrtf2.sac.alamo.edu:8000/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KWSI-LP 100.3 FM Grand Junction, CO",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://stream.kwsi.org:8001/stream.ogg",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "KZHP-LP K-ZAP",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://ice9.securenetsystems.net/KZHP",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Laut.FM BluesRockCafe",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://stream.laut.fm/bluesrockcafe",
@@ -393,10 +761,64 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Laut.FM GhostDog Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/ghostdog",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Laut.FM pauline",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://laut.fm/pauline",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "laut.fm Soundmania",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/soundmania",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Laut.fm Southern-Rock Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://laut.fm/southern-rock_radio",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Laut.FM The Jazz of Wiesbaden",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/thejazzofwiesbaden",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "LifeGate Blues Radio",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://onair22.xdevel.com:7582/;stream.mp3",
@@ -405,22 +827,108 @@
             ]
         },
         {
-            "title": "Mercy R\u00e1di\u00f3 - Magyar blues",
-            "year": "",
-            "thumbnail": "",
             "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Likwid",
+            "year": "",
             "links": [
                 {
-                    "url": "http://stream.mercyradio.eu/blues.mp3",
+                    "url": "http://78.129.178.98:9092/stream",
                     "quality": "SD"
                 }
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Linas Jazz",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://stream.votreradiosurlenet.eu/linasjazz.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Majestic Jukebox Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://uk3.internet-radio.com:8405/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Memory FM",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://188.165.205.70:8500",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Mitch FM",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://s31.myradiostream.com/64442/;?type=http&nocache=1582152978?0.5403905376667177",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Mooz FM Internet Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://www.moozfm.com/MoozFM-192kbps.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "MUSIC STAR Pino Daniele",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://icy.unitedradio.it/Daniele.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "MUSIC STAR Zucchero",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://icy.unitedradio.it/Zucchero.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Musica Jazz Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://ice03.fluidstream.net/mjr.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Nostalgie Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "https://scdn.nrjaudio.fm/adwz1/fr/30639/aac_64.mp3",
@@ -429,10 +937,20 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Ocean Beach Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://ophanim.net:7130/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "O\u00dcI FM Blues\u2019n\u2019Rock",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://bluesnrock.stream.ouifm.fr/ouifmbluesnrock-128.mp3",
@@ -441,10 +959,9 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Perfecto Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://radioperfecto.net-radio.fr/perfectoblues.mp3",
@@ -453,10 +970,20 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Phat Beats Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://144.91.86.172:9300/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Pinguin Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "https://samcloud.spacial.com/api/listen?sid=93462&m=sc&rid=168006",
@@ -469,10 +996,53 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "PT Cruiser Radio",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://streamingV2.shoutcast.com/PTCruiserRadioUK",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Qfm",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://51.255.235.165:5092/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "R\u00e1dio AONDA",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://servidor27-4.brlogic.com:8740/live",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio Bar",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://82.145.43.92:8336/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "RADIO BOB! BOBs Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://streams.radiobob.de/bob-blues/mp3-192/streams.radiobob.de/",
@@ -481,22 +1051,9 @@
             ]
         },
         {
-            "title": "Radio Caprice - Chicago blues",
-            "year": "",
-            "thumbnail": "",
             "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
-            "links": [
-                {
-                    "url": "http://79.111.14.76:8000/chicagoblues",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
             "title": "Radio Caprice - Country/Folk Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://79.120.77.11:9121/",
@@ -505,10 +1062,9 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Radio Caprice - Harmonica Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://79.120.39.202:9081/",
@@ -517,58 +1073,31 @@
             ]
         },
         {
-            "title": "Radio Caprice Delta Blues",
-            "year": "",
-            "thumbnail": "",
             "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "radio cardiff 98.7 fm",
+            "year": "",
             "links": [
                 {
-                    "url": "http://79.120.77.11:8002/deltablues",
+                    "url": "http://hyades.shoutca.st:8159/stream",
                     "quality": "SD"
                 }
             ]
         },
         {
-            "title": "Radio Caprice Harmonica Blues",
-            "year": "",
-            "thumbnail": "",
             "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "R\u00e1dio Cult FM",
+            "year": "",
             "links": [
                 {
-                    "url": "http://79.120.39.202:8002/harpblues",
+                    "url": "http://paineldj5.com.br:9262/stream",
                     "quality": "SD"
                 }
             ]
         },
         {
-            "title": "Radio Caprice Piano Blues / Boogie-Woogie",
-            "year": "",
-            "thumbnail": "",
             "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
-            "links": [
-                {
-                    "url": "http://79.111.14.76:8002/pianoblues",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
-            "title": "Radio derf Bluesrock",
-            "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
-            "links": [
-                {
-                    "url": "http://178.19.96.111:8013/listen.pls",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
             "title": "Radio Derf Delta Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://178.19.96.111:8007/listen.pls",
@@ -577,10 +1106,9 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Radio Eure du Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://euredublues.ddns.net:8000/euredublues.ogg",
@@ -589,10 +1117,20 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio Free Americana",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://thassos.cdnstream.com:9950/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Radio Iglesias Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://onair15.xdevel.com:8022/listen.pls",
@@ -601,10 +1139,9 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Radio Jeans Network Blues-Jazz",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://streaming.radiojeans.net/rj_bluesjazz.m3u",
@@ -613,10 +1150,53 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio Kruchi",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://krucha.ddns.net:8000/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio Regentrude",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://rs13.stream24.org:9260/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio Seagull",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://nednl.net:8000/seagull",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radio Zica",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://live.1chi.si/zica",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "RadioArt: Just Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://live.radioart.com/fJust_blues.mp3",
@@ -625,10 +1205,31 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "RadioGas",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://nr5.newradio.it:8731/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Radyo A (Radyo Anadolu \u00dcniversitesi)",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "RMF Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://31.192.216.10/BLUES",
@@ -637,10 +1238,31 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Rock & Folk (rock n folk)",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://rockfolk.ice.infomaniak.ch/rockfolk.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Rock Max - Blue",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://212.111.2.151:8000/rm_blue_176.ogg",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Rock The Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://stream.laut.fm/rock-the-blues",
@@ -649,38 +1271,31 @@
             ]
         },
         {
-            "title": "rocknblues",
-            "year": "",
-            "thumbnail": "",
             "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Rockradio Berlin",
+            "year": "",
             "links": [
                 {
-                    "url": "http://stream.laut.fm/rocknblues",
-                    "quality": "SD"
-                },
-                {
-                    "url": "http://stream.laut.fm/rocknblues",
-                    "quality": "SD"
-                },
-                {
-                    "url": "http://stream.laut.fm/rocknblues",
-                    "quality": "SD"
-                },
-                {
-                    "url": "http://stream.laut.fm/rocknblues",
-                    "quality": "SD"
-                },
-                {
-                    "url": "http://stream.laut.fm/rocknblues",
+                    "url": "http://www.rockradio.de/rr_listen_rockradio.de.m3u",
                     "quality": "SD"
                 }
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "RosFM 94.6",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://rosfm.ddns.net:8000/stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "RTBF Classic 21 - Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "https://radios.rtbf.be/wr-c21-blues-128.mp3",
@@ -689,10 +1304,31 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Sophia FM 99.5",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://65.254.42.234:14020/vivo",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "Spodio.ru Relax Electronic",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://82.146.35.241:8000/relax",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Star FM Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://berlin.starfm.de/player/pls/blues_pls_mp3.php",
@@ -701,10 +1337,9 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "Strictly Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://c1icyelb.prod.playlists.ihrhls.com/6936_icy",
@@ -713,38 +1348,90 @@
             ]
         },
         {
-            "title": "The Blues Cove",
-            "year": "",
-            "thumbnail": "",
             "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "The 1920s Radio Network (MP3)",
+            "year": "",
             "links": [
                 {
-                    "url": "http://217.116.9.142:9090/TheBluesCove",
+                    "url": "http://tess.fast-serv.com:8570/",
                     "quality": "SD"
                 }
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "The 1920s Radio Network 128kb",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://the1920sradionetwork.mediaplayer.whro.org/128",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "The Blue Spot",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://ice55.securenetsystems.net/DASH59",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "The Flash",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://s3.viastreaming.net:8565/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "The World Of Blues",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://psn1.prostreaming.net:8117/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "usty station",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/ustystation",
                     "quality": "SD"
                 },
                 {
-                    "url": "http://psn1.prostreaming.net:8117/stream",
+                    "url": "http://listen.radionomy.com/ustystation",
                     "quality": "SD"
                 }
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "VOBB 95.9 & 98.1 \"Voice of Bonnie Bay\" Norris Point, NL",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://ca2.radioboss.fm:8033/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "WDCB 90.9 \"Jazz & Blues\" Chicago, IL",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://wdcb-ice.streamguys.org:80/wdcb128",
@@ -753,10 +1440,20 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WESM 91.3 Princess Anne, MD",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WESMFM.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "WGLT Blues Channel - Normal, IL",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://wgltradio.ilstu.edu:8000/wgltblues.mp3",
@@ -765,10 +1462,9 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "WGMC \"Swing & Blues\" Stream - Rochester, NY",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://greece-media.monroe.edu/wgmc3.mp3",
@@ -777,10 +1473,53 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WJAB 90.9 Huntsville, AL",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://wjab.streamguys.net/live",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WJLD 1400 Fairfield, AL",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://ic2.mainstreamnetwork.com/wjld-fm",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WKDfm",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://comet.shoutca.st:8467/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WRES-LP 100.7 Asheville, NC",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://107.217.85.71:8000/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "WUMB Blues Stream - Boston, MA",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://wumb.streamguys1.com/wumb919st",
@@ -789,13 +1528,93 @@
             ]
         },
         {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WVAS 90.7 Montgomery, AL",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/WVASFM.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "title": "WVPE Blues3 Elkhardt, IN",
             "year": "",
-            "thumbnail": "",
-            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
             "links": [
                 {
                     "url": "http://live.str3am.com:2240/live",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WWOZ 90.7 New Orleans, LA",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://wwoz-sc.streamguys.com/wwoz-hi.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WWOZ-2 New Orleans, LA",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://wwoz-sc.streamguys.com/wwozhd2-hi",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WXPN 88.5 Philadelphia, PA",
+            "year": "",
+            "links": [
+                {
+                    "url": "https://wxpnhi.xpn.org/xpnhi",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "WXPN-HD2 - \"XPoNential Radio\" Philadelphia, PA",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://xpn2hi.streamguys.net/listen.pls",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "\u0420\u0430\u0434\u0438\u043e \u041c\u0438\u043d\u0441\u043a",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://93.84.113.142:8000/ogg",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "poster": "https://www.milanoreporter.it/wp-content/uploads/2017/02/web-radio.jpg",
+            "title": "\u0420\u0410\u0414\u0418\u041e \u042d\u0420\u041c\u0418\u0422\u0410\u0416 90,1 FM",
+            "year": "",
+            "links": [
+                {
+                    "url": "http://91.190.117.131:8000/live",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://91.190.127.185:8000/live_test",
                     "quality": "SD"
                 }
             ]
