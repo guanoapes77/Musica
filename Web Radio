@@ -1,7 +1,13 @@
 {
   "menu": [
     {
-      "title": "Bambini/Kids",
+      "title": "80s",
+      "plot": "Web radio Anni 80",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20-%2080s",
+      "thumbnail": "https://images.8tracks.com/cover/i/002/044/475/80s2-2088.jpg?rect=0,0,500,500&q=98&fm=jpg&fit=max"
+    },
+    {
+    "title": "Bambini/Kids",
       "plot": "Web radio Con Musica Per Bambini",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Bambini.json",
       "thumbnail": "https://i.ytimg.com/vi/c30J7ACJKJI/maxresdefault.jpg"
