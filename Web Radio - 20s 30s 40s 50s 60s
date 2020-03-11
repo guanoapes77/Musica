@@ -3,8 +3,9 @@
         {
             "title": "011.FM - Non Stop 60's",
             "year": "",
-            "poster": "https://lh3.googleusercontent.com/proxy/7TYG226shhVlmynTxZ3zgqSwgeztKnpuX_olJyYS6j4O5__zaGs2MIW24C9S8j4XgZxl_dXsZ0XnQ2C77Y4nqBCqNy6d-HGX8I3zWk6oPMk8w_92ChWDt8sjuAhVIC1833GbMZ3ugQmlvMjcaF086sA",
-            "thumbnail": "",
+            "poster": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "fanart": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "thumbnail": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
             "links": [
                 {
                     "url": "http://listen.011fm.com:8004/stream03",
@@ -15,8 +16,9 @@
         {
             "title": "Angel Radio",
             "year": "",
-            "poster": "https://lh3.googleusercontent.com/proxy/7TYG226shhVlmynTxZ3zgqSwgeztKnpuX_olJyYS6j4O5__zaGs2MIW24C9S8j4XgZxl_dXsZ0XnQ2C77Y4nqBCqNy6d-HGX8I3zWk6oPMk8w_92ChWDt8sjuAhVIC1833GbMZ3ugQmlvMjcaF086sA",
-            "thumbnail": "",
+            "poster": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "fanart": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "thumbnail": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
             "links": [
                 {
                     "url": "http://s8.viastreaming.net/7030/listen.m3u",
@@ -25,22 +27,11 @@
             ]
         },
         {
-            "title": "Arctic Outpost",
-            "year": "",
-            "poster": "https://lh3.googleusercontent.com/proxy/7TYG226shhVlmynTxZ3zgqSwgeztKnpuX_olJyYS6j4O5__zaGs2MIW24C9S8j4XgZxl_dXsZ0XnQ2C77Y4nqBCqNy6d-HGX8I3zWk6oPMk8w_92ChWDt8sjuAhVIC1833GbMZ3ugQmlvMjcaF086sA",
-            "thumbnail": "",
-            "links": [
-                {
-                    "url": "http://192.227.85.169:4047/;",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
             "title": "Cladrite Radio",
             "year": "",
-            "poster": "https://lh3.googleusercontent.com/proxy/7TYG226shhVlmynTxZ3zgqSwgeztKnpuX_olJyYS6j4O5__zaGs2MIW24C9S8j4XgZxl_dXsZ0XnQ2C77Y4nqBCqNy6d-HGX8I3zWk6oPMk8w_92ChWDt8sjuAhVIC1833GbMZ3ugQmlvMjcaF086sA",
-            "thumbnail": "",
+            "poster": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "fanart": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "thumbnail": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
             "links": [
                 {
                     "url": "http://144.217.253.136:8454/;",
@@ -49,10 +40,37 @@
             ]
         },
         {
+            "title": "Coastline",
+            "year": "",
+            "poster": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "fanart": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "thumbnail": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "links": [
+                {
+                    "url": "http://81.169.223.8:80",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "HilversumDrie",
+            "year": "",
+            "poster": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "fanart": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "thumbnail": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "links": [
+                {
+                    "url": "http://94.23.148.11:8547/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
             "title": "http://s8.viastreaming.net/7030/listen.m3u",
             "year": "",
-            "poster": "https://lh3.googleusercontent.com/proxy/7TYG226shhVlmynTxZ3zgqSwgeztKnpuX_olJyYS6j4O5__zaGs2MIW24C9S8j4XgZxl_dXsZ0XnQ2C77Y4nqBCqNy6d-HGX8I3zWk6oPMk8w_92ChWDt8sjuAhVIC1833GbMZ3ugQmlvMjcaF086sA",
-            "thumbnail": "",
+            "poster": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "fanart": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "thumbnail": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
             "links": [
                 {
                     "url": "http://s8.viastreaming.net/7030/listen.m3u",
@@ -61,13 +79,14 @@
             ]
         },
         {
-            "title": "KCEA - 89.1FM Atherton, CA",
+            "title": "KiSS 105.3 Ottawa - 90's to NOW! (Working station)",
             "year": "",
-            "poster": "https://lh3.googleusercontent.com/proxy/7TYG226shhVlmynTxZ3zgqSwgeztKnpuX_olJyYS6j4O5__zaGs2MIW24C9S8j4XgZxl_dXsZ0XnQ2C77Y4nqBCqNy6d-HGX8I3zWk6oPMk8w_92ChWDt8sjuAhVIC1833GbMZ3ugQmlvMjcaF086sA",
-            "thumbnail": "",
+            "poster": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "fanart": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "thumbnail": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
             "links": [
                 {
-                    "url": "http://streaming.rubinbroadcasting.com/kcea",
+                    "url": "http://rogers-hls.leanstream.co:8000/rogers/ott1053.stream/48k/playlist.m3u8",
                     "quality": "SD"
                 }
             ]
@@ -75,8 +94,9 @@
         {
             "title": "laut.fm Sound",
             "year": "",
-            "poster": "https://lh3.googleusercontent.com/proxy/7TYG226shhVlmynTxZ3zgqSwgeztKnpuX_olJyYS6j4O5__zaGs2MIW24C9S8j4XgZxl_dXsZ0XnQ2C77Y4nqBCqNy6d-HGX8I3zWk6oPMk8w_92ChWDt8sjuAhVIC1833GbMZ3ugQmlvMjcaF086sA",
-            "thumbnail": "",
+            "poster": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "fanart": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "thumbnail": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
             "links": [
                 {
                     "url": "http://stream.laut.fm/sound",
@@ -87,8 +107,9 @@
         {
             "title": "memoryradio 2",
             "year": "",
-            "poster": "https://lh3.googleusercontent.com/proxy/7TYG226shhVlmynTxZ3zgqSwgeztKnpuX_olJyYS6j4O5__zaGs2MIW24C9S8j4XgZxl_dXsZ0XnQ2C77Y4nqBCqNy6d-HGX8I3zWk6oPMk8w_92ChWDt8sjuAhVIC1833GbMZ3ugQmlvMjcaF086sA",
-            "thumbnail": "",
+            "poster": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "fanart": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "thumbnail": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
             "links": [
                 {
                     "url": "http://www.memoryradio.de:5000/",
@@ -97,25 +118,14 @@
             ]
         },
         {
-            "title": "Mitch FM",
+            "title": "Radio Dismuke",
             "year": "",
-            "poster": "https://lh3.googleusercontent.com/proxy/7TYG226shhVlmynTxZ3zgqSwgeztKnpuX_olJyYS6j4O5__zaGs2MIW24C9S8j4XgZxl_dXsZ0XnQ2C77Y4nqBCqNy6d-HGX8I3zWk6oPMk8w_92ChWDt8sjuAhVIC1833GbMZ3ugQmlvMjcaF086sA",
-            "thumbnail": "",
+            "poster": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "fanart": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "thumbnail": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
             "links": [
                 {
-                    "url": "https://s31.myradiostream.com/64442/;?type=http&nocache=1582152978?0.5403905376667177",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
-            "title": "Radio Quergedacht Mainstream",
-            "year": "",
-            "poster": "https://lh3.googleusercontent.com/proxy/7TYG226shhVlmynTxZ3zgqSwgeztKnpuX_olJyYS6j4O5__zaGs2MIW24C9S8j4XgZxl_dXsZ0XnQ2C77Y4nqBCqNy6d-HGX8I3zWk6oPMk8w_92ChWDt8sjuAhVIC1833GbMZ3ugQmlvMjcaF086sA",
-            "thumbnail": "",
-            "links": [
-                {
-                    "url": "https://stream.laut.fm/radio-quergedacht",
+                    "url": "http://74.208.197.50:8020/;stream.mp3",
                     "quality": "SD"
                 }
             ]
@@ -123,8 +133,9 @@
         {
             "title": "Radio1920",
             "year": "",
-            "poster": "https://lh3.googleusercontent.com/proxy/7TYG226shhVlmynTxZ3zgqSwgeztKnpuX_olJyYS6j4O5__zaGs2MIW24C9S8j4XgZxl_dXsZ0XnQ2C77Y4nqBCqNy6d-HGX8I3zWk6oPMk8w_92ChWDt8sjuAhVIC1833GbMZ3ugQmlvMjcaF086sA",
-            "thumbnail": "",
+            "poster": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "fanart": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "thumbnail": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
             "links": [
                 {
                     "url": "http://stream.laut.fm/radio1920",
@@ -135,8 +146,9 @@
         {
             "title": "Schwany Souvenir 2",
             "year": "",
-            "poster": "https://lh3.googleusercontent.com/proxy/7TYG226shhVlmynTxZ3zgqSwgeztKnpuX_olJyYS6j4O5__zaGs2MIW24C9S8j4XgZxl_dXsZ0XnQ2C77Y4nqBCqNy6d-HGX8I3zWk6oPMk8w_92ChWDt8sjuAhVIC1833GbMZ3ugQmlvMjcaF086sA",
-            "thumbnail": "",
+            "poster": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "fanart": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "thumbnail": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
             "links": [
                 {
                     "url": "http://167.114.246.177:8180/stream",
@@ -145,25 +157,14 @@
             ]
         },
         {
-            "title": "sunsetpalace",
+            "title": "The 1920s Radio Network 128kb",
             "year": "",
-            "poster": "https://lh3.googleusercontent.com/proxy/7TYG226shhVlmynTxZ3zgqSwgeztKnpuX_olJyYS6j4O5__zaGs2MIW24C9S8j4XgZxl_dXsZ0XnQ2C77Y4nqBCqNy6d-HGX8I3zWk6oPMk8w_92ChWDt8sjuAhVIC1833GbMZ3ugQmlvMjcaF086sA",
-            "thumbnail": "",
+            "poster": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "fanart": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "thumbnail": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
             "links": [
                 {
-                    "url": "http://laut.fm/sunsetpalace?autoplay=1",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
-            "title": "Sveriges Radio - P4 Plus",
-            "year": "",
-            "poster": "https://lh3.googleusercontent.com/proxy/7TYG226shhVlmynTxZ3zgqSwgeztKnpuX_olJyYS6j4O5__zaGs2MIW24C9S8j4XgZxl_dXsZ0XnQ2C77Y4nqBCqNy6d-HGX8I3zWk6oPMk8w_92ChWDt8sjuAhVIC1833GbMZ3ugQmlvMjcaF086sA",
-            "thumbnail": "",
-            "links": [
-                {
-                    "url": "http://sverigesradio.se/topsy/direkt/4951-hi-aac.pls",
+                    "url": "http://the1920sradionetwork.mediaplayer.whro.org/128",
                     "quality": "SD"
                 }
             ]
@@ -171,8 +172,9 @@
         {
             "title": "The UK 1940s Radio Station",
             "year": "",
-            "poster": "https://lh3.googleusercontent.com/proxy/7TYG226shhVlmynTxZ3zgqSwgeztKnpuX_olJyYS6j4O5__zaGs2MIW24C9S8j4XgZxl_dXsZ0XnQ2C77Y4nqBCqNy6d-HGX8I3zWk6oPMk8w_92ChWDt8sjuAhVIC1833GbMZ3ugQmlvMjcaF086sA",
-            "thumbnail": "",
+            "poster": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "fanart": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "thumbnail": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
             "links": [
                 {
                     "url": "http://149.255.59.162:8062/stream",
@@ -183,11 +185,38 @@
         {
             "title": "Tokyo Rose Radio",
             "year": "",
-            "poster": "https://lh3.googleusercontent.com/proxy/7TYG226shhVlmynTxZ3zgqSwgeztKnpuX_olJyYS6j4O5__zaGs2MIW24C9S8j4XgZxl_dXsZ0XnQ2C77Y4nqBCqNy6d-HGX8I3zWk6oPMk8w_92ChWDt8sjuAhVIC1833GbMZ3ugQmlvMjcaF086sA",
-            "thumbnail": "",
+            "poster": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "fanart": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "thumbnail": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
             "links": [
                 {
                     "url": "http://agnes.torontocast.com:8055/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Twentysound",
+            "year": "",
+            "poster": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "fanart": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "thumbnail": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/twentysound.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Virgin Radio Groove",
+            "year": "",
+            "poster": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "fanart": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "thumbnail": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/dwdxek9by6tq.jpg",
+            "links": [
+                {
+                    "url": "https://radio.virginradio.co.uk/stream-groove",
                     "quality": "SD"
                 }
             ]
