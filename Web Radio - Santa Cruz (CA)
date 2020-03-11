@@ -1,0 +1,173 @@
+{
+    "movies_list": [
+        {
+            "title": "KAZU 90.3 Pacific Grove, CA",
+            "year": "",
+            "poster": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "fanart": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "thumbnail": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "links": [
+                {
+                    "url": "http://icecast.csumb.edu:8000/live128",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KAZU-HD2 Classical Stream - Pacific Grove, CA",
+            "year": "",
+            "poster": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "fanart": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "thumbnail": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "links": [
+                {
+                    "url": "http://icecast.csumb.edu:8000/livehd2high",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "title": "KCDU 101.7 \"The Beach\" Carmel, CA",
+            "year": "",
+            "poster": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "fanart": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "thumbnail": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/KCDUFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KDON 102.5 Salinas, CA",
+            "year": "",
+            "poster": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "fanart": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "thumbnail": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "links": [
+                {
+                    "url": "http://c11icyelb.prod.playlists.ihrhls.com/2930_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KHIP 104.3 \"The Hippo\" Gonzales, CA",
+            "year": "",
+            "poster": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "fanart": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "thumbnail": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/KHIPFMAAC.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KION \"Power Talk 1460 & 101.1\" Salinas, CA",
+            "year": "",
+            "poster": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "fanart": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "thumbnail": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "links": [
+                {
+                    "url": "http://c11icyelb.prod.playlists.ihrhls.com/4639_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KKHK 95.5 \"BOB FM\" Carmel, CA",
+            "year": "",
+            "poster": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "fanart": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "thumbnail": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/KKHKFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KLOK 99.5 & 99.9 \"La Tricolor\" Greenfield, CA",
+            "year": "",
+            "poster": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "fanart": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "thumbnail": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/KLOKFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KOCN 105.1 \"K-Ocean\" Pacific Grove, CA",
+            "year": "",
+            "poster": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "fanart": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "thumbnail": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "links": [
+                {
+                    "url": "http://c10icyelb.prod.playlists.ihrhls.com/3639_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KPRC \"La Preciosa 100.7 & 100.9\" Salinas, CA",
+            "year": "",
+            "poster": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "fanart": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "thumbnail": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "links": [
+                {
+                    "url": "http://c10icyelb.prod.playlists.ihrhls.com/4116_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KSCO \"Talk Back Radio\" 1080 AM Santa Cruz, CA",
+            "year": "",
+            "poster": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "fanart": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "thumbnail": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "links": [
+                {
+                    "url": "http://184.105.148.154:8000/live",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KTOM 92.7 Marina, CA",
+            "year": "",
+            "poster": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "fanart": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "thumbnail": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "links": [
+                {
+                    "url": "http://c5icyelb.prod.playlists.ihrhls.com/2934_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KZSC 88.1 Santa Cruz, CA",
+            "year": "",
+            "poster": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "fanart": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "thumbnail": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png",
+            "links": [
+                {
+                    "url": "http://streaming.kzsc.org/kzschigh.m3u",
+                    "quality": "SD"
+                }
+            ]
+        }
+    ]
+}
