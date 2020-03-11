@@ -68,6 +68,16 @@
     "title": "Rock",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Rock.json",
       "thumbnail": "https://www.ladige.it/sites/www.ladige.it/files/styles/798x457/public/ROCKABOUT.png?itok=Dt9fTwhv"
+      },
+    {
+      "title": "Santa Cruz (CA)",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20-%20Santa%20Cruz%20(CA)",
+      "thumbnail": "https://www.longboarderlabs.com/wp-content/uploads/images/products/products-SantaCruz-Shark800x800.png" 
+     },
+    {
+    "title": "Jazz",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Jazz.json",
+      "thumbnail": "https://www.porto.it/radio/it_jazzradionl.jpg" 
     }
   ]
 } 
