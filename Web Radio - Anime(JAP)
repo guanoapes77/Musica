@@ -1,19 +1,6 @@
 {
     "movies_list": [
-        {
-            "title": "A-chan (A\u30c1\u30e3\u30f3): the Anime channel from J1",
-            "year": "",
-            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
-            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
-            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
-            "links": [
-                {
-                    "url": "http://achan.j1fm.tokyo/j1a.pls",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
+        {          
             "title": "AiMoChi Radio",
             "year": "",
             "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
