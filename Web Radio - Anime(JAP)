@@ -1,1 +1,485 @@
-
+{
+    "movies_list": [
+        {
+            "title": "A-chan (A\u30c1\u30e3\u30f3): the Anime channel from J1",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://achan.j1fm.tokyo/j1a.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "AiMoChi Radio",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://stream.zenolive.com/ndqw2pfrcseuv",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Anime Web Radio",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://s6.mediastreaming.it:8090/;stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Animu FM",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://cast.animu.com.br:9021/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Anison.FM",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://anison.fm/anison.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Armitage's Dimension",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://mp3.fr.armitunes.com:8000/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Chiru",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "https://chiru.no:8080/stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Doujinstyle Radio",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "https://streams.radio.co/s5ff57669c/listen.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "eden radio",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://edenofthewest.com:8080/eden.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Expresi\u00f3n Vocaloid",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "https://expvocaloidserver.nsupdate.info/expresion-vocaloid",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Ghost Anime Radio",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://animeradio.su:8000/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Greek Otaku Radio",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://usa2.fastcast4u.com:3684/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "J-Pop - PowerPlay Kawaii [Girlbands] (asia DREAM radio)",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://sky1.torontocast.com:9029/listen.pls?sid=1&t=.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "J1 Radio - J1 Xtra (AAC)",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://sky1.torontocast.com:9061/aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "J1 Radio - J1 Xtra (MP3)",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://sky1.torontocast.com:9061/j1",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "J1: Japan's Hottest HITS",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://hits.j1fm.tokyo/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Japan-a-Radio",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://www.japanaradio.com/free/48kaacp.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Kibo.fm",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://kibo.fm/kibo.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Listen.moe",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "https://listen.moe/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "MultiAnime Radio",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://67.20.61.70:8301/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Nihon no Oto",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://stream1.nihon-no-oto.com:80/nihonogg",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Otaku no Radio",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://radio.otakunopodcast.com:8000/otakunoradio",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "PianetaB WebRadio",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://51.254.76.66:8062/;stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "purepure Radio",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://www.laut.fm/purepure.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "R/a/dio",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "https://relay0.r-a-d.io/main.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Animati",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://server.radioanimati.it/listen.pls?sid=3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Anime",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://perseus.shoutca.st:9253/128",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Anime Nexus",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://radio.animenexus.mx:8000/animenexus",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Anime OST",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://178.19.96.206:8095/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Anime24",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://91.232.4.33:7028/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Doki",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://janus.shoutca.st:8972/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "R\u00e1dio Geek",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://servidor30.brlogic.com:8270/live",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Nami",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://5.9.2.139:8000/any-anime.ru",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Nihonara",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://5.39.86.120:8000/nihonara_128.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Shinsen Radio",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "https://www.shinsen-radio.org/listen.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Tsumugi",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://tsumugi.forum-thalie.fr/Tsumugi.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Zelina's Mixed Bag of Showtunes",
+            "year": "",
+            "poster": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "fanart": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "thumbnail": "https://www.1999.co.jp/itbig09/10095077.jpg",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/zelina-smixedbagofshowtunes",
+                    "quality": "SD"
+                }
+            ]
+        }
+    ]
+}
