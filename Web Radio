@@ -40,6 +40,11 @@
       "thumbnail": "https://www.macitynet.it/wp-content/uploads/2017/06/FLac740.gif"
      },
     {
+      "title": "Gospel",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20-%20Gospel",
+      "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Gospel.png?raw=true"
+     },
+    {
       "title": "Heavy Metal",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Heavy%20Metal.json",
       "thumbnail": "https://images-eu.ssl-images-amazon.com/images/I/8189%2B5lLPnL.png" 
