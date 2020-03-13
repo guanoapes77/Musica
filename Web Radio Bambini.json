@@ -11,7 +11,18 @@
         }
             ]
         },
+        {         
+      "title": "RadioAnimati - Un Mondo di Sigle",
+      "year": "2019",
+      "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+      "links": [      
         {
+          "url": "http://shoutcast2.radioanimati.it/raplayer",
+          "quality":"mp3" 
+        }
+            ]
+        },
+        { 
                   "poster": "https://i.ytimg.com/vi/c30J7ACJKJI/maxresdefault.jpg",
             "title": "1.FM - Kids FM Radio",
             "year": "",
