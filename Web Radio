@@ -66,13 +66,7 @@
      },
     {
       "title": "Pop",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20-%20Pop",
-      "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/pop.jpg?raw=true"
-     },
-    {
-      "title": "Jazz",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20Jazz.json",
-      "thumbnail": "https://www.porto.it/radio/it_jazzradionl.jpg"
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20-%20Pop",   
      },
     {
       "title": "Radio Pink Floyd",
