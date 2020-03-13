@@ -1,1 +1,800 @@
-
+{
+    "movies_list": [
+        {
+            "title": "1 Pure Alternative Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://fred.torontocast.com/1purealternative",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "100% HARD ROCK",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/100-hard-rock.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "12punks.FM",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://de-hz-fal-stream04.rautemusik.fm/12punks",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "12XU",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/12xu",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Alternativeworld",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/alternativeworld",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Anarchy and Angels",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://www.alwaysinternetradio.com/cast/tunein.php/anarchy/playlist.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "boomer's paradise",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "https://stream.boomer.cf/mpd.ogg",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CIA Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/cia-radio",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://stream.laut.fm/cia-radio",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Echoplex Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://198.199.105.67:8000/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Fr\u00e9quence Mutine",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://icecast.infini.fr:8000/mutine",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Fresh Rock",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://stream.freshrock.net/128.mp3",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://stream.freshrock.net/320.mp3",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://stream.freshrock.net/24.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Guerrilla Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://s2.stationplaylist.com:9460/guerrilla",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://dir.xiph.org/listen/1014252/listen.xspf",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "idobi Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://idobiradio.idobi.com/;stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Kamikaze Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://streamplus52.leonex.de:10894",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Klang Ruinen",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://laut.fm/klangruinen",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KXSF",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://stream.kxsf.fm:8000/kxsf",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "laut.fm Kakerlakenradio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/kakerlakenradio",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Laut.FM Raus",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/raus",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Laut.FM Skafari",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/skafari",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Legion Urbana Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://5.196.100.166:9970/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "NoTypicalRadio - Rock",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "https://rock.notypicalradio.com/;?icy=http",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "OpenFM - Punk Rock",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://stream.open.fm/78",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "O\u00dcI FM Alternatif",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://alternatif.stream.ouifm.fr/ouifm2.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Papa Mike",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://laut.fm/papa-mike",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Path through the Forest",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/path_through_the_forest",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Polygon.FM - Punk's Not Dead",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "https://eu6.fastcast4u.com/proxy/pnd?mp=/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "PUNK irratia",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://punkirratia.net:8000/punk",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Punk4all",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/punk4all.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "punkrockers-radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://www.punkrockers-radio.de/playlists/punkrockers.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Punksender",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://83.125.45.214:8000/punk",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Q101 Chicago\u2019s Alternative",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "https://ice5.securenetsystems.net/Q101",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Almenara 106.7 FM - Ventilla",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://185.50.197.212:9986/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Blackout",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://stream.radioblackout.org/blackout.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio BOB!",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://bob.hoerradar.de/radiobob-live-mp3-hq?sABC=59p66q9n%230%23rnoopr590o2qqrp5qsq2s8p24q12pp2n%23zrqvncynlreobo&amsparams=playerid:mediaplayerbob;skey:1506176410",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RADIO BOB! BOBs Deutsch Rock",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://bob.hoerradar.de/radiobob-deutschrock-mp3-hq?sABC=5n045no9%230%23rnoopr590o2qqrp5qsq2s8p24q12pp2n%23fgernzf.enqvbobo.qr&amsparams=playerid:streams.radiobob.de;skey:1510234809",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RADIO BOB! BOBs Punk",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://streams.radiobob.de/bob-punk/mp3-192/streams.radiobob.de/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Caprice - Crust Punk",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://79.120.39.202:9123/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Caprice - Punk",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://79.120.77.11:9045",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio FMR",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://stream.radio-fmr.net:8000/radio-fmr.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Kaos Italy",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://nr6.newradio.it:9136/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Korzo",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://www.radiokorzo.hr/stream/premium.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Quergedacht Quer Gerockt",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "https://stream.laut.fm/quer-gerockt",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio todamax",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/todamax",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Wombat",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://s.streampunk.cc/wombat.ogg",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Zodiac Ireland",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://www.radioking.com/play/radio-zodiac-ireland",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio101 rock",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://live.radio101.hr:9578",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RadioBOB Punk (64 kbps AAC)",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://streams.radiobob.de/bob-punk/aac-64/mediaplayer",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RadiOi",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://cp.eu4.fastcast4u.com:2199/tunein/nikoud00.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RauteMusik Rock",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://rock-high.rautemusik.fm/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rebel Radio Brod",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://radio.ipip.cz:7988/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rock & Folk (rock n folk)",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "https://rockfolk.ice.infomaniak.ch/rockfolk.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rock Radio Online Mexico",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/pls/SAM07AAC286.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "ROCKANTENNE Punkrock (64 kbps AAC)",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://mp3channels.webradio.rockantenne.de/punkrock.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rockin' Devil Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/rockin-devilradio.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rockradio Berlin",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://www.rockradio.de/rr_listen_rockradio.de.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "SomaFM Metal Detector (128k AAC)",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "https://somafm.com/metal130.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Subculture 69 Radio (new)",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://144.76.32.5:8000/sbc69r",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WBER 90.5 Rochester, NY  128kbps MP3",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://wber.monroe.edu/wber-high.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WCRS - Columbus Community Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://stream.wcrsfm.org:8000/wcrsfm_a",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WRPS 88.3 FM",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/punk.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://www.ophanim.net:9690/stream/1/",
+                    "quality": "SD"
+                }
+            ]
+        }
+    ]
+}
