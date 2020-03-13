@@ -1,39 +1,519 @@
-import re, json, os
-
-
-m3uLi = []
-for file in os.listdir('.'):
-    if file.split('.')[-1] == 'm3u':
-        m3uLi.append(open(file,encoding="utf-8").read())
-regex = '#EXTINF:.*?(?:tvg-logo="([^"]+)")?,([^\n]+).*\n(.+)'
-out = {
-    "movies_list": []
-}
-
-for m3u in m3uLi:
-    for logo, name, url in re.findall(regex, m3u):
-        quality = 'HD' if 'hd' in name.lower() else 'SD'
-        link = {
-            "url": url,
-            "quality": quality
+{
+    "movies_list": [
+        {
+            "title": "#1980 HiFi Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "https://samcloud.spacial.com/api/listen?sid=111415&rid=194939&f=heaacv2,any&br=64000,any&m=pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "1 4 1 Progressive",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/1-4-1-progressive.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "1.FM - Gorilla FM Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://strm112.1.fm/gorillafm_mobile_mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Aural Moon: The Net's Progressive Rock Garden",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://live.str3am.com:2010/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Catorweb Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://bb36.sonixcast.com:20018/stream.3mu",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Delicious Agony",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://38.107.243.190:80/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "FUZZ Radijas",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://185.5.55.179:8080/;stream.mp3?1570880494069",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Fuzzy & Groovy Rock Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/fuzzy-and-groovy.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Kan.org.il-88FM",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "https://kanlivep2event-i.akamaihd.net/hls/live/749623/749623/kan88_mp3/chunklist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "LA ROCKS RADIO",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://listen.larocksradio.com/larocksradio.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Laut.FM Progman",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/progman",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Laut.fm Shamanic Tunes",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://laut.fm/shamanic_tunes",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Laut.fm Southern-Rock Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://laut.fm/southern-rock_radio",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Luis Jimenez",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://hazel.torontocast.com:2910",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Morow Prog Rock Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://stream.fr.morow.com:8080/morow_med.mp3",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://stream.fr.morow.com:8080/morow_hi.aacp",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "P.R.O.G. Progressive Rock Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/progprogressiverockradio.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Perihelion Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://streaming.live365.com/a20832",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Pro-Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://www.proradio.pl/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Prog Alley",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "https://laut.fm/progalley?autoplay=1",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Prog Frog",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://192.227.85.169:4040/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Prog Rock and Metal (PRM)",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://23.237.150.98:8512/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "ProgPositivity Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://progpositivity.dyndns-ip.com:2112/prog.ogg",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Progrock.com - Chicago, IL",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://74.82.59.197:8264/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Progulus",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://stream.sonixcast.com:9899",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Progulus - Online Progressive Rock Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://bb31.sonixcast.com:2080/8440",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Progzilla Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://stream1.hippynet.co.uk:8005/live",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Purple Piper",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://s1.shoutitaly.com:8036/;stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Caprice - Krautrock",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://79.111.119.111:9089/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Caprice - Progressive Rock",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://79.111.119.111:9121/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Mirage",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://rm.radiomirage.org.es/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Sunrise",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://streams.radiosunrise.de:8006/mp3",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://streams.radiosunrise.de:8006/aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RMF Rock Progresywny",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://195.150.20.8/ROCKPROGRESYWNY",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rock Arena",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://server1.internetoveradio.sk:8808/rockarena",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rockserwis.fm",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://radio.rockserwis.fm/live",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Stellar Attraction",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://level5technologysolutions.net:8010/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "The Cat",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://5.63.151.52:8066/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "The Musical Box Radio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://albireo.shoutca.st:9740/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "toxic.fm",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://toxicfm.ice.infomaniak.ch/toxicfm-128",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WRNR 103.1 Grasonville, MD",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/WRNRFMEB.m3u",
+                    "quality": "SD"
+                }
+            ]
         }
-
-        for n, channel in enumerate(out["movies_list"]):
-            if channel['title'] == name:  # esiste già
-                out["movies_list"][n]["links"].append(link)
-                break
-        else:
-            dictChannel = {              
-                "title": name,
-                "year": "",
-                "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
-                "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
-                "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/progressive-rock.jpg?raw=true",
-                "links": [
-                    link
-                ]
-            }
-            out["movies_list"].append(dictChannel)
-
-json.dump(out, open('canali.json', 'w'), indent=4)
-
+    ]
+}
