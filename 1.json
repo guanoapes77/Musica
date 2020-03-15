@@ -32,10 +32,16 @@
       "thumbnail": "https://img.discogs.com/SSTYxzI5iA-n0v2QiS6hRecoqrs=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2455925-1303906219.jpeg.jpg"
      },  
      {
+      "title": "Canali Musicali",
+      "plot": "",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Canali%20Musicali",
+      "thumbnail": "" 
+     },  
+     {
       "title": "Ken Block",
       "plot": "Ken Block (Long Beach, 21 novembre 1967) è un pilota di rally, imprenditore e stuntman statunitense",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/KEN%20BLOCK",
       "thumbnail": "https://motori.ilmessaggero.it/photos/HIGH/30/90/703090_20141118_larry_chen_speedhunters_ken_block_gymkhana_seven-1.jpg" 
-    }
+     }
   ]
 } 
