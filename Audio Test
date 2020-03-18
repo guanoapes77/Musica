@@ -15,7 +15,7 @@
     {
       "title": "01 - Dolby TrueHD 5.1/7.1 Surround Sound test",
       "year": "2019",
-      "plot": "Codec: ts - Audio format: Dolby Digital 5.1",
+      "plot": "Codec: m2ts - Audio format: Dolby TrueHD 5.1",
       "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/the-sound-of-high-definition-blu-ray-f.jpg?raw=true",
       "links": [
         {
@@ -27,7 +27,7 @@
     {
       "title": "02 - Dolby 5.1/7.1 Surround Sound test",
       "year": "2019",
-      "plot": "Codec: ts - Audio format: Dolby Digital 5.1",
+      "plot": "Codec: m2ts - Audio format: Dolby Digital 5.1",
       "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/the-sound-of-high-definition-blu-ray-f.jpg?raw=true",
       "links": [
         {
