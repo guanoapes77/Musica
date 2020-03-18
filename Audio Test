@@ -14,24 +14,24 @@
     },
     {
       "title": "Lg Nasa",
-      "year": "2007",
+      "year": "2019",
       "plot": "Codec: mp4 - Audio format: Dolby Digital 5.1",
       "poster": "https://www.demolandia.net/images/hqthumbnails/uhd/4k60/lg-nasa.jpg",
       "links": [
         {
-          "url": "https://youtu.be/qOW84pC6_Cg",
+          "url": "https://www.youtube.com/watch?v=qOW84pC6_Cg&feature=youtu.be",
           "quality":"HD"
            }
       ]
     },
     {
       "title": "Samsung and Red Bull",
-      "year": "2007",
+      "year": "2019",
       "plot": "Codec: ts - Audio format: Dolby Digital 5.1",
-      "poster": "https://www.demolandia.net/images/hqthumbnails/uhd/4k60/samsung-and-redbull.jpg",
+      "poster": "https://www.demolandia.net/images/hqthumbnails/uhd/4k60/lg-rays.jpg",
       "links": [
         {
-          "url": "https://youtu.be/_UReKfhGvi0",
+          "url": "https://www.youtube.com/watch?v=-t1i9c3MFwQ&feature=youtu.be",
           "quality":"HD"
         }
       ]
