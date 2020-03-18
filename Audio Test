@@ -2,14 +2,27 @@
   "movies_list": [
     {
       "title": "Torrent - The DALI CD Volume 3",
-      "year": "2002",
+      "year": "1992",
       "plot": "In Admiration of Music Tipo Rip : tracce + .cue Codec audio : FLAC Audio : 44,1 kHz, 16 bit, 526-954 kbps, stereo",
       "poster": "http://i52.fastpic.ru/big/2013/0329/68/1318e1a5bc16d7381cc261d30d80f068.jpg?r=1",
       "links": [
         {
-          "url": "magnet:?xt=urn:btih:D1890C20B05B98A888553137861DB904786FBBFD&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=(Test%20CD)%20The%20DALI%20CD%20Volume%203%20-%20In%20Admiration%20of%20Music%20(tracks%20%2B%20.cue)%20FLAC",        
-       }  
+          "url": "magnet:?xt=urn:btih:D1890C20B05B98A888553137861DB904786FBBFD&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=(Test%20CD)%20The%20DALI%20CD%20Volume%203%20-%20In%20Admiration%20of%20Music%20(tracks%20%2B%20.cue)%20FLAC",
+          "quality":"HD"
+              }
       ]
-    }
-  ]
-}      
+    },
+    {
+      "title": "Torrent - Adele - Live alla Royal Albert Hall 2011",
+      "year": "2011",
+      "plot": "Live at the Royal Albert Hall è il primo album dal vivo della cantante britannica Adele, pubblicato il 29 novembre 2011 dalla XL Recordings. ... nella tappa londinese del tour Adele Live, svoltasi il 22 settembre 2011 al Royal Albert Hall.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjE3NzY5NjQxMV5BMl5BanBnXkFtZTcwMzk5MTE5OA@@._V1_UY268_CR8,0,182,268_AL_.jpg",
+      "links": [
+        {
+          "url": "magnet:?xt=urn:btih:FA3562E8D6AC195F60453A80183397F4D81AF777&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+          "quality":"HD"
+          }
+        ]
+      }
+    ]
+  }
