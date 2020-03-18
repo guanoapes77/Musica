@@ -13,7 +13,7 @@
       ]
     },
     {
-      "title": "01 - 5.1 Surround Sound test",
+      "title": "01 - Dolby 5.1/7.1 Surround Sound test",
       "year": "2019",
       "plot": "Codec: ts - Audio format: Dolby Digital 5.1",
       "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/the-sound-of-high-definition-blu-ray-f.jpg?raw=true",
@@ -25,13 +25,13 @@
       ]
     },
     {
-      "title": "02 - 5.1 Surround Sound test",
+      "title": "02 - Dolby 5.1/7.1 Surround Sound test",
       "year": "2019",
       "plot": "Codec: ts - Audio format: Dolby Digital 5.1",
-      "poster": "https://archive.org/download/5.1SurroundSoundTestFilesVariousFormatsAACAC3MP4DTSWAV/5.1SurroundSoundTestFilesVariousFormatsAACAC3MP4DTSWAV.thumbs/Splash_000014.jpg",
+      "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/the-sound-of-high-definition-blu-ray-f.jpg?raw=true",
       "links": [
         {
-          "url": "https://ia600406.us.archive.org/7/items/5.1SurroundSoundTestFilesVariousFormatsAACAC3MP4DTSWAV/Splash.mp4",
+          "url": "https://mega.nz/#!WAVi2IyY!DO0O2sXHBfF8pJNZxotTuU4ipn7Cj4GZqoNOyv6ZFp8",
           "quality":"HD"
                      }
       ]
