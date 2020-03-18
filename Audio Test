@@ -21,6 +21,18 @@
         {
           "url": "https://ia800406.us.archive.org/7/items/5.1SurroundSoundTestFilesVariousFormatsAACAC3MP4DTSWAV/surroundTest%20-%20Copy.mp4",
           "quality":"HD"
+              }
+      ]
+    },
+    {
+      "title": "02 - 5.1 Surround Sound test",
+      "year": "2019",
+      "plot": "Codec: ts - Audio format: Dolby Digital 5.1",
+      "poster": "https://archive.org/download/5.1SurroundSoundTestFilesVariousFormatsAACAC3MP4DTSWAV/5.1SurroundSoundTestFilesVariousFormatsAACAC3MP4DTSWAV.thumbs/Splash_000014.jpg",
+      "links": [
+        {
+          "url": "https://ia600406.us.archive.org/7/items/5.1SurroundSoundTestFilesVariousFormatsAACAC3MP4DTSWAV/Splash.mp4",
+          "quality":"HD"
           }
         ]
       }
