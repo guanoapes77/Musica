@@ -8,30 +8,29 @@
       "links": [
         {
           "url": "magnet:?xt=urn:btih:D1890C20B05B98A888553137861DB904786FBBFD&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=(Test%20CD)%20The%20DALI%20CD%20Volume%203%20-%20In%20Admiration%20of%20Music%20(tracks%20%2B%20.cue)%20FLAC",
-          "quality":"HD"
-     }
-      ]
-    },
-    {
-      "title": "Lg Nasa",
-      "year": "2019",
-      "plot": "Codec: mp4 - Audio format: Dolby Digital 5.1",
-      "poster": "https://www.demolandia.net/images/hqthumbnails/uhd/4k60/lg-nasa.jpg",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=qOW84pC6_Cg&feature=youtu.be",
-          "quality":"HD"
            }
       ]
     },
     {
-      "title": "5.1 Surround Sound test files various formats AAC,AC3,MP4,DTS WAV",
+      "title": "01-5.1 Surround Sound test",
       "year": "2019",
       "plot": "Codec: ts - Audio format: Dolby Digital 5.1",
       "poster": "https://www.demolandia.net/images/hqthumbnails/uhd/4k60/lg-rays.jpg",
       "links": [
         {
-          "url": "https://archive.org/details/5.1SurroundSoundTestFilesVariousFormatsAACAC3MP4DTSWAV/surroundTest+-+Copy.wmv",
+          "url": "https://archive.org/download/5.1SurroundSoundTestFilesVariousFormatsAACAC3MP4DTSWAV/5.1SurroundSoundTestFilesVariousFormatsAACAC3MP4DTSWAV.thumbs/surroundTest%20-%20Copy_000001.jpg",
+          "quality":"HD"
+           }
+      ]
+    },
+    {
+      "title": "02-5.1 Surround Sound test",
+      "year": "2019",
+      "plot": "Codec: ts - Audio format: Dolby Digital 5.1",
+      "poster": "https://archive.org/download/5.1SurroundSoundTestFilesVariousFormatsAACAC3MP4DTSWAV/5.1SurroundSoundTestFilesVariousFormatsAACAC3MP4DTSWAV.thumbs/Splash_000014.jpg",
+      "links": [
+        {
+          "url": "https://ia600406.us.archive.org/7/items/5.1SurroundSoundTestFilesVariousFormatsAACAC3MP4DTSWAV/Splash.mp4",
           "quality":"HD"
         }
       ]
