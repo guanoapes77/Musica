@@ -104,6 +104,18 @@
       "links": [
         {
           "url": "http://s1.demo-world.eu/hd_trailers.php?file=panasonic_nuerburgring_race_driving-DWEU.mkv",
+          "quality":"HD"
+           }
+      ]
+    },
+    {
+      "title": "Big Buck Bunny 4K",
+      "year": "2019",
+      "plot": "Codec:mkv 30fps - Audio format: Dolby Digital 5.1",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/220px-Big_buck_bunny_poster_big.jpg",
+      "links": [
+        {
+          "url": "http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_30fps_normal.mp4",
           "quality":"HD" 
           }
         ]
