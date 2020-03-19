@@ -4,7 +4,7 @@
       "title": "THX Deep Note Genesis",
       "year": "2019",
       "plot": "Codec: MKV 2160p/24.000 - Audio Format: DTS-HD MA 5.1",
-      "poster": "http://i52.fastpic.ru/big/2013/0329/68/1318e1a5bc16d7381cc261d30d80f068.jpg?r=1",
+      "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/the-sound-of-high-definition-blu-ray-f.jpg?raw=true",
       "links": [
         {
           "url": "https://drive.google.com/file/d/1HyQE5eqvV8BewCdbR9Xq3jbh1eUX0zXN/view",
@@ -13,7 +13,7 @@
       ]
     },
     {
-      "title": "01 - Dolby TrueHD 5.1/7.1 Surround Sound test",
+      "title": "Dolby TrueHD Surround Sound test",
       "year": "2019",
       "plot": "Codec: m2ts - Audio format: Dolby TrueHD 5.1",
       "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/the-sound-of-high-definition-blu-ray-f.jpg?raw=true",
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "title": "02 - Dolby 5.1/7.1 Surround Sound test",
+      "title": "Dolby Surround Sound test",
       "year": "2019",
       "plot": "Codec: m2ts - Audio format: Dolby Digital 5.1",
       "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/the-sound-of-high-definition-blu-ray-f.jpg?raw=true",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "title": "03 - Dolby 5.1/7.1 Surround Sound test",
+      "title": "Dolby Surround Sound test",
       "year": "2019",
       "plot": "Codec: m2ts - Audio format: Dolby Digital 5.1",
       "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/the-sound-of-high-definition-blu-ray-f.jpg?raw=true",
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "title": "04 - DTS-HD HRA 5.1",
+      "title": "DTS-HD HRA 5.1",
       "year": "2019",
       "plot": "Codec: m2ts - Audio format: DTS-HD HRA 5.1",
       "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/the-sound-of-high-definition-blu-ray-f.jpg?raw=true",
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "title": "025 - DolbyTrueHD 5.1/7.1",
+      "title": "DolbyTrueHD 5.1",
       "year": "2019",
       "plot": "Codec: m2ts - Audio format: Dolby TrueHD 5.1",
       "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/the-sound-of-high-definition-blu-ray-f.jpg?raw=true",
@@ -80,6 +80,30 @@
       "links": [
         {
           "url": "https://mega.nz/#!cM9VmBSL!mME5qULH2H5M24vLmjqfZZkaoUjY6RsrGPiw3ultMW0",
+          "quality":"HD" 
+               }
+      ]
+    },
+    {
+      "title": "DTS-HD MA 7.1 'Dredd' Audio Channel Check",
+      "year": "2019",
+      "plot": "Codec:m2ts 1080p/23.976 - Audio format: DTS-HD MA 7.1",
+      "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/the-sound-of-high-definition-blu-ray-f.jpg?raw=true",
+      "links": [
+        {
+          "url": "https://drive.google.com/file/d/0Bx63o79bMC7lMEMxUmxzV2NtYTA/view",
+          "quality":"HD" 
+           }
+      ]
+    },
+    {
+      "title": "Nürburgring Race Driving",
+      "year": "2019",
+      "plot": "Codec:m2ts 1080/23.97p - Audio format: Dolby Digital 5.1",
+      "poster": "https://www.demo-world.eu/images/hd-trailers/panasonic_nuerburgring_race_driving.jpg",
+      "links": [
+        {
+          "url": "http://s1.demo-world.eu/hd_trailers.php?file=panasonic_nuerburgring_race_driving-DWEU.mkv",
           "quality":"HD" 
           }
         ]
