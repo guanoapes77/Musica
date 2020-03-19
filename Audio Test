@@ -37,13 +37,13 @@
       ]
     },
     {
-      "title": "Dolby Surround Sound test",
+      "title": "Monster & THX",
       "year": "2019",
-      "plot": "Codec: m2ts - Audio format: Dolby Digital 5.1",
-      "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/the-sound-of-high-definition-blu-ray-f.jpg?raw=true",
+      "plot": "Video: 1080/23.97p - Audio format: Dolby Digital 5.1",
+      "poster": "https://www.demo-world.eu/images/hd-trailers/thx_monster_and_thx.jpg",
       "links": [
         {
-          "url": "https://mega.nz/#!uI0lyLaA!rKY7sD52l0b3SLxyDZwcGRLofbLOvA1XIr8QrX9gnHY",
+          "url": "http://s1.demo-world.eu/hd_trailers.php?file=thx_monster_and_thx-DWEU.mkv",
           "quality":"HD"
                   }
       ]
