@@ -69,6 +69,18 @@
         {
           "url": "https://mega.nz/#!jc8HBbZb!_JchFemqjj6hy-Gp3iqsyLpziPxPqPXaf_mHuF9DryA",
           "quality":"HD"
+            }
+      ]
+    },
+    {
+      "title": "Repo Samples",
+      "year": "2019",
+      "plot": "Codec: m2ts - Audio format: Dolby TrueHD 5.1",
+      "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/the-sound-of-high-definition-blu-ray-f.jpg?raw=true",
+      "links": [
+        {
+          "url": "http://samples.mplayerhq.hu/",
+          "quality":"HD" 
           }
         ]
       }
