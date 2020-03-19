@@ -1,13 +1,13 @@
 {
   "movies_list": [
     {
-      "title": "Torrent - Solo Audio The DALI CD Volume 3",
-      "year": "1992",
-      "plot": "In Admiration of Music Tipo Rip : tracce + .cue Codec audio : FLAC Audio : 44,1 kHz, 16 bit, 526-954 kbps, stereo",
+      "title": "THX Deep Note Genesis",
+      "year": "2019",
+      "plot": "Codec: MKV 2160p/24.000 - Audio Format: DTS-HD MA 5.1",
       "poster": "http://i52.fastpic.ru/big/2013/0329/68/1318e1a5bc16d7381cc261d30d80f068.jpg?r=1",
       "links": [
         {
-          "url": "magnet:?xt=urn:btih:D1890C20B05B98A888553137861DB904786FBBFD&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=(Test%20CD)%20The%20DALI%20CD%20Volume%203%20-%20In%20Admiration%20of%20Music%20(tracks%20%2B%20.cue)%20FLAC",
+          "url": "https://drive.google.com/file/d/1HyQE5eqvV8BewCdbR9Xq3jbh1eUX0zXN/view",
           "quality":"HD"
               }
       ]
