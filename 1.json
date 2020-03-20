@@ -45,7 +45,7 @@
       },  
      {
       "title": "Audio-Video Test",
-      "plot": "[COLOR kod]Materiale di Test per impianti Audio-Video - Requisiti Banda Internet: 3Mbps velocità raccomandata per qualità SD - 5Mbps velocità raccomandata per qualità HD - 25Mbps velocità raccomandata per qualità Ultra HD[/COLOR]",
+      "plot": "Materiale di Test per impianti Audio-Video - Requisiti Banda Internet: 3Mbps velocità raccomandata per qualità SD - 5Mbps velocità raccomandata per qualità HD - 25Mbps velocità raccomandata per qualità Ultra HD {color kod}",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Audio%20Test",
       "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/McIntosh-MC312.jpg?raw=true"  
      }
