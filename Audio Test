@@ -8,7 +8,7 @@
       "links": [
         {
           "url": "https://drive.google.com/file/d/1HyQE5eqvV8BewCdbR9Xq3jbh1eUX0zXN/view",
-          "quality":"HD"
+          "quality":"FHD"
               }
       ]
     },
@@ -20,7 +20,7 @@
       "links": [
         {
           "url": "https://mega.nz/#!OVdyjCZS!7hpUkiXj9XhriPi297gtFApLka8TwArerhH5iPaOaBw",
-          "quality":"HD"
+          "quality":"FHD"
               }
       ]
     },
@@ -32,7 +32,7 @@
       "links": [
         {
           "url": "https://mega.nz/#!WAVi2IyY!DO0O2sXHBfF8pJNZxotTuU4ipn7Cj4GZqoNOyv6ZFp8",
-          "quality":"HD"
+          "quality":"FHD"
                      }
       ]
     },
@@ -44,7 +44,7 @@
       "links": [
         {
           "url": "http://s1.demo-world.eu/hd_trailers.php?file=thx_monster_and_thx-DWEU.mkv",
-          "quality":"HD"
+          "quality":"FHD"
                   }
       ]
     },
@@ -56,7 +56,7 @@
       "links": [
         {
           "url": "https://drive.google.com/file/d/0BwxFVkl63-lEcU1ScWZuMjhpOXM/view",
-          "quality":"HD"
+          "quality":"FHD"
                  }
       ]
     },
@@ -68,7 +68,7 @@
       "links": [
         {
           "url": "https://mega.nz/#!jc8HBbZb!_JchFemqjj6hy-Gp3iqsyLpziPxPqPXaf_mHuF9DryA",
-          "quality":"HD"
+          "quality":"FHD"
             }
       ]
     },
@@ -80,7 +80,7 @@
       "links": [
         {
           "url": "https://mega.nz/#!cM9VmBSL!mME5qULH2H5M24vLmjqfZZkaoUjY6RsrGPiw3ultMW0",
-          "quality":"HD" 
+          "quality":"FHD" 
                }
       ]
     },
@@ -92,7 +92,7 @@
       "links": [
         {
           "url": "https://drive.google.com/file/d/0Bx63o79bMC7lMEMxUmxzV2NtYTA/view",
-          "quality":"HD" 
+          "quality":"FHD" 
            }
       ]
     },
@@ -104,7 +104,7 @@
       "links": [
         {
           "url": "http://s1.demo-world.eu/hd_trailers.php?file=panasonic_nuerburgring_race_driving-DWEU.mkv",
-          "quality":"HD"
+          "quality":"FHD"
            }
       ]
     },
@@ -116,7 +116,7 @@
       "links": [
         {
           "url": "http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_30fps_normal.mp4",
-          "quality":"HD"
+          "quality":"4K"
            }
       ]
     },
@@ -128,7 +128,19 @@
       "links": [
         {
           "url": "https://mega.nz/#!aRsHDJBL!5b0iaMMqL6u4vQ_EWov2CU8Sd0si8f3V-dKQY4vj7_o",
-          "quality":"HD" 
+          "quality":"UHD"
+          }
+      ]
+    },
+    {
+      "title": "FHD 7.1",
+      "year": "2019",
+      "plot": "Codec:m2ts FHD - Audio format: Dolby Digital 7.1",
+      "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/the-sound-of-high-definition-blu-ray-f.jpg?raw=true",
+      "links": [
+        {
+          "url": "https://mega.nz/#!aJMz3awa!x86CrjIBKl_xj-zOH7UK0MSZ0GYkVkDKhmBH0vKGXkU",
+          "quality":"FHD" 
           }
         ]
       }
