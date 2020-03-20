@@ -6,7 +6,7 @@
   "menu": [
     {
       "title": "Web Radio",
-      "plot": "Entra ed ascolta centinaia di Web Radio!!!",
+      "plot": "[COLOR royalblue]Entra ed ascolta centinaia di Web Radio!!![/COLOR]",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio",
       "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/web%20radio%20poster.jpg?raw=true"  
     }, 
@@ -27,25 +27,25 @@
     },  
     {
        "title": "Animusic",
-      "plot": "Animusic è una ditta americana specializzata nella visualizzazione 3D guidata da musica basata su MIDI. Fondata da Wayne Lytle, ha uffici a New York e anche in Texas e California. Il nome originario della compagnia era Visual Music, poi cambiato in Animusic nel 1995",
+      "plot": "[COLOR royalblue]Animusic è una ditta americana specializzata nella visualizzazione 3D guidata da musica basata su MIDI. Fondata da Wayne Lytle, ha uffici a New York e anche in Texas e California. Il nome originario della compagnia era Visual Music, poi cambiato in Animusic nel 1995[/COLOR]",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Animusic.json",
       "thumbnail": "https://img.discogs.com/SSTYxzI5iA-n0v2QiS6hRecoqrs=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2455925-1303906219.jpeg.jpg"
      },  
      {
       "title": "Canali Musicali",
-      "plot": "Entra e guarda centinaia di Canali Musicali!!!",
+      "plot": "[COLOR royalblue]Entra e guarda centinaia di Canali Musicali!!![/COLOR]",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Canali%20Musicali",
       "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/Music%20Channel%20Poster%202.jpg?raw=true" 
      },  
      {
       "title": "Motori - Ken Block",
-      "plot": "Ken Block (Long Beach, 21 novembre 1967) è un pilota di rally, imprenditore e stuntman statunitense",
+      "plot": "[COLOR royalblue]Ken Block (Long Beach, 21 novembre 1967) è un pilota di rally, imprenditore e stuntman statunitense[/COLOR]",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/KEN%20BLOCK",
       "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/ken%20block%20poster.jpg?raw=true" 
       },  
      {
       "title": "Audio-Video Test",
-      "plot": "Materiale di Test per impianti Audio-Video - Requisiti Banda Internet: 3Mbps velocità raccomandata per qualità SD - 5Mbps velocità raccomandata per qualità HD - 25Mbps velocità raccomandata per qualità Ultra HD",
+      "plot": "[COLOR royalblue]Materiale di Test per impianti Audio-Video - Requisiti Banda Internet: 3Mbps velocità raccomandata per qualità SD - 5Mbps velocità raccomandata per qualità HD - 25Mbps velocità raccomandata per qualità Ultra HD[/COLOR]",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Audio%20Test",
       "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/McIntosh-MC312.jpg?raw=true"  
      }
