@@ -121,9 +121,9 @@
       ]
     },
     {
-      "title": "UHD 7.1",
+      "title": "UHD 3840x2160 DolbyTrueHD 7.1",
       "year": "2019",
-      "plot": "Codec:m2ts UHD - Audio format: Dolby Digital 7.1",
+      "plot": "Codec:m2ts UHD 3840x2160 Audio format: DolbyTrueHD 7.1",
       "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/the-sound-of-high-definition-blu-ray-f.jpg?raw=true",
       "links": [
         {
