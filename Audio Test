@@ -1,7 +1,19 @@
 {
   "movies_list": [
     {
-      "title": "Justice League 1080p-DTS 5.1 ",
+      "title": "Avengers [Iron Man vs Thor]1080pDTS-HD",
+      "year": "2019",
+      "plot": "Codec: TTS 1080p - Audio Format: DTS 5.1",
+      "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/the-sound-of-high-definition-blu-ray-f.jpg?raw=true",
+      "links": [
+        {
+          "url": "https://mega.nz/#!zUlXVahB!RIoRIwIiEj1NX8df0sZHfQzoKAzoICSZ4QOrtwq68bM",
+          "quality":"FHD"
+              }
+      ]
+    },
+    {
+      "title": "Justice League 1080p-DTS 5.1",
       "year": "2019",
       "plot": "Codec: TTS 1080p - Audio Format: DTS 5.1",
       "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/the-sound-of-high-definition-blu-ray-f.jpg?raw=true",
@@ -13,7 +25,7 @@
       ]
     },
     {
-    "title": "Logan 1080p-DTS 5.1 ",
+    "title": "Logan 1080p-DTS 5.1",
       "year": "2019",
       "plot": "Codec: TTS 1080p - Audio Format: DTS 5.1",
       "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/the-sound-of-high-definition-blu-ray-f.jpg?raw=true",
