@@ -39,7 +39,7 @@
       "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/WEBCAM%20LOGO.jpg?raw=true",
       "links": [
         {
-          "url": "https://ape.hls.camzonecdn.com/CamzoneStreams/ape/media_12722.ts",
+          "url": "https://ape.hls.camzonecdn.com/CamzoneStreams/ape/chunklist.m3u8",
           "quality":"HD"         
         }
       ]
