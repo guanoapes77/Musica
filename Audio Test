@@ -176,7 +176,19 @@
       "links": [
         {
           "url": "https://mega.nz/#!aJMz3awa!x86CrjIBKl_xj-zOH7UK0MSZ0GYkVkDKhmBH0vKGXkU",
-          "quality":"FHD" 
+          "quality":"FHD"
+           }
+      ]
+    },
+    {
+      "title": "Stereo: Left and Right Stereo Sound Test",
+      "year": "2019",
+      "plot": "Audio format: mp3 2ch.",
+      "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/the-sound-of-high-definition-blu-ray-f.jpg?raw=true",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=6TWJaFD6R2s&t=42s",
+          "quality":"SD" 
           }
         ]
       }
