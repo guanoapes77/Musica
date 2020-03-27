@@ -202,6 +202,18 @@
           "url": "https://www.youtube.com/watch?v=PAsMlDptjx8",
           "quality":"SD" 
           }
+      ]
+    },
+    {
+      "title": "THX Official Bass Test",
+      "year": "2019",
+      "plot": "Audio format: mp3 2ch. 80Hz",
+      "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/THX%20Official%20Bass%20Test.jpg?raw=true",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=M533ijROT7o&list=RDM533ijROT7o&start_radio=1&t=159",
+          "quality":"SD"  
+          }
         ]
       }
     ]
