@@ -1,7 +1,7 @@
 {
   "movies_list": [
     {
-      "title": "Decorah EaglesDecorah, Iowa, USA",
+      "title": "Decorah Aquila, Iowa, USA",
       "year": "",
       "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/WEBCAM%20LOGO.jpg?raw=true",
       "links": [
@@ -12,7 +12,7 @@
       ]
     },
     {
-      "title": "Watch sheep, goats and new-born lambs via this adorable live stream.",
+      "title": "Pecorelle.",
       "year": "",
       "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/WEBCAM%20LOGO.jpg?raw=true",
       "links": [
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "title": "AFRICAN PENGUINS...AND FRIENDS",
+      "title": "Pinguini Africani",
       "year": "",
       "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/WEBCAM%20LOGO.jpg?raw=true",
       "links": [
@@ -34,13 +34,13 @@
       ]
     },
     {
-      "title": "Apes",
+      "title": "Scimmie",
       "year": "",
       "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/WEBCAM%20LOGO.jpg?raw=true",
       "links": [
         {
           "url": "https://ape.hls.camzonecdn.com/CamzoneStreams/ape/chunklist.m3u8",
-          "quality":"HD"         
+          "quality":"HD"    
         }
       ]
     }
