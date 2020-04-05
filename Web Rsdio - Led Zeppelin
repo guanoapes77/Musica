@@ -1,0 +1,17 @@
+{
+    "movies_list": [
+        {
+            "title": "Led Zeppelin - MojePolskieRadio",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Web%20Radio/Led%20Zeppelin.png?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Web%20Radio/Led%20Zeppelin.png?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Web%20Radio/Led%20Zeppelin.png?raw=true",
+            "links": [
+                {
+                    "url": "http://stream3.polskieradio.pl:8068",
+                    "quality": "SD"
+                }
+            ]
+        }
+    ]
+}
