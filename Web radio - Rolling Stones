@@ -1,0 +1,17 @@
+{
+    "movies_list": [
+        {
+            "title": "The Rolling Stones",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/Beatles.png",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/Beatles.png",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/Beatles.png",
+            "links": [
+                {
+                    "url": "http://icy.unitedradio.it/VirginSpecialEvent.mp3",
+                    "quality": "SD"
+                }
+            ]
+        }
+    ]
+}
