@@ -2,9 +2,9 @@
     "movies_list": [
         {
             "title": "The Rolling Stones",
-            "year": "",
-            "poster": "",
-            "fanart": "",
+            "year": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/rolling%20stones.png?raw=true",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/rolling%20stones.png?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/rolling%20stones.png?raw=true",
             "thumbnail": "",
             "links": [
                 {
