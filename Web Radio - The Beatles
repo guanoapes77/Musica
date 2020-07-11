@@ -3,9 +3,9 @@
         {
             "title": "Beatles Radio - 128kbps",
             "year": "",
-            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/Beatles.png",
-            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/Beatles.png",
-            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/Beatles.png",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/Beatles.png?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/Beatles.png?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/Beatles.png?raw=true",
             "links": [
                 {
                     "url": "http://www.beatlesradio.com:8000/stream/1/",
