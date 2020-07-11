@@ -1,14 +1,14 @@
 {
     "movies_list": [
         {
-            "title": "The Beatles",
+            "title": "Beatles Radio - 128kbps",
             "year": "",
-            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Web%20Radio/Led%20Zeppelin.png?raw=true",
-            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Web%20Radio/Led%20Zeppelin.png?raw=true",
-            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Web%20Radio/Led%20Zeppelin.png?raw=true",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/Beatles.png",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/Beatles.png",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/Beatles.png",
             "links": [
                 {
-                    "url": "http://stream3.polskieradio.pl:8068",
+                    "url": "http://www.beatlesradio.com:8000/stream/1/",
                     "quality": "SD"
                 }
             ]
