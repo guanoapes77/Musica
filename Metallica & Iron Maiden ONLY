@@ -1,0 +1,17 @@
+{
+    "movies_list": [
+        {
+            "title": "Metallica & Iron Maiden ONLY",
+            "year": "",
+            "poster": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Web%20Radio/IronMaidenvs.Metallicajpg.jpg?raw=true",
+            "fanart": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Web%20Radio/IronMaidenvs.Metallicajpg.jpg?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Web%20Radio/IronMaidenvs.Metallicajpg.jpg?raw=true",
+            "links": [
+                {
+                    "url": "http://46.4.184.212:8000/;",
+                    "quality": "SD"
+                }
+            ]
+        }
+    ]
+}
