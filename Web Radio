@@ -19,6 +19,12 @@
       "thumbnail": "https://images.8tracks.com/cover/i/002/044/475/80s2-2088.jpg?rect=0,0,500,500&q=98&fm=jpg&fit=max"
     },
     {
+      "title": "AC/DC",
+      "plot": "Web radio dedicata al gruppo Australiano",
+      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20-%20ACDC",
+      "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Web%20Radio/acdc%20(1).jpg?raw=true"
+    },
+    {
     "title": "Anime (Jap)",
       "plot": "Web radio Anime",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio%20-%20Anime(JAP)",
