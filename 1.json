@@ -8,22 +8,7 @@
       "title": "Web Radio",
       "plot": "[COLOR royalblue]Entra ed ascolta centinaia di Web Radio!!![/COLOR]",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Radio",
-      "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/web%20radio%20poster.jpg?raw=true"  
-    }, 
-    {
-      "title": "Blues-Live Concert",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Blues.json",
-      "thumbnail": "https://i0.wp.com/www.radiodiffusioneeuropea.net/wp-content/uploads/2019/02/blues4.jpg?resize=678%2C381"
-    }, 
-    {
-      "title": "Pop-Live Concert",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/POP.json",
-      "thumbnail": "https://i.ytimg.com/vi/VxZmYEltE_E/maxresdefault.jpg"
-    }, 
-    {
-      "title": "Rock-Live Concert",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Rock.json",
-      "thumbnail": "https://www.iostudionews.it/wp-content/uploads/2019/04/rock-10-e-lode.jpg"   
+      "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/web%20radio%20poster.jpg?raw=true"      
     },  
     {
        "title": "Animusic",
@@ -41,31 +26,19 @@
       "title": "Motori - Ken Block",
       "plot": "[COLOR royalblue]Ken Block (Long Beach, 21 novembre 1967) è un pilota di rally, imprenditore e stuntman statunitense[/COLOR]",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/KEN%20BLOCK",
-      "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/ken%20block%20poster.jpg?raw=true" 
+      "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/ken%20block%20poster.jpg?raw=true"      
       },  
-     {
-      "title": "Audio-Video Test",
-      "plot": "[COLOR royalblue]Materiale di Test per impianti Audio-Video - Requisiti Banda Internet: 3Mbps velocità raccomandata per qualità SD - 5Mbps velocità raccomandata per qualità HD - 25Mbps velocità raccomandata per qualità Ultra HD[/COLOR]",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Audio%20Test",
-      "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/McIntosh-MC312.jpg?raw=true"
-        },  
-     {
+      {
       "title": "Web Cam Animali",
       "plot": "[COLOR royalblue]Coming Soon.... Web Cam da tutto il Mondo[/COLOR]",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Cam%201",
       "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/WEBCAM%20LOGO.jpg?raw=true"
-        },  
-     {
+      },  
+      {
       "title": "Dragon's Lair [ENG] St.1 - 1984-85 13ep.",
       "plot": "[COLOR royalblue]Dragon's Lair è una serie televisiva animata della Ruby-Spears Productions basato sull'omonimo gioco del 1983. La serie è composta da una sola stagione di 13 episodi in totale, ognuno della durata di mezz'ora, ed è stata trasmessa dal 1984[1] al 1985,[2] sulla rete TV ABC. Tra i tardi anni '80 e i primi anni '90 la serie è stata ritrasmessa dalla USA Cartoon Extress su Toonami e Boomerang. All credits goes to: www.classicgaming.cc[/COLOR]",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Dragon's%20Lair%20Season%201",
-      "thumbnail": "http://www.classicgaming.cc/classics/dragons-lair/images/wallpaper/wallpaper-dragons-lair-start-1920x1080.jpg"
-       },  
-     {
-      "title": "MetallicaMondays - Live in Paris, France — September 8, 2017",
-      "plot": "[COLOR royalblue]In questi giorni di quarantena a causa del Coronavirus, i Metallica lanciano una nuova serie di concerti in streaming denominata #MetallicaMondays che trasmetteranno sui propri canali YouTube e Facebook ogni Lunedì sera (in Italia alle ore 01:00 del Martedì).[/COLOR]",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/MetallicaMondays",
-      "thumbnail": "https://www.metallica.com/on/demandware.static/-/Sites-Metallica-Library/default/dw414e7ef9/images/blog/news/MetallicaMondays.png"
+      "thumbnail": "http://www.classicgaming.cc/classics/dragons-lair/images/wallpaper/wallpaper-dragons-lair-start-1920x1080.jpg"    
      }
   ]
 } 
