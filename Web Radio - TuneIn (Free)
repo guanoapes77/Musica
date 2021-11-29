@@ -1,19 +1,6 @@
 {
     "movies_list": [
         {
-            "title": "TuneIn - Alt Hits",
-            "year": "",
-            "poster": "https://images-na.ssl-images-amazon.com/images/I/31BrR-YDVNL._SR600,315_SCLZZZZZZZ_.png",
-            "fanart": "https://images-na.ssl-images-amazon.com/images/I/31BrR-YDVNL._SR600,315_SCLZZZZZZZ_.png",
-            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/31BrR-YDVNL._SR600,315_SCLZZZZZZZ_.png",
-            "links": [
-                {
-                    "url": "http://rfcmedia.streamguys1.com/alternativehits.mp3",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
             "title": "TuneIn - Classic Hip Hop",
             "year": "",
             "poster": "https://images-na.ssl-images-amazon.com/images/I/31BrR-YDVNL._SR600,315_SCLZZZZZZZ_.png",
