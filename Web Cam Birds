@@ -35,12 +35,12 @@
     },
     {
       "title": "-Monkeys-",
-      "year": "",
-      "poster": "5",
+      "poster": "https://d.newsweek.com/en/full/631310/gettyimages-454285480.jpg",
+	    "tmdb_id":"0",
       "links": [
         {
           "url": "https://ape.hls.camzonecdn.com/CamzoneStreams/ape/chunklist.m3u8",
-          "quality":"HD"    
+          "quality": "HD"
         }
       ]
     }
