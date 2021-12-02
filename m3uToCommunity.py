@@ -1,10 +1,13 @@
+
+# -*- coding: utf-8 -*-
+
 import re, json, os
 
 
 m3uLi = []
 for file in os.listdir('.'):
     if file.split('.')[-1] == 'm3u':
-        m3uLi.append(open(file,encoding="utf-8").read())
+        m3uLi.append(open(file, encoding="utf-8").read())
 regex = '#EXTINF:.*?(?:tvg-logo="([^"]+)")?,([^\n]+).*\n(.+)'
 out = {
     "movies_list": []
@@ -17,7 +20,6 @@ for m3u in m3uLi:
             "url": url,
             "quality": quality
         }
-
         for n, channel in enumerate(out["movies_list"]):
             if channel['title'] == name:  # esiste già
                 out["movies_list"][n]["links"].append(link)
