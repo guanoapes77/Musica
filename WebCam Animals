@@ -74,6 +74,17 @@
         {
           "url": "https://www.youtube.com/watch?v=tPdKmQyh6W8",
           "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "-The Giant Flying Fox-",
+      "year": "",
+      "poster": "https://github.com/guanoapes77/Musica/blob/master/WebCam/The%20Giant%20Flying%20Fox.jpg?raw=true",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=2AfYoTHgJbc",
+          "quality":"HD"
 	    }
       ]
     }
