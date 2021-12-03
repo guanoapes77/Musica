@@ -1,0 +1,114 @@
+{
+    "movies_list": [
+        {
+            "title": "WALM",
+            "year": "",
+            "thumbnail": "Poster Web Radio\\christian radio.jpg",
+            "links": [
+                {
+                    "url": "https://walmradio.com:8443/walm",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Maria",
+            "year": "",
+            "thumbnail": "Poster Web Radio\\christian radio.jpg",
+            "links": [
+                {
+                    "url": "http://dreamsiteradiocp.com:8092/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Mojdeh",
+            "year": "",
+            "thumbnail": "Poster Web Radio\\christian radio.jpg",
+            "links": [
+                {
+                    "url": "http://ic2326.c1261.fast-serv.com/rm128",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Christian Life Radio",
+            "year": "",
+            "thumbnail": "Poster Web Radio\\christian radio.jpg",
+            "links": [
+                {
+                    "url": "https://ice64.securenetsystems.net/CLR1MP3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Christian Power Praise net",
+            "year": "",
+            "thumbnail": "Poster Web Radio\\christian radio.jpg",
+            "links": [
+                {
+                    "url": "http://listen.christianpowerpraise.net/stream/7/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "R\u00e1dio Lumen",
+            "year": "",
+            "thumbnail": "Poster Web Radio\\christian radio.jpg",
+            "links": [
+                {
+                    "url": "http://audio.lumen.sk:8000/live128.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "ERF Pop",
+            "year": "",
+            "thumbnail": "Poster Web Radio\\christian radio.jpg",
+            "links": [
+                {
+                    "url": "http://erf1068-ice-edge-1102-fra-eco-cdn.cast.addradio.de/erf1068/live/mp3/high?ar-distributor=ffa5&_art=dj0yJmlwPTQ2LjIyOS40NS4xMzkmaWQ9aWNzY3hsLWthYW40anRvYiZ0PTE2MjYyMDIzMDQmcz03ODY2ZjI5YyNhNzU1ZTQzZmVmZDNkZTBmNjVkMDljZjcwYjQ0YTM5Nw",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "C-TV Coptic Channel",
+            "year": "",
+            "thumbnail": "Poster Web Radio\\christian radio.jpg",
+            "links": [
+                {
+                    "url": "https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/chunklist_w555483697_b1728000_slar_t64SEQ=.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "JESUS IS LORD Radio",
+            "year": "",
+            "thumbnail": "Poster Web Radio\\christian radio.jpg",
+            "links": [
+                {
+                    "url": "https://s3.radio.co/s97f38db97/listen",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Christian Rock net",
+            "year": "",
+            "thumbnail": "Poster Web Radio\\christian radio.jpg",
+            "links": [
+                {
+                    "url": "http://listen.christianrock.net/stream/1/",
+                    "quality": "SD"
+                }
+            ]
+        }
+    ]
+}
