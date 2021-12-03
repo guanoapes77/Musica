@@ -19,7 +19,7 @@
         {
           "url": "https://www.youtube.com/watch?v=tPdKmQyh6W8",
           "quality":"HD"
-          }
+	    }
       ]
     },
     {
@@ -29,6 +29,17 @@
       "links": [
         {
           "url": "https://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/chunklist.m3u8",
+          "quality":"HD"
+          }
+      ]
+    },
+    {
+      "title": "-Polar Bear Alaska-",
+      "year": "",
+      "poster": "https://ichef.bbci.co.uk/news/976/cpsprodpb/15FC4/production/_120625009_gettyimages-1164458903.jpg",
+      "links": [
+        {
+          "url": "https://youtu.be/hWbt2eVCEe8",
           "quality":"HD"
             }
       ]
