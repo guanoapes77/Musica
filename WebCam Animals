@@ -8,21 +8,32 @@
         {
           "url": "https://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/chunklist.m3u8",
           "quality":"HD"
-          }
-        ]
-      },     
+       }
+      ]
+    },     
     {
-      "title": "-Decorah Aquila, Iowa, USA-",
+      "title": "-Barracuda Cam-",
       "year": "",
-      "poster": "http://www.piazzadellafiera.it/temi/imgtemi/aquila.jpg",
+      "poster": "https://github.com/guanoapes77/Musica/blob/master/WebCam/barracuda.jpg?raw=true",
       "links": [
         {
-          "url": "https://www.youtube.com/watch?v=VlNV1L9qnrk",
+          "url": "https://www.youtube.com/watch?v=bqaXUYOBf_o",
           "quality":"HD"
-             }
+        }
       ]
     },
+    {       
+  "title": "-Decorah Aquila, Iowa, USA-",
+  "year": "",
+  "poster": "http://www.piazzadellafiera.it/temi/imgtemi/aquila.jpg",
+  "links": [
     {
+      "url": "https://www.youtube.com/watch?v=VlNV1L9qnrk",
+      "quality":"HD"
+    }
+  ]
+},
+{
       "title": "-Monkeys-",
       "poster": "https://d.newsweek.com/en/full/631310/gettyimages-454285480.jpg",
 	    "tmdb_id":"0",
