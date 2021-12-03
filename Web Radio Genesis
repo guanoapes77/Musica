@@ -1,0 +1,17 @@
+{
+    "movies_list": [
+        {
+            "title": "Genesis Radio",
+            "year": "",
+            "poster": "https://www.ondarock.it/images/monografie/genesis_1_1342874776.jpg",
+            "fanart": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://streaming.exclusive.radio/er/genesis/icecast.audio",
+                    "quality": "mp3 192kbps"
+                }
+            ]
+        }
+    ]
+}
