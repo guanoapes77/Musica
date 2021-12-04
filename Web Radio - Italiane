@@ -9736,6 +9736,7 @@
             "title": "RadioFreccia",
             "year": "",
             "poster": "https://cdn.webrad.io/images/countries/italy-logo_1200x630.png",
+            "tmdb_id":"0",
             "links": [
                 {
                     "url": "http://shoutcast.rtl.it:3060/stream",
@@ -9747,6 +9748,7 @@
             "title": "RadioFreccia [HLS]",
             "year": "",
             "poster": "https://cdn.webrad.io/images/countries/italy-logo_1200x630.png",
+            "tmdb_id":"0",
             "links": [
                 {
                     "url": "https://rtl-radio6-stream.thron.com/live/radio6/radio6/chunklist.m3u8",
