@@ -3,7 +3,7 @@
     {
       "title": "Pluto Film",
       "year": "",
-      "poster": "",
+      "poster": "https://github.com/guanoapes77/Musica/blob/master/PlutoTV/PlutoTV_FILM_Samsung_IT_476x476_Circle.png?raw=true",
       "links": [
         {
           "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
@@ -92,7 +92,7 @@
       "title": "Serie",
       "year": "",
       "tmdb_id": "",
-      "poster": "",
+      "poster": "https://github.com/guanoapes77/Musica/blob/master/PlutoTV/PlutoTV_SERIES_Samsung_476x476_Circle.png?raw=true",
       "links": [
         {
           "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus",
