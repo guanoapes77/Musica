@@ -27,7 +27,13 @@
       "plot": "[COLOR royalblue]Ken Block (Long Beach, 21 novembre 1967) è un pilota di rally, imprenditore e stuntman statunitense[/COLOR]",
       "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/KEN%20BLOCK",
       "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/ken%20block%20poster.jpg?raw=true"      
-      },  
+      }, 
+      {
+        "title": "PlutoTV+Italy",
+        "plot": "[COLOR royalblue]WebCam ..wip[/COLOR]",
+        "link": "PlutoTV.json",
+        "thumbnail": "Poster TV Channels\plutoTV.png"
+        },  
       {
       "title": "Web Cam",
       "plot": "[COLOR royalblue]WebCam ..wip[/COLOR]",
