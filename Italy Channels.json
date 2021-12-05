@@ -1,0 +1,917 @@
+{
+    "movies_list": [
+        {
+            "title": "*** ITALY - github.com/Free-IPTV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4 ",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "20 Mediaset",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Action Movies",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Amuse Animation",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Big Name",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://alchimie-big-names-3-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Bloomberg",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Boing Italia",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Canale 5",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Camera dei Deputati (via RR)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Cartoonito",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CG Entertainment",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://cgentertainment-cgtv-1-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Cine 34",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Class CNBC",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Classical Harmony",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://alchimie-classical-harmony-2-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Comedy Movies",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://rakuten-comedymovies-6-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Cusano TV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stream9.xdevel.com/video0s975363-691/stream/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Deejay TV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "DMAX IT",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Donna Shopping",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://media.streambrothers.com:1936/8038/8038/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Donna TV - github.com/Free-IPTV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://5f11919dca3bd.streamlock.net/donnatv/donnatv/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Euronews",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Family Movies",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://rakuten-family-6-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Focus",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Food Network",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Giallo - github.com/Free-IPTV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "HGTV Italia",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Humanity",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://alchimie-humanity-3-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "History Lab",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "HSE24",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://5f11919dca3bd.streamlock.net/HSE24/HSE24/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Iris",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Italia 1",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Italia 2",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "La 5",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Mediaset Extra",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Minerva Bizzarro Movies",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Minerva Cinema Segreto",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://minerva-cinemasegreto-1-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "MMA TV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Mondo Kids",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Moods  - github.com/Free-IPTV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://alchimie-moods-2-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Motor TV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "MotorTrend",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "My Surf TV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Nove IT",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "People are Awesome",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://jukin-peopleareawesome-2-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "R101 TV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(er)/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio 105 TV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ec)/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio 24",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://radio24-lh.akamaihd.net/i/radio24video_1@379914/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Capital TV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Freccia",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://rtl-video2-stream.thron.com/live-video/video2/ngrp:video2/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Italia TV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio m2o TV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Monte Carlo TV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Radicale TV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Radio TV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://api.new.livestream.com/accounts/11463451/events/3679884/live.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Zeta TV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RAI News 24",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rai Sport",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RDS Social TV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Real Time",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rete 4",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rete 7",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stream.ets-sistemi.it/live.rete7/rete7/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Retesole Lazio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://5c389faa13be3.streamlock.net:1935/8056/8056/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RTL 102.5 BEST",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RTL 102.5 TV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RTTR TV Trento",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RTV Sport (San Marino)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Senato TV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8?video_id=13440&uuid=&channel_name=senato_webtv1&detected_delivery_method=hls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Sky TG24",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Spike",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Spotlight",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://rakuten-spotlight-6-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Super!",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Supertoons TV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Teletubbies",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://dhx-teletubbies-2-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Telenuova",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://mediastream.telenuovo.it/tv/2021/03/13/be755445-f618-4cf0-8f1c-b776fc223c3a/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "TGCOM24 - github.com/Free-IPTV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Top Crime",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Top Crimine",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://endemol-top-criminie-1-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Top Series",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://endemol-top-serie-1-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "TV 2000",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://mi1.wz.tv2000.it/tv2000_alfa.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "TV Shows - github.com/Free-IPTV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "VH1 Italia",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Virgin Radio TV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Vuemme",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        }
+    ]
+}
