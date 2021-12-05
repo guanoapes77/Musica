@@ -1,0 +1,609 @@
+{
+    "movies_list": [
+        {
+            "title": "Alma TV Food (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://promosrl-almatvfood-1-it.samsung.wurl.tv/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Alma TV Travel (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://promosrl-almatvtravel-1-it.samsung.wurl.tv/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Amuse Animation (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Bizzarro Movies (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Bloomberg TV+ (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Brindiamo Channel (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://okproductions-brindiamochannel-1-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Canale Europa (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://canaleeuropa-canaleeuropa-1-it.samsung.wurl.tv/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CGTV (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://cgentertainment-cgtv-1-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Cinema Segreto (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://minerva-cinemasegreto-1-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Clubbing TV (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://dh6uweyulweqh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClubbingTV-IT-prod/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rakuten Comedy Movies (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://rakuten-comedymovies-6-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Cuore Ribelle (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://atresmedia-atreseries-1-it.samsung.wurl.tv/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Dark Matter (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00434-tricoast-darkmatter-italy-samsunguk/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Deluxe Lounge HD (Italy) Geo",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "title": "Rakuten Documentaries (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://rakuten-documentaries-6-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Donna TV (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://promosrl-donnatv-1-it.samsung.wurl.tv/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rakuten Drama (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Duck TV (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Euronews (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Euronews in diretta (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://alchimie-euronews-2-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Failarmy (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rakuten Family (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://rakuten-family-6-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Fashion TV (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rakuten Action Movies (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Fuel TV (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Horizon Sports (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3559cc0f-80c2-11eb-908d-533d39655269/0/master.m3u8?",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Humanity (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://alchimie-humanity-3-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Italian Fishing TV (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Mondo TV Kids (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Motor1 TV (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Museum TV Free (Italy) Geo",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-eng-samsungit/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Myzen TV Free (Italy) Geo",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "People are Awesome (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://jukin-peopleareawesome-2-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Planeta Junior (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://deaplaneta-planetakidz-2-it.samsung.wurl.tv/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Qwest TV Classical (UK) GEO",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Qwest Jazz and Beyond (UK) Geo",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Qwest TV Mix (UK) Geo",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Italia Trend (Italy) Geo",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rakuten Stories (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://rakuten-spotlight-6-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Shorts (Italy) Geo",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00784-shortsinternati-shortstv-fast-italy-samsungit/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Sofy TV (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://sofytv-samsungit.amagi.tv/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Sports Italia (Italy) Geo",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Sportoutdoor.tv (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://gto2000-sportoutdoortv-1-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Surf World TV (Italy) Geo",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-surfworldtv-samsungit/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Teletubbies (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://dhx-teletubbies-2-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Televisa Telenovelas (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "The Boat Show (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "The Pet Collective (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://the-pet-collective-international-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Trace Latina (Italy) Geo",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Trace Urban (Italy) Geo",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-traceurbanit-samsungit/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Vevo '90s & '00s (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://60d0ea8ca0368900012b7df9-samsung.eu.ssai.zype.com/60d0ea8ca0368900012b7df9_samsung_eu/manifest.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Vevo Pop (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://601820eb2b971a000104f40a-samsung.eu.ssai.zype.com/601820eb2b971a000104f40a_samsung_eu/manifest.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WP Minerva Pictures (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://minerva-wp-1-it.samsung.wurl.tv/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Yamato Animation (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://yamatovideo-yamatoanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "My Surf TV (Italy)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        }
+    ]
+}
