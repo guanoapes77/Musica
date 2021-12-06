@@ -41,10 +41,16 @@
      "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/Logo%20italian%20channel.png?raw=true"     
       }, 
      {
-    "title": "PlutoTV",
+    "title": "RakutenTV Int.",
     "plot": "",
     "link": "PLUTO TV",
     "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/PlutoTV/pluto-tv-logo.jpg?raw=true"
+      }, 
+     {
+    "title": "PlutoTV",
+    "plot": "",
+    "link": "PLUTO TV",
+    "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/PlutoTV/pluto-tv-logo.jpg?raw=true" 
       },  
       {
       "title": "SamsungTv Plus Italy",
