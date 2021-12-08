@@ -3,7 +3,7 @@
         {
             "title": "Animals Live",
             "year": "",
-            "thumbnail": "BumblebeeTV\animals.png",
+            "thumbnail": "https://raw.githubusercontent.com/guanoapes77/Musica/master/BumblebeeTV/animals.png",
             "links": [
                 {
                     "url": "https://promosrl-almatvfood-1-it.samsung.wurl.tv/playlist.m3u8",
@@ -14,7 +14,7 @@
         {
             "title": "Aurora Live",
             "year": "",
-            "thumbnail": "https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/aurora.png",
+            "thumbnail": "https://raw.githubusercontent.com/guanoapes77/Musica/master/BumblebeeTV/aurora.png",
             "links": [
                 {
                     "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8",
@@ -80,7 +80,7 @@
         {
             "title": "Beaches Live",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://raw.githubusercontent.com/guanoapes77/Musica/master/BumblebeeTV/beaches.png",
             "links": [
                 {
                     "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8",
@@ -245,7 +245,7 @@
         {
             "title": "Automoto",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://raw.githubusercontent.com/guanoapes77/Musica/master/BumblebeeTV/automoto.png",
             "links": [
                 {
                     "url": "https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8",
@@ -399,7 +399,7 @@
         {
             "title": "Civilized",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://raw.githubusercontent.com/guanoapes77/Musica/master/BumblebeeTV/civilized.jpg",
             "links": [
                 {
                     "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8",
