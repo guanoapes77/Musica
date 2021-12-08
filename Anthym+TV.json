@@ -1,0 +1,235 @@
+{
+    "movies_list": [
+        {
+            "title": "Cable Hits Pawn",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/PawnStars/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8 ",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Cable Hits Cops",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/LivePD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Mashup True Crime",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/CRIME/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Mashup Jerry",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/JERRY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Mashup Food",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/FOOD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Mashup Home",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/House/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Mashup GearHead",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/Chassy/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Mashup Outdoors",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/Outdoors/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Cable Hits swap",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/Duck/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Reality Cable Hits ",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Cable Hits Lifestyle",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/TLC/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Original Wild West",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/WildWest/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Original Americana Classics",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/Classics/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Mashup History",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Mashup Travel",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/TRAVEL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Mashup Comedy",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/SNL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Mashup Game Show",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/GAMESHOW/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Mashup Discover",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/Discover/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Cable Hits Fight Night",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/Fight/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Opinion Politics",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/Politics/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "X.PD Channel",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/XPD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        }
+    ]
+}
