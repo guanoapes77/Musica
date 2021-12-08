@@ -13,13 +13,13 @@
     {
        "title": "Animusic",
       "plot": "[COLOR royalblue]Animusic è una ditta americana specializzata nella visualizzazione 3D guidata da musica basata su MIDI. Fondata da Wayne Lytle, ha uffici a New York e anche in Texas e California. Il nome originario della compagnia era Visual Music, poi cambiato in Animusic nel 1995[/COLOR]",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Animusic.json",
+      "link": "Animusic.json",
       "thumbnail": "https://img.discogs.com/SSTYxzI5iA-n0v2QiS6hRecoqrs=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2455925-1303906219.jpeg.jpg"
      },  
      {
        "title": "Anthym+TV",
       "plot": "21 canali di varie tematiche in inglese",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Anthym%2BTV.json",
+      "link": "Anthym+TV.json",
       "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Anthym+TV/AnthymTV+%20Logo.png?raw=true"
      },  
      {
@@ -31,13 +31,13 @@
     {
      "title": "Canali Musicali",
      "plot": "[COLOR royalblue]Entra e guarda centinaia di Canali Musicali!!![/COLOR]",
-     "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Canali%20Musicali",
+     "link": "Canali Musicali",
      "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Web%20Radio/music%20channel%20logo.jpg?raw=true" 
     },  
     {
      "title": "Motori - Ken Block",
      "plot": "[COLOR royalblue]Ken Block (Long Beach, 21 novembre 1967) è un pilota di rally, imprenditore e stuntman statunitense[/COLOR]",
-     "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/KEN%20BLOCK",
+     "link": "KEN BLOCK",
      "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Poster%20Musica/ken%20block%20poster.jpg?raw=true"
     },  
     {
@@ -49,7 +49,7 @@
      {
     "title": "RakutenTV Int.",
     "plot": "",
-    "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/RakutenTV%20Int.json",
+    "link": "RakutenTV Int.json",
     "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/RakutenTV%20Int/RakutenTV%20Int%20Logo.png?raw=true"
       }, 
      {
@@ -68,13 +68,13 @@
       {
     "title": "Web Cam",
     "plot": "[COLOR royalblue]WebCam ..wip[/COLOR]",
-    "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Web%20Cam%201",
+    "link": "Web Cam 1",
     "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/WebCam/webcamanimal.png?raw=true"
       },  
       {
       "title": "Dragon's Lair [ENG] St.1 - 1984-85 13ep.",
       "plot": "[COLOR royalblue]Dragon's Lair è una serie televisiva animata della Ruby-Spears Productions basato sull'omonimo gioco del 1983. La serie è composta da una sola stagione di 13 episodi in totale, ognuno della durata di mezz'ora, ed è stata trasmessa dal 1984[1] al 1985,[2] sulla rete TV ABC. Tra i tardi anni '80 e i primi anni '90 la serie è stata ritrasmessa dalla USA Cartoon Extress su Toonami e Boomerang. All credits goes to: www.classicgaming.cc[/COLOR]",
-      "link": "https://raw.githubusercontent.com/guanoapes77/Musica/master/Dragon's%20Lair%20Season%201",
+      "link": "Dragon's Lair 1",
       "thumbnail": "http://www.classicgaming.cc/classics/dragons-lair/images/wallpaper/wallpaper-dragons-lair-start-1920x1080.jpg"    
      }
   ]
