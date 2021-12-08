@@ -1,0 +1,422 @@
+{
+    "movies_list": [
+        {
+            "title": "Animals Live",
+            "year": "",
+            "thumbnail": "https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/animals.png",
+            "links": [
+                {
+                    "url": "https://promosrl-almatvfood-1-it.samsung.wurl.tv/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Aurora Live",
+            "year": "",
+            "thumbnail": "https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/aurora.png",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Forests Live",
+            "year": "",
+            "thumbnail": "https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/forests.png",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Lakes Live",
+            "year": "",
+            "thumbnail": "https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/lakes.png",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Mountains Live",
+            "year": "",
+            "thumbnail": "https://github.com/DeltaSr95/BumblebeeTV/raw/master/logos/mountains.png",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rivers Live",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Sunsets Live",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Beaches Live",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Tropics Live",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Country Boy Kid Videos",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Cute Zone",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Giggle Zone",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Lego Toons",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Master Builders",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "title": "Toy Zone",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Fun Zone",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Lifebae",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22681932c8304fc453418/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "FGTV & Funnelvision",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Crafty Panda",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Thinknoodles",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node01.powr.com/live/5afc810e932c833522744733/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Lets Play Minecraft",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Smosh",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625af5748670f12a3bee9/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Automoto",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Motorcyclist",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Recoil TV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7dff0f932c8368bdbfd5fd/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Xcorps",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://d2h2fyavn9bij8.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/MeTV-XCorps/a7998774-5101-43b9-8f81-24653cca1f8b/0.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Popcorn Flix Action",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Trinity & Beyond",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2626030145130f25474626/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Shorts Channel",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://b29da26d9a17436eafe339c08e488f33.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f8609010d552957bf5aa546/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Docs Channel",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://0813a4e76b5d404a97a4070b8e087bc4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f8609d9d6344257cbfb6ee4/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Classics Channel",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Classics Channel 2",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node05.powr.com/live/60f881602da3a5575eceb854/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Epic Makes Misses & Mayhem",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Coronavirusgov",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e7559e8a46b495a2283c5e8/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Thinknoodles Test for Bitcentral",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://2459f78c2f5d42c996bb24407b76877a.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_60f88620abf1e257404a9250/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Slimo",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Civilized",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "High Times TV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2503932c8368bdbfd875/playlist.m3u8",
+                    "quality": "SD"               
+                }
+            ]
+        }
+    ]
+}
