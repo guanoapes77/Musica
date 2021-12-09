@@ -1,18 +1,6 @@
 {
     "movies_list": [
         {
-            "title": "Thanks To Free IPTV streams:-)",
-            "year": "",
-            "thumbnail": "",
-            "tmdb_id": "0",
-            "links": [
-                {
-                    "url": "https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4 ",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
             "title": "20 Mediaset",
             "year": "",
             "thumbnail": "",
@@ -20,42 +8,6 @@
             "links": [
                 {
                     "url": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
-            "title": "Action Movies",
-            "year": "",
-            "thumbnail": "",
-            "tmdb_id": "0",
-            "links": [
-                {
-                    "url": "https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
-            "title": "Amuse Animation",
-            "year": "",
-            "thumbnail": "",
-            "tmdb_id": "0",
-            "links": [
-                {
-                    "url": "https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
-            "title": "Big Name",
-            "year": "",
-            "thumbnail": "",
-            "tmdb_id": "0",
-            "links": [
-                {
-                    "url": "https://alchimie-big-names-3-it.samsung.wurl.com/manifest/playlist.m3u8",
                     "quality": "SD"
                 }
             ]
