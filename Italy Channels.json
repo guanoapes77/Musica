@@ -319,7 +319,7 @@
             "tmdb_id": "0",
             "links": [
                 {
-                    "url": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8",
+                    "url": "http://103.194.169.171:8282/IT:italia1_HD_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com",
                     "quality": "SD"
                 }
             ]
