@@ -140,19 +140,7 @@
             "links": [
                 {
                     "url": "https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(ki)/manifest.mpd",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
-            "title": "Cielo",
-            "year": "",
-            "thumbnail": "",
-            "tmdb_id": "0",
-            "links": [
-                {
-                    "url": "http://103.194.169.171:8282/IT:CIELOHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com",
-                    "quality": "SD"
+                    "quality": "SD"               
                 }
             ]
         },
