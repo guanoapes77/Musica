@@ -73,13 +73,13 @@
             ]
         },
         {
-            "title": "CG Entertainment",
+            "title": "Cielo",
             "year": "",
             "thumbnail": "",
             "tmdb_id": "0",
             "links": [
                 {
-                    "url": "https://cgentertainment-cgtv-1-it.samsung.wurl.com/manifest/playlist.m3u8",
+                    "url": "http://103.194.169.171:8282/IT:CIELOHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c&checkedby:iptvcat.com",
                     "quality": "SD"
                 }
             ]
