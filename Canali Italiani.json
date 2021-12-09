@@ -1,0 +1,688 @@
+{
+    "movies_list": [
+        {
+            "title": "Rai 1",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rai 2",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rai 3",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rete 4",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(r4)/manifest.mpd",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Canale 5",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(c5)/manifest.mpd",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Italia 1",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(i1)/manifest.mpd",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "LA7",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live_1280x720_.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "LA8",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://www.mytivu.it/Application/Channels/TV8.php",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Nove",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "20",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(lb)/manifest.mpd",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rai 4",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Iris",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(ki)/manifest.mpd",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rai 5",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rai Movie",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rai Premium",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Paramount Network",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "TV2000",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://cldwz.tv2000.it/tv2000_main.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "LA7d",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "La 5",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(ka)/manifest.mpd",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Real Time",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "QVC",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "FOOD NETWORK",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Cine34",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(b6)/manifest.mpd",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "FOCUS",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(fu)/manifest.mpd",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RTL 102.5",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "GM24",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://streaming.softwarecreation.it/GM24/GM24/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Giallo",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Top Crime",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(lt)/manifest.mpd",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Boing",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(kb)/manifest.mpd",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rai Gulp",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rai Yoyo",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Cartoonito",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(la)/manifest.mpd",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Super!",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rai News 24",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Spike",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Sky TG24",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "TGCOM 24",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(kf)/manifest.mpd",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Dmax",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rai Storia",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Mediaset Extra",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rai Sport +",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Motor Trend",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "ALMA TV",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Italia 2",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://live3.msf.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(i2)/manifest.mpd",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "VH1",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Deejay TV",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://deejay-tv-lh.akamaized.net/i/DeejayTv_1@129866/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RadioItaliaTV",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Padre Pio TV",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rai Scuola",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio 105 TV",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://live3.msr.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(EC)/manifest.mpd",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RADIO KISS KISS TV",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://58d921499d3d3.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "R101 TV",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://live3.msr.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(ER)/manifest.mpd",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "VIRGIN RADIO",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://live3.msr.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(EW)/manifest.mpd",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RADIOFRECCIA",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RDS Social TV",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RADIO ZETA",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Montecarlo TV",
+            "year": "",
+            "thumbnail": "",
+            "tmdb_id": "0",
+            "links": [
+                {
+                    "url": "https://live3.msr.cdn.mediaset.net/Content/dash_d0_clr_vos/live/channel(BB)/manifest.mpd",
+                    "quality": "SD"
+                }
+            ]
+        }
+    ]
+}
