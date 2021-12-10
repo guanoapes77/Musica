@@ -3,7 +3,7 @@
         {
             "title": "Rai 1",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/rai.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -15,7 +15,7 @@
         {
             "title": "Rai 2",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/rai2.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -27,7 +27,7 @@
         {
             "title": "Rai 3",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/rai3.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -39,7 +39,7 @@
         {
             "title": "Rete 4",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/rete4.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -51,7 +51,7 @@
         {
             "title": "Canale 5",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/canale5.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -63,7 +63,7 @@
         {
             "title": "Italia 1",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/italia1.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -75,7 +75,7 @@
         {
             "title": "LA7",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/la7.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -87,7 +87,7 @@
         {
             "title": "LA8",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/la8.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -99,7 +99,7 @@
         {
             "title": "Nove",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/nove.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -123,11 +123,11 @@
         {
             "title": "Rai 4",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/rai4.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
-                    "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+                    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966",
                     "quality": "SD"
                 }
             ]
@@ -135,7 +135,7 @@
         {
             "title": "Iris",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/iris.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -147,7 +147,7 @@
         {
             "title": "Cielo",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/cielo.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -159,11 +159,11 @@
         {
             "title": "Rai 5",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/rai5.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
-                    "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+                    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276",
                     "quality": "SD"
                 }
             ]
@@ -171,11 +171,11 @@
         {
             "title": "Rai Movie",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/raimovie.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
-                    "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+                    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002",
                     "quality": "SD"
                 }
             ]
@@ -183,11 +183,11 @@
         {
             "title": "Rai Premium",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/raipremium.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
-                    "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+                    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992",
                     "quality": "SD"
                 }
             ]
@@ -195,7 +195,7 @@
         {
             "title": "Paramount Network",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/paramountnetwork.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -207,7 +207,7 @@
         {
             "title": "TV2000",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/tv2000.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -219,7 +219,7 @@
         {
             "title": "LA7d",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/la7d.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -231,7 +231,7 @@
         {
             "title": "La 5",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/la5.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -243,7 +243,7 @@
         {
             "title": "Real Time",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/realt.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -255,7 +255,7 @@
         {
             "title": "QVC",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/qvc.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -267,7 +267,7 @@
         {
             "title": "FOOD NETWORK",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/food.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -279,7 +279,7 @@
         {
             "title": "Cine34",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/cine34.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -291,7 +291,7 @@
         {
             "title": "FOCUS",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/focus.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -303,7 +303,7 @@
         {
             "title": "RTL 102.5",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/rtl1025.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -315,7 +315,7 @@
         {
             "title": "GM24",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/gm24.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -327,7 +327,7 @@
         {
             "title": "Giallo",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/giallo.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -339,7 +339,7 @@
         {
             "title": "Top Crime",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/topcrime.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -351,7 +351,7 @@
         {
             "title": "Boing",
             "year": "",
-            "thumbnail": "Italy Channels\boing.png",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/boing.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -367,7 +367,7 @@
             "tmdb_id": "0",
             "links": [
                 {
-                    "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+                    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953",
                     "quality": "SD"
                 }
             ]
@@ -375,11 +375,11 @@
         {
             "title": "Rai Yoyo",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/raiyoyo.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
-                    "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+                    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899",
                     "quality": "SD"
                 }
             ]
@@ -387,7 +387,7 @@
         {
             "title": "Cartoonito",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/cartoonito.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -399,7 +399,7 @@
         {
             "title": "Super!",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/super.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -411,11 +411,11 @@
         {
             "title": "Rai News 24",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/rainews24.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
-                    "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+                    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1",
                     "quality": "SD"
                 }
             ]
@@ -423,7 +423,7 @@
         {
             "title": "Spike",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/spike.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -435,7 +435,7 @@
         {
             "title": "Sky TG24",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/skytg24.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -447,7 +447,7 @@
         {
             "title": "TGCOM 24",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/tgcom24.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -459,7 +459,7 @@
         {
             "title": "Dmax",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/dmax.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -471,11 +471,11 @@
         {
             "title": "Rai Storia",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/raistoria.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
-                    "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+                    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990",
                     "quality": "SD"
                 }
             ]
@@ -483,7 +483,7 @@
         {
             "title": "Mediaset Extra",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/mediasetextra.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -495,11 +495,11 @@
         {
             "title": "Rai Sport +",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/raisportplushd.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
-                    "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+                    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025",
                     "quality": "SD"
                 }
             ]
@@ -507,7 +507,7 @@
         {
             "title": "Motor Trend",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/motortrend.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -595,7 +595,7 @@
             "tmdb_id": "0",
             "links": [
                 {
-                    "url": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+                    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011",
                     "quality": "SD"
                 }
             ]
