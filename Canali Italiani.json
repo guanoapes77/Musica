@@ -7,7 +7,7 @@
             "tmdb_id": "0",
             "links": [
                 {
-                    "url": "rai1.m3u",
+                    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803",
                     "quality": "SD"
                 }
             ]
