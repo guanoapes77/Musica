@@ -1,9 +1,14 @@
 {
     "movies_list": [
         {
+<<<<<<< HEAD
             "title": "Rai 1 HD",
+=======
+            "title": "Rai 1HD",
+            "quality": "HD",
+>>>>>>> fe5a54ade791974d2f296529837cdcaec021a1bb
             "year": "",
-            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/rai.png?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/Rai1%20HD.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -13,9 +18,14 @@
             ]
         },
         {
+<<<<<<< HEAD
             "title": "Rai 2 HD",
+=======
+            "title": "Rai 2HD",
+            "quality": "HD",
+>>>>>>> fe5a54ade791974d2f296529837cdcaec021a1bb
             "year": "",
-            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/rai2.png?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/Rai2%20HD.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
@@ -25,9 +35,14 @@
             ]
         },
         {
+<<<<<<< HEAD
             "title": "Rai 3 HD",
+=======
+            "title": "Rai 3HD",
+            "quality": "HD",
+>>>>>>> fe5a54ade791974d2f296529837cdcaec021a1bb
             "year": "",
-            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/rai3.png?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/Rai3%20HD.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
