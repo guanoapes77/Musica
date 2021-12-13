@@ -1,7 +1,7 @@
 {
     "movies_list": [
         {
-            "title": "Rai 1",
+            "title": "Rai 1HD",
             "year": "",
             "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/rai.png?raw=true",
             "tmdb_id": "0",
@@ -13,7 +13,7 @@
             ]
         },
         {
-            "title": "Rai 2",
+            "title": "Rai 2HD",
             "year": "",
             "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/rai2.png?raw=true",
             "tmdb_id": "0",
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "title": "Rai 3",
+            "title": "Rai 3HD",
             "year": "",
             "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/rai3.png?raw=true",
             "tmdb_id": "0",
