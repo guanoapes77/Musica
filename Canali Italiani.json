@@ -2,8 +2,9 @@
     "movies_list": [
         {
             "title": "Rai 1HD",
+            "quality": "HD",
             "year": "",
-            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/rai.png?raw=true",
+            "thumbnail": "https://github.com/guanoapes77/Musica/blob/master/Italy%20Channels/Rai1%20HD.png?raw=true",
             "tmdb_id": "0",
             "links": [
                 {
