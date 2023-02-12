@@ -96,6 +96,17 @@
                 {
                     "url": "https://minerva-cinemasegreto-1-it.samsung.wurl.com/manifest/playlist.m3u8",
                     "quality": "SD"
+                 }
+            ]
+        },
+        {
+            "title": "Class CNBC",
+            "year": "",
+            "thumbnail": "https://i.imgur.com/3Ei5VHa.png",
+            "links": [
+                {
+                    "url": "https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8",
+                    "quality": "SD"
                 }
             ]
         },
